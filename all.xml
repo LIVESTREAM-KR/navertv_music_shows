@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 10:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 11:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[※콘서트 스포※ 커버, 앵콜多, new 수록곡 무대 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25557826</link>
+            <guid>https://tv.naver.com/v/25557826</guid>
+            <pubDate>Wed, 09 Mar 2022 11:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_51/uumxM_1646823817299iDXto_JPEG/CA202203090086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 기분 어떠냐는 질문에 화끈하게 백덤블링하는 아이돌 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25557704</link>
+            <guid>https://tv.naver.com/v/25557704</guid>
+            <pubDate>Wed, 09 Mar 2022 11:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_278/YXtmB_1646823213467WoEwA_JPEG/CA202203090082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 신곡] YG 막내 아들의 귀환! 트레저(TREASURE)의 ‘JIKJIN’♬ l EP.552 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25556083</link>
+            <guid>https://tv.naver.com/v/25556083</guid>
+            <pubDate>Wed, 09 Mar 2022 11:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_85/Y6Ffl_1646815958555O72k5_JPEG/CA202203090008_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방송선공개] 로봇미남의 로봇 댄스(?)를 얹으면 ‘아사히 로봇춤 최신버전‘ 다들 보고 싶다면 드루와♥ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25522238</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 08 Mar 2022 11:17:44 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_31/zcVnZ_1646199451922gBana_JPEG/CA202203020006_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 베일에 싸여있어도 빛나는 STAYC 수민 시은 아이사가 커버하는 소녀시대 - 태티서의 ＜Twinkle＞♬ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25384884</link>
-            <guid>https://tv.naver.com/v/25384884</guid>
-            <pubDate>Tue, 08 Mar 2022 11:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_203/PHA54_1646210863989Ey0NE_JPEG/CA202203020005_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 마! 일어나라! 스테이씨 봐야된디!! 스윗들을 위한 수민 아이사의 모닝콜 사투리 버전♥ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25384855</link>
-            <guid>https://tv.naver.com/v/25384855</guid>
-            <pubDate>Tue, 08 Mar 2022 11:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_111/6p8D4_1646036256913W19zw_JPEG/CA202203020004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 551회 STAYC 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25342080</link>
-            <guid>https://tv.naver.com/v/25342080</guid>
-            <pubDate>Tue, 08 Mar 2022 11:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_180/pyu4z_16460098574660EaHq_JPEG/CA202203020002_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
