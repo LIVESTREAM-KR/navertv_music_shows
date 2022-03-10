@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 06:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 07:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간아 직캠] 광희(Kwang Hee) X 트레저(TREASURE)의 'JIKJIN' 직캠 Ver. l EP.552 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25569288</link>
+            <guid>https://tv.naver.com/v/25569288</guid>
+            <pubDate>Thu, 10 Mar 2022 07:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_75/83Swu_1646891854251vg2mu_JPEG/CA202203090009_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다른 캔들 싹 다 비키라! 트레저의 ＜캔 컬링＞ 게임 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25558472</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 08 Mar 2022 11:17:44 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_60/MGse9_1646651853451wjWSa_JPEG/CA202203090004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 552회 TREASURE 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25470281</link>
-            <guid>https://tv.naver.com/v/25470281</guid>
-            <pubDate>Tue, 08 Mar 2022 11:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_128/GXZMu_1646380359278JAMT6_JPEG/CA202203090002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
