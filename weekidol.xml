@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 10:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 11:12:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간아 하드털이] 전율같은 놀라운 이 느낌💚 VOYAGER💙 기현이의 'BEBE'💜 바스트캠 Ver. l 몬스타엑스 기현(KIHYUN)]]></title>
+            <link>https://tv.naver.com/v/25638488</link>
+            <guid>https://tv.naver.com/v/25638488</guid>
+            <pubDate>Mon, 14 Mar 2022 11:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_12/78FdD_1647249157919PVwBJ_JPEG/CA202106020106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 553회 WEi 편 예고]]></title>
             <link>https://tv.naver.com/v/25591549</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Mar 2022 12:22:31 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220309_159/nIOaQ_1646816552857QGtQx_JPEG/CA202203090036_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] TREASURE CHOI HYUN SUK - JIKJIN (트레저 최현석 - 직진) l EP.552]]></title>
-            <link>https://tv.naver.com/v/25556225</link>
-            <guid>https://tv.naver.com/v/25556225</guid>
-            <pubDate>Wed, 09 Mar 2022 12:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_133/OJZv6_164681655160400DLl_JPEG/CA202203090040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
