@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 08:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 09:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간아 미방] 귀요미송♡ 트레저 (TREASURE) l EP.552]]></title>
+            <link>https://tv.naver.com/v/25657592</link>
+            <guid>https://tv.naver.com/v/25657592</guid>
+            <pubDate>Tue, 15 Mar 2022 09:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_75/HNkP9_1647333153708nnnar_JPEG/CA202203090104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간아 하드털이] 전율같은 놀라운 이 느낌💚 VOYAGER💙 기현이의 'BEBE'💜 바스트캠 Ver. l 몬스타엑스 기현(KIHYUN)]]></title>
             <link>https://tv.naver.com/v/25638488</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Mar 2022 12:22:31 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220309_200/6eDSh_1646816615204JeCtP_JPEG/CA202203090031_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] TREASURE JUNKYU - JIKJIN (트레저 준규 - 직진) l EP.552]]></title>
-            <link>https://tv.naver.com/v/25556254</link>
-            <guid>https://tv.naver.com/v/25556254</guid>
-            <pubDate>Wed, 09 Mar 2022 12:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_40/TnTTd_1646816614197M8e64_JPEG/CA202203090038_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
