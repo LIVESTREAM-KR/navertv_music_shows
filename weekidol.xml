@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 10:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 11:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간아 직캠] 승민 X 아이엔의 '바나나 알러지 원숭이' 직캠 Ver. l EP.554]]></title>
+            <link>https://tv.naver.com/v/25833122</link>
+            <guid>https://tv.naver.com/v/25833122</guid>
+            <pubDate>Thu, 24 Mar 2022 11:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_131/OiF7i_1648111625806Ch3uh_JPEG/CA202203230096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간아 미방] Stray Kids 현진, 한, 방찬의 애교송 (직캠 ver.)  l EP.554]]></title>
             <link>https://tv.naver.com/v/25827490</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Mar 2022 07:13:32 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220318_54/0UecG_1647569281899qHc8d_JPEG/CA202203160007_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist l 세로캠] WEi - Stay (위아이 - 스테이 (원곡 : BLACKPINK) ) l EP.553]]></title>
-            <link>https://tv.naver.com/v/25716897</link>
-            <guid>https://tv.naver.com/v/25716897</guid>
-            <pubDate>Sat, 19 Mar 2022 08:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_154/24dnR_16475692234892RqW4_JPEG/CA202203160048_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
