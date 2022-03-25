@@ -4,7 +4,7 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 06:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 07:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Thu, 24 Mar 2022 11:12:22 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_131/OiF7i_1648111625806Ch3uh_JPEG/CA202203230096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 짐벌캠] CRAVITY - Adrenaline (크래비티 - 아드레날린) l EP.549]]></title>
+            <link>https://tv.naver.com/v/25832690</link>
+            <guid>https://tv.naver.com/v/25832690</guid>
+            <pubDate>Fri, 25 Mar 2022 07:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_96/d8JTk_1648110722741IElcC_JPEG/CA202202160066_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 4K캠] CRAVITY - Adrenaline (크래비티 - 아드레날린) l EP.549]]></title>
+            <link>https://tv.naver.com/v/25832398</link>
+            <guid>https://tv.naver.com/v/25832398</guid>
+            <pubDate>Fri, 25 Mar 2022 07:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_177/86M1T_1648110179756L60m9_JPEG/CA202202160065_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간아 미방] Stray Kids 현진, 한, 방찬의 애교송 (직캠 ver.)  l EP.554]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 23 Mar 2022 12:24:15 GMT</pubDate>
             <content:encoded><![CDATA[3:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_163/ijKrr_16480165196612eT9A_JPEG/CA202203230013_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] Stray Kids FELIX - MANIAC (스트레이키즈 필릭스 - 매니악) l EP.554]]></title>
-            <link>https://tv.naver.com/v/25806895</link>
-            <guid>https://tv.naver.com/v/25806895</guid>
-            <pubDate>Wed, 23 Mar 2022 12:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_4/ExttX_1648016227159uWgam_JPEG/CA202203230015_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] Stray Kids HAN - MANIAC (스트레이키즈 한 - 매니악) l EP.554]]></title>
-            <link>https://tv.naver.com/v/25806894</link>
-            <guid>https://tv.naver.com/v/25806894</guid>
-            <pubDate>Wed, 23 Mar 2022 12:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_224/7yXas_1648016226306Kp58o_JPEG/CA202203230016_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
