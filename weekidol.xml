@@ -4,7 +4,7 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 02:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 03:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Fri, 25 Mar 2022 10:16:48 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_27/TwWkl_1648199225091Tx1bq_JPEG/CA202203300002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Playlist l 짐벌캠] Stray Kids - Call Me Baby (스트레이키즈 - 콜 미 베이비 (원곡 : EXO) ) l EP.554]]></title>
+            <link>https://tv.naver.com/v/25851283</link>
+            <guid>https://tv.naver.com/v/25851283</guid>
+            <pubDate>Sat, 26 Mar 2022 03:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_58/qfErD_1648189385418wiqdk_JPEG/CA202203230100_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 짐벌캠] Stray Kids - MANIAC (스트레이키즈 - 매니악) l EP.554]]></title>
+            <link>https://tv.naver.com/v/25850845</link>
+            <guid>https://tv.naver.com/v/25850845</guid>
+            <pubDate>Sat, 26 Mar 2022 03:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_151/a3HjR_1648188421723gSPa7_JPEG/CA202203230099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간아 직캠] CRAVITY HYEONGJUN - Adrenaline (크래비티 형준 - 아드레날린) l EP.549]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 23 Mar 2022 11:11:29 GMT</pubDate>
             <content:encoded><![CDATA[3:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_126/6rfoT_1648017120832dh8wY_JPEG/CA202203230006_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist] Stray Kids가 추는 EXO ＜CALL ME BABY＞♬]]></title>
-            <link>https://tv.naver.com/v/25807155</link>
-            <guid>https://tv.naver.com/v/25807155</guid>
-            <pubDate>Wed, 23 Mar 2022 12:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_159/UkKOj_164801832029835OUJ_JPEG/CA202203230009_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] Stray Kids SEUNGMIN - MANIAC (스트레이키즈 승민 - 매니악) l EP.554]]></title>
-            <link>https://tv.naver.com/v/25807051</link>
-            <guid>https://tv.naver.com/v/25807051</guid>
-            <pubDate>Wed, 23 Mar 2022 12:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_85/Tgmib_1648016582913cBN3b_JPEG/CA202203230012_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
