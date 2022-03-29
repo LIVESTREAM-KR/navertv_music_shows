@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 23:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 01:00:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[방송선공개] 미미는 못하는게 뭐야? 원 투 훅! 미라클 마음도 펀치 날려버리는 미미의 복싱 실력! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25896689</link>
+            <guid>https://tv.naver.com/v/25896689</guid>
+            <pubDate>Tue, 29 Mar 2022 01:00:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_284/dI1i5_1648452730989lsdfQ_JPEG/CA202203300005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] 병아린 시절 보고싶은사람?!아린이의 몸이 기억하고 있는 2022버전 아린 ＜BOO＞ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25896563</link>
+            <guid>https://tv.naver.com/v/25896563</guid>
+            <pubDate>Tue, 29 Mar 2022 01:00:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_125/sWWNk_1648452420902BkkHt_JPEG/CA202203300004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 555회 오마이걸 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25856265</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 23 Mar 2022 12:24:15 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_220/vugLD_1648025582041j4G8j_JPEG/CA202203230018_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 4K캠] Stray Kids - MANIAC (스트레이키즈 - 매니악) l EP.554 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25807662</link>
-            <guid>https://tv.naver.com/v/25807662</guid>
-            <pubDate>Wed, 23 Mar 2022 12:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_300/M0mZF_1648018021896cSTYW_JPEG/CA202203230008_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 신곡] 원조 마라돌의 귀환🔥 스트레이키즈(Stray Kids)의 ‘MANIAC’♬ l EP.554 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25807277</link>
-            <guid>https://tv.naver.com/v/25807277</guid>
-            <pubDate>Wed, 23 Mar 2022 11:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_126/6rfoT_1648017120832dh8wY_JPEG/CA202203230006_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
