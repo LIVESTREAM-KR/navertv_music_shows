@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 11:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 12:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25943388</link>
+            <guid>https://tv.naver.com/v/25943388</guid>
+            <pubDate>Wed, 30 Mar 2022 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[0:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_210/5lxpg_1648639920373fwqOu_JPEG/CA202203300099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최고의 아린맘에 뽑혀 눈물까지 흘린 효정 ㅠ.ㅠ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25943134</link>
+            <guid>https://tv.naver.com/v/25943134</guid>
+            <pubDate>Wed, 30 Mar 2022 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_197/E8k4K_1648639023559XYeyR_JPEG/CA202203300098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태연 선배님 짱팬 지호의 ＜INVU＞ 커버 댄스★ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/25943072</link>
@@ -70,6 +86,78 @@
             <pubDate>Wed, 30 Mar 2022 11:13:12 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_25/Ix07i_16486378284156GFb3_JPEG/CA202203300089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 짐벌캠] 오마이걸 'Real Love’ 짐벌캠 l EP.555 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25940242</link>
+            <guid>https://tv.naver.com/v/25940242</guid>
+            <pubDate>Wed, 30 Mar 2022 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_91/U4DQQ_1648630024317fasan_JPEG/CA202203300034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Playlist] 오마이걸이 부르는 태연의 ‘Weekend’♬ l EP.555 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25935999</link>
+            <guid>https://tv.naver.com/v/25935999</guid>
+            <pubDate>Wed, 30 Mar 2022 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_151/HWaVp_1648619822762PyPHY_JPEG/CA202203300035_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] 오마이걸 효정 ‘Real Love’ 직캠 l EP.555 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25931592</link>
+            <guid>https://tv.naver.com/v/25931592</guid>
+            <pubDate>Wed, 30 Mar 2022 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_152/QmZcv_16486069233004Lh3E_JPEG/CA202203300027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] 오마이걸 아린 ‘Real Love’ 직캠 l EP.555 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25931589</link>
+            <guid>https://tv.naver.com/v/25931589</guid>
+            <pubDate>Wed, 30 Mar 2022 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_89/EN0oq_1648606922333ryivG_JPEG/CA202203300032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] 오마이걸 승희 ‘Real Love’ 직캠 l EP.555 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25931588</link>
+            <guid>https://tv.naver.com/v/25931588</guid>
+            <pubDate>Wed, 30 Mar 2022 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_293/1kwEC_1648606921370zVppr_JPEG/CA202203300029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] 오마이걸 유빈 ‘Real Love’ 직캠 l EP.555 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25931509</link>
+            <guid>https://tv.naver.com/v/25931509</guid>
+            <pubDate>Wed, 30 Mar 2022 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_143/CA9uC_1648606630628qnmaa_JPEG/CA202203300031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] 오마이걸 지호 ‘Real Love’ 직캠 l EP.555 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25931507</link>
+            <guid>https://tv.naver.com/v/25931507</guid>
+            <pubDate>Wed, 30 Mar 2022 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_276/qZU3n_1648606629582yebFI_JPEG/CA202203300030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] 오마이걸 유아 ‘Real Love’ 직캠 l EP.555 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25931506</link>
+            <guid>https://tv.naver.com/v/25931506</guid>
+            <pubDate>Wed, 30 Mar 2022 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_185/mgGYF_1648606628554RwlLI_JPEG/CA202203300028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] 오마이걸 미미 ‘Real Love’ 직캠 l EP.555 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/25931380</link>
+            <guid>https://tv.naver.com/v/25931380</guid>
+            <pubDate>Wed, 30 Mar 2022 12:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_236/nk55q_1648606321822wd6db_JPEG/CA202203300026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간신곡] 먹구름도 pink 하늘로 바꾸는 케이팝 요정 컴백✨ 오마이걸(OH MY GIRL)의 ‘Real Love'♬ l EP.555 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -158,94 +246,6 @@
             <pubDate>Fri, 25 Mar 2022 06:17:48 GMT</pubDate>
             <content:encoded><![CDATA[3:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_175/TuMxV_1648185419682hDWiY_JPEG/CA202202160071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] CRAVITY ALLEN - Adrenaline (크래비티 앨런 - 아드레날린) l EP.549 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25849372</link>
-            <guid>https://tv.naver.com/v/25849372</guid>
-            <pubDate>Fri, 25 Mar 2022 06:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_206/KfngS_16481849063318fOGm_JPEG/CA202202160070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] CRAVITY SERIM - Adrenaline (크래비티 세림 - 아드레날린) l EP.549 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25849371</link>
-            <guid>https://tv.naver.com/v/25849371</guid>
-            <pubDate>Fri, 25 Mar 2022 06:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_287/rqsJz_1648184905401roNze_JPEG/CA202202160069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] CRAVITY SEONGMIN - Adrenaline (크래비티 성민 - 아드레날린) l EP.549 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25849343</link>
-            <guid>https://tv.naver.com/v/25849343</guid>
-            <pubDate>Fri, 25 Mar 2022 06:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_37/Ub1yA_1648184872179gs7Oz_JPEG/CA202202160068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] CRAVITY MINHEE - Adrenaline (크래비티 민희 - 아드레날린) l EP.549 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25849329</link>
-            <guid>https://tv.naver.com/v/25849329</guid>
-            <pubDate>Fri, 25 Mar 2022 06:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_42/7QI0u_1648184822009KJ2U0_JPEG/CA202202160067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] 승민 X 아이엔의 '바나나 알러지 원숭이' 직캠 Ver. l EP.554 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25833122</link>
-            <guid>https://tv.naver.com/v/25833122</guid>
-            <pubDate>Thu, 24 Mar 2022 11:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_131/OiF7i_1648111625806Ch3uh_JPEG/CA202203230096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 짐벌캠] CRAVITY - Adrenaline (크래비티 - 아드레날린) l EP.549 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25832690</link>
-            <guid>https://tv.naver.com/v/25832690</guid>
-            <pubDate>Fri, 25 Mar 2022 07:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_96/d8JTk_1648110722741IElcC_JPEG/CA202202160066_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 4K캠] CRAVITY - Adrenaline (크래비티 - 아드레날린) l EP.549 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25832398</link>
-            <guid>https://tv.naver.com/v/25832398</guid>
-            <pubDate>Fri, 25 Mar 2022 07:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_177/86M1T_1648110179756L60m9_JPEG/CA202202160065_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 미방] Stray Kids 현진, 한, 방찬의 애교송 (직캠 ver.)  l EP.554 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25827490</link>
-            <guid>https://tv.naver.com/v/25827490</guid>
-            <pubDate>Thu, 24 Mar 2022 06:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_78/DqftP_1648099622256xH5PS_JPEG/CA202203230093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜둠칫둠칫! 기억력 STAY 댄스＞ 우승자는 누구?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25814667</link>
-            <guid>https://tv.naver.com/v/25814667</guid>
-            <pubDate>Wed, 23 Mar 2022 12:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[8:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_15/Ul6oh_1648035419506lSjnv_JPEG/CA202203230060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25814564</link>
-            <guid>https://tv.naver.com/v/25814564</guid>
-            <pubDate>Wed, 23 Mar 2022 12:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[0:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_84/jDFXy_1648035127762Rekjl_JPEG/CA202203230061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[복X승X아 유닛의 ＜바나나 알러지 원숭이＞ 커버↗ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25814374</link>
-            <guid>https://tv.naver.com/v/25814374</guid>
-            <pubDate>Wed, 23 Mar 2022 12:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_157/NRL8M_1648034582617mzVx7_JPEG/CA202203230059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
