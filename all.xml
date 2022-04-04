@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 09:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 10:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간아 하드털이] ITZY에게 냅다 조언을 날린 유아?!(특 : 옴걸피셜) 난 이친목 절대 환영해..💗 l EP.555 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26028514</link>
+            <guid>https://tv.naver.com/v/26028514</guid>
+            <pubDate>Mon, 04 Apr 2022 10:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_281/S52ik_16490632208198Bt0I_JPEG/CA202203300121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 556회 아이브 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26018205</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Mar 2022 06:17:48 GMT</pubDate>
             <content:encoded><![CDATA[3:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_288/MGoXT_1648185720535TQeiM_JPEG/CA202202160075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] CRAVITY WONJIN - Adrenaline (크래비티 원진 - 아드레날린) l EP.549 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25849679</link>
-            <guid>https://tv.naver.com/v/25849679</guid>
-            <pubDate>Fri, 25 Mar 2022 06:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_256/GQoQA_1648185719438p6wMw_JPEG/CA202202160072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
