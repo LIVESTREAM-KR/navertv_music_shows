@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 10:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 11:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간아 하드털이] 누군가 K-삼행시를 묻는다면.. 고개를 들어 현승희를 보게하라★ l EP.555]]></title>
+            <link>https://tv.naver.com/v/26029084</link>
+            <guid>https://tv.naver.com/v/26029084</guid>
+            <pubDate>Mon, 04 Apr 2022 11:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_71/9Wabx_1649064721983y3xGy_JPEG/CA202203300122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간아 하드털이] ITZY에게 냅다 조언을 날린 유아?!(특 : 옴걸피셜) 난 이친목 절대 환영해..💗 l EP.555]]></title>
             <link>https://tv.naver.com/v/26028514</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 26 Mar 2022 03:19:05 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_151/a3HjR_1648188421723gSPa7_JPEG/CA202203230099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] CRAVITY HYEONGJUN - Adrenaline (크래비티 형준 - 아드레날린) l EP.549]]></title>
-            <link>https://tv.naver.com/v/25849680</link>
-            <guid>https://tv.naver.com/v/25849680</guid>
-            <pubDate>Fri, 25 Mar 2022 06:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_288/MGoXT_1648185720535TQeiM_JPEG/CA202202160075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
