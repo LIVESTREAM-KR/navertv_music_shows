@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 23:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 00:58:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Mon, 04 Apr 2022 10:15:37 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220404_281/S52ik_16490632208198Bt0I_JPEG/CA202203300121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] 드디어 도전하는 IVE의 ＜ELEVEN＞ 2배속 댄스! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26025636</link>
+            <guid>https://tv.naver.com/v/26025636</guid>
+            <pubDate>Tue, 05 Apr 2022 00:58:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_51/cPQ6r_1649056624820ghkmx_JPEG/CA202204060005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미방선공개] 아이브 인형즈! 원영 이서의 심장 살살 녹는 귀요미♥ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26025518</link>
+            <guid>https://tv.naver.com/v/26025518</guid>
+            <pubDate>Tue, 05 Apr 2022 00:58:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_46/d2kLk_1649056323461spIgd_JPEG/CA202204060004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주간아이돌 556회 아이브 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 25 Mar 2022 10:16:48 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_27/TwWkl_1648199225091Tx1bq_JPEG/CA202203300002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist l 짐벌캠] Stray Kids - Call Me Baby (스트레이키즈 - 콜 미 베이비 (원곡 : EXO) ) l EP.554 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25851283</link>
-            <guid>https://tv.naver.com/v/25851283</guid>
-            <pubDate>Sat, 26 Mar 2022 03:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_58/qfErD_1648189385418wiqdk_JPEG/CA202203230100_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 짐벌캠] Stray Kids - MANIAC (스트레이키즈 - 매니악) l EP.554 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/25850845</link>
-            <guid>https://tv.naver.com/v/25850845</guid>
-            <pubDate>Sat, 26 Mar 2022 03:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_151/a3HjR_1648188421723gSPa7_JPEG/CA202203230099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
