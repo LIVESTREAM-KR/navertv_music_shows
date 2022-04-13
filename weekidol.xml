@@ -4,7 +4,7 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 12:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 13:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Wed, 13 Apr 2022 11:12:39 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_21/WAgAY_164984712029215Ipf_JPEG/CA202204130075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Playlist l 짐벌캠] DREAMCATCHER - Something (드림캐쳐 - 썸띵 (원곡 : 걸스데이)) l EP.557]]></title>
+            <link>https://tv.naver.com/v/26203825</link>
+            <guid>https://tv.naver.com/v/26203825</guid>
+            <pubDate>Wed, 13 Apr 2022 13:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_172/vw1kZ_1649830082426WWgBu_JPEG/CA202204130007_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간아 4K캠] DREAMCATCHER - MAISON (드림캐쳐 - 메종) l EP.557]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Apr 2022 12:25:42 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220406_245/qGiZV_1649244725770jVNvD_JPEG/CA202204060086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[07년생 이서가 알려주는 리얼휴먼급식체!]]></title>
-            <link>https://tv.naver.com/v/26077849</link>
-            <guid>https://tv.naver.com/v/26077849</guid>
-            <pubDate>Wed, 06 Apr 2022 12:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_87/kQlGt_1649244721181aT7xO_JPEG/CA202204060085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
