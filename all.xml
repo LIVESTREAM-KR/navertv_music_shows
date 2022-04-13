@@ -4,9 +4,57 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 10:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 11:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지켜주고 싶은 다미♥ 그리고 다미를 화나게한 그녀♨ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26210751</link>
+            <guid>https://tv.naver.com/v/26210751</guid>
+            <pubDate>Wed, 13 Apr 2022 11:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_245/ajSJD_16498483239268C5my_JPEG/CA202204130080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수아x시연의 ＂Goodbye (by태민)＂ COVER (2022년 ver.) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26210700</link>
+            <guid>https://tv.naver.com/v/26210700</guid>
+            <pubDate>Wed, 13 Apr 2022 11:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_119/L1jPW_1649848081776PMPtW_JPEG/CA202204130079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이돌이 아닌 드림캐쳐 상상해 보기 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26210594</link>
+            <guid>https://tv.naver.com/v/26210594</guid>
+            <pubDate>Wed, 13 Apr 2022 11:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_181/X1o1j_1649847724503Ne3ls_JPEG/CA202204130078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꿈의 요정 드림캐쳐가 일어나자마자 하는 버릇은!? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26210593</link>
+            <guid>https://tv.naver.com/v/26210593</guid>
+            <pubDate>Wed, 13 Apr 2022 11:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_16/FmT5Y_164984772319806VHD_JPEG/CA202204130077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드림캐쳐도 감당 안되는 드림캐쳐 텐션↖＞0＜↗ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26210408</link>
+            <guid>https://tv.naver.com/v/26210408</guid>
+            <pubDate>Wed, 13 Apr 2022 11:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_21/WAgAY_164984712029215Ipf_JPEG/CA202204130075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 신곡] 아포칼립스 세계관의 시작! DREAMCATCHER(드림캐쳐)의 'MAISON'♬ l EP.557 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26203167</link>
+            <guid>https://tv.naver.com/v/26203167</guid>
+            <pubDate>Wed, 13 Apr 2022 11:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_259/34Q7Y_1649828525117nP9tA_JPEG/CA202204130019_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방송선공개] 귀엽고 애교쟁이인 시연이! 귀여움 창작 시연이의 ‘고양이 송’ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26161683</link>
@@ -198,54 +246,6 @@
             <pubDate>Wed, 06 Apr 2022 12:25:42 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220406_228/omZHY_1649213581839GYgsT_JPEG/CA202204060024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] IVE YUJIN - LOVE DIVE (아이브 유진 - 러브 다이브) l EP.556 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26064297</link>
-            <guid>https://tv.naver.com/v/26064297</guid>
-            <pubDate>Wed, 06 Apr 2022 12:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_234/XLtu8_1649213580654oPjWi_JPEG/CA202204060023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist] 누구 할머니요? Fifth Harmony요! IVE가 부르고 IVE 추는 Fifth Harmony의 'That's My girl'♬ l EP.55 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26064148</link>
-            <guid>https://tv.naver.com/v/26064148</guid>
-            <pubDate>Wed, 06 Apr 2022 12:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_199/6G7hv_164921322282495uLk_JPEG/CA202204060013_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 4K캠] IVE - LOVE DIVE (아이브 - 러브 다이브) l EP.556 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26063924</link>
-            <guid>https://tv.naver.com/v/26063924</guid>
-            <pubDate>Wed, 06 Apr 2022 12:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_35/gFnQ4_1649212682307drss2_JPEG/CA202204060015_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 신곡] 6명의 큐피드로 돌아온 IVE(아이브)의 'LOVE DIVE'♬ l EP.556 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26063365</link>
-            <guid>https://tv.naver.com/v/26063365</guid>
-            <pubDate>Wed, 06 Apr 2022 11:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_248/8aiQE_16492114283721EWQu_JPEG/CA202204060014_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 하드털이] 누군가 K-삼행시를 묻는다면.. 고개를 들어 현승희를 보게하라★ l EP.555 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26029084</link>
-            <guid>https://tv.naver.com/v/26029084</guid>
-            <pubDate>Mon, 04 Apr 2022 11:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_71/9Wabx_1649064721983y3xGy_JPEG/CA202203300122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 하드털이] ITZY에게 냅다 조언을 날린 유아?!(특 : 옴걸피셜) 난 이친목 절대 환영해..💗 l EP.555 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26028514</link>
-            <guid>https://tv.naver.com/v/26028514</guid>
-            <pubDate>Mon, 04 Apr 2022 10:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_281/S52ik_16490632208198Bt0I_JPEG/CA202203300121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
