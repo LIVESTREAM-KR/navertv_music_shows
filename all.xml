@@ -4,9 +4,57 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 10:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 11:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[＂팝핀 프리댄스＂부터 ＂슈퍼그럼요＂까지! 댄스배틀 가보자고~! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26347508</link>
+            <guid>https://tv.naver.com/v/26347508</guid>
+            <pubDate>Wed, 20 Apr 2022 11:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_86/48aj8_16504528874584jk4f_JPEG/CA202204200091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[입 떡 벌어지는 요즘 신인 아이돌의 묘기 클라쓰 ㅇ0ㅇ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26347506</link>
+            <guid>https://tv.naver.com/v/26347506</guid>
+            <pubDate>Wed, 20 Apr 2022 11:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_256/Wwk7c_1650452885943PSNEu_JPEG/CA202204200093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DKZx저스트비의 시맨틱 에러 명대사 '10그안' (애교 ver.) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26347474</link>
+            <guid>https://tv.naver.com/v/26347474</guid>
+            <pubDate>Wed, 20 Apr 2022 11:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_252/fmBdw_1650453122317563Wg_JPEG/CA202204200088_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정주행을 노리는 DKZ의 ＜사랑도둑＞♬ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26347405</link>
+            <guid>https://tv.naver.com/v/26347405</guid>
+            <pubDate>Wed, 20 Apr 2022 11:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_9/Am7Cy_1650452529341L288Q_JPEG/CA202204200087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은혁 미담과 함께 온 저스트비♥ (ft.오만원) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26347251</link>
+            <guid>https://tv.naver.com/v/26347251</guid>
+            <pubDate>Wed, 20 Apr 2022 11:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_65/yMFBS_1650451985887J3H1M_JPEG/CA202204200084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[광희에게 특강 받은 재찬이의 예능감은?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26347248</link>
+            <guid>https://tv.naver.com/v/26347248</guid>
+            <pubDate>Wed, 20 Apr 2022 11:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_107/X72VA_1650451984406x2AyC_JPEG/CA202204200083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방송선공개] 심장 도둑맞으신 분...? 뽤로미! DKZ 재찬이의 갓기애교♥ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26299205</link>
@@ -198,54 +246,6 @@
             <pubDate>Wed, 13 Apr 2022 12:24:06 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_37/lBU0f_1649827389441EmL5X_JPEG/CA202204130026_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] DREAMCATCHER SIYEON - MAISON (드림캐쳐 시연 - 메종) l EP.557 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26202724</link>
-            <guid>https://tv.naver.com/v/26202724</guid>
-            <pubDate>Wed, 13 Apr 2022 12:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_1/K9xaB_1649827388379EGsvh_JPEG/CA202204130024_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] DREAMCATCHER SUA - MAISON (드림캐쳐 수아 - 메종) l EP.557 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26202722</link>
-            <guid>https://tv.naver.com/v/26202722</guid>
-            <pubDate>Wed, 13 Apr 2022 12:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_106/4gw2y_1649827387413PoWV1_JPEG/CA202204130023_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 귀엽고 애교쟁이인 시연이! 귀여움 창작 시연이의 ‘고양이 송’ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26161683</link>
-            <guid>https://tv.naver.com/v/26161683</guid>
-            <pubDate>Tue, 12 Apr 2022 00:59:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220411_60/QRYPT_1649660822948gxvO8_JPEG/CA202204130006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 수아는 랩도 잘해...방송 최초 선보이는 MC 수라상 재치만점 랩! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26161572</link>
-            <guid>https://tv.naver.com/v/26161572</guid>
-            <pubDate>Tue, 12 Apr 2022 00:59:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220411_85/CF2hb_1649660523912AGfTE_JPEG/CA202204130004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 557회 드림캐쳐 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26116841</link>
-            <guid>https://tv.naver.com/v/26116841</guid>
-            <pubDate>Fri, 08 Apr 2022 10:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_259/dGHhZ_1649402587544xVj0S_JPEG/CA202204130002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[※성량 폭발※ IVE표 고요 속의 외침 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26078524</link>
-            <guid>https://tv.naver.com/v/26078524</guid>
-            <pubDate>Wed, 06 Apr 2022 12:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[8:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_29/T1XjI_1649246520944JDFQh_JPEG/CA202204060088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
