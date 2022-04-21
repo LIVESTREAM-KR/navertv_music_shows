@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 08:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 09:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -224,6 +224,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_212/TIFGp_1650421923546fhjio_JPEG/CA202204200029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간 신곡] 해드리겠습니다..우쭈쭈..우쭈쭈..♡ 디케이지(DKZ)의 ‘사랑도둑(Cupid)’♬ l EP.558 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26335498</link>
+            <guid>https://tv.naver.com/v/26335498</guid>
+            <pubDate>Thu, 21 Apr 2022 09:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_25/me2X8_1650421920087hKBAG_JPEG/CA202204200028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간아 4K캠] DKZ - Cupid (디케이지 - 사랑도둑) l EP.558 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26335411</link>
             <guid>https://tv.naver.com/v/26335411</guid>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Apr 2022 12:27:30 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_276/f40ij_1650421623135m7lPk_JPEG/CA202204200027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 심장 도둑맞으신 분...? 뽤로미! DKZ 재찬이의 갓기애교♥ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26299205</link>
-            <guid>https://tv.naver.com/v/26299205</guid>
-            <pubDate>Thu, 21 Apr 2022 04:40:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_142/B4I9m_1650270121311PofxR_JPEG/CA202204200007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
