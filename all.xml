@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 09:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 10:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주간아이돌 559회 VERIVERY 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26387139</link>
+            <guid>https://tv.naver.com/v/26387139</guid>
+            <pubDate>Fri, 22 Apr 2022 10:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220422_294/SuIUi_1650615719436XklqT_JPEG/CA202204270002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재찬 보유 그룹 동키즈의 표정 연기 (ft.생양파) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26348192</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Apr 2022 12:27:30 GMT</pubDate>
             <content:encoded><![CDATA[3:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_158/xxiz8_1650421624372snyxl_JPEG/CA202204200009_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 신곡] RAGE 3부작의 완결판! 저스트비(JUST B)의 ‘RE=LOAD’♬ l EP.558 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26335410</link>
-            <guid>https://tv.naver.com/v/26335410</guid>
-            <pubDate>Wed, 20 Apr 2022 12:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_276/f40ij_1650421623135m7lPk_JPEG/CA202204200027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
