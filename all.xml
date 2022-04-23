@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 11:12:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 12:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_255/G6RTp_1650422286943Ow70I_JPEG/CA202204200003_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26404536</link>
+            <guid>https://tv.naver.com/v/26404536</guid>
+            <pubDate>Sat, 23 Apr 2022 12:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[15:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_124/3tt3i_1650716232874iq0y9_JPEG/e40cb810-38e2-4373-b813-2994818331d0_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동태 싸움부터 붐절남 놀리기까지 ^_^ 놀토 멤버들 케미 모음.zip♡#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26404535</link>
+            <guid>https://tv.naver.com/v/26404535</guid>
+            <pubDate>Sat, 23 Apr 2022 12:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[12:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_101/qKAaW_1650716230606GzGU7_JPEG/c5d60e61-8973-42ef-9fcd-53a0c8149603_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[열정'만' 100% ㅋㅋ 아낌 없이 힌트 주는 우리의 마더 테레선(화)..♥ | tvN 211030 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/23255090</link>
             <guid>https://tv.naver.com/v/23255090</guid>
@@ -470,22 +486,6 @@
             <pubDate>Tue, 08 Mar 2022 11:08:49 GMT</pubDate>
             <content:encoded><![CDATA[10:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210224_103/1r999_1614178669123njDqG_JPEG/B120188696_EPI0126_21_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 뭬이야? 정육점 조명 속 박나래 여인천하! | tvN 200919 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/15843092</link>
-            <guid>https://tv.naver.com/v/15843092</guid>
-            <pubDate>Tue, 08 Mar 2022 11:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210224_154/lcKFP_1614178316320x9xe2_JPEG/B120188696_EPI0126_24_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 받쓰 도플갱어 81년생 동현과 99년생 도연 | tvN 200919 방송 (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/15843090</link>
-            <guid>https://tv.naver.com/v/15843090</guid>
-            <pubDate>Tue, 08 Mar 2022 11:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210224_177/o8xvW_1614178314713om6Lw_JPEG/B120188696_EPI0126_23_B.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
