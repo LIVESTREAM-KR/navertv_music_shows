@@ -4,7 +4,7 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 05:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 06:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_99/N4H5k_16504318210538EsGt_JPEG/CA202204200033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간아 짐벌캠] JUST B - RE=LOAD (저스트비 - 리로드) l EP.558]]></title>
+            <link>https://tv.naver.com/v/26338651</link>
+            <guid>https://tv.naver.com/v/26338651</guid>
+            <pubDate>Sat, 23 Apr 2022 06:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_53/bK1Ad_1650431819171UUaDg_JPEG/CA202204200012_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 짐벌캠] DKZ - Cupid (디케이지 - 사랑도둑) l EP.558]]></title>
+            <link>https://tv.naver.com/v/26338442</link>
+            <guid>https://tv.naver.com/v/26338442</guid>
+            <pubDate>Sat, 23 Apr 2022 06:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_295/dIYvZ_1650431282031rd3hD_JPEG/CA202204200010_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Playlist l 짐벌캠] JUST B - 90's Love (저스트비 - 나인티스 러브 (원곡 :NCT U) l EP.558]]></title>
+            <link>https://tv.naver.com/v/26335908</link>
+            <guid>https://tv.naver.com/v/26335908</guid>
+            <pubDate>Sat, 23 Apr 2022 06:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_76/Vp7dV_1650423186587vvvaO_JPEG/CA202204200013_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Weekly Playlist l 4K캠] DKZ - TOMBOY (디케이지 - 톰보이 (원곡 : 여자)아이들)) l EP.558]]></title>
             <link>https://tv.naver.com/v/26335777</link>
             <guid>https://tv.naver.com/v/26335777</guid>
@@ -208,44 +232,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_144/hABhH_1650422824842nOYrW_JPEG/CA202204200008_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Weekly Playlist l 짐벌캠] DKZ - TOMBOY (디케이지 - 톰보이 (원곡 : 여자)아이들)) l EP.558]]></title>
+            <link>https://tv.naver.com/v/26335776</link>
+            <guid>https://tv.naver.com/v/26335776</guid>
+            <pubDate>Sat, 23 Apr 2022 06:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_157/xv0PD_1650422823341A4XJy_JPEG/CA202204200011_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Weekly Playlist l 4K캠] JUST B - 90's Love (저스트비 - 나인티스 러브 (원곡 :NCT U) l EP.558]]></title>
             <link>https://tv.naver.com/v/26335607</link>
             <guid>https://tv.naver.com/v/26335607</guid>
             <pubDate>Wed, 20 Apr 2022 12:27:30 GMT</pubDate>
             <content:encoded><![CDATA[2:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_255/G6RTp_1650422286943Ow70I_JPEG/CA202204200003_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist] JUST B가 전해주는 90년대 사랑이야기 NCT U ＜90's Love＞♬ Full ver. l EP.558]]></title>
-            <link>https://tv.naver.com/v/26335501</link>
-            <guid>https://tv.naver.com/v/26335501</guid>
-            <pubDate>Wed, 20 Apr 2022 12:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_296/Cg6hR_1650421924877DWtCJ_JPEG/CA202204200030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist] DKZ의 색깔로 바뀐 (여자)아이들의 ＜TOMBOY＞♬ Full ver. l EP.558]]></title>
-            <link>https://tv.naver.com/v/26335500</link>
-            <guid>https://tv.naver.com/v/26335500</guid>
-            <pubDate>Wed, 20 Apr 2022 12:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_212/TIFGp_1650421923546fhjio_JPEG/CA202204200029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 신곡] 해드리겠습니다..우쭈쭈..우쭈쭈..♡ 디케이지(DKZ)의 ‘사랑도둑(Cupid)’♬ l EP.558]]></title>
-            <link>https://tv.naver.com/v/26335498</link>
-            <guid>https://tv.naver.com/v/26335498</guid>
-            <pubDate>Thu, 21 Apr 2022 09:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_25/me2X8_1650421920087hKBAG_JPEG/CA202204200028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 4K캠] DKZ - Cupid (디케이지 - 사랑도둑) l EP.558]]></title>
-            <link>https://tv.naver.com/v/26335411</link>
-            <guid>https://tv.naver.com/v/26335411</guid>
-            <pubDate>Wed, 20 Apr 2022 12:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_158/xxiz8_1650421624372snyxl_JPEG/CA202204200009_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
