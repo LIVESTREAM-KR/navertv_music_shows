@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 11:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 12:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간아 하드털이] 비비지 덕후가 벅차올라서 ㄹㅇ 하드 털어왔습니다 ✨주간아 2배속 댄스의 창시자!✨ VIVIZ의 안대 댄스 (소름주의...) l EP.548 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26520920</link>
+            <guid>https://tv.naver.com/v/26520920</guid>
+            <pubDate>Fri, 29 Apr 2022 12:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_36/Id46W_16512232260397gJng_JPEG/CA202202090048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['랜덤 플레이 댄스? 찢어주마' ~5분 뒤~ 너덜너덜 찢긴 베리베리♨ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26480711</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Apr 2022 10:16:29 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_294/SuIUi_1650615719436XklqT_JPEG/CA202204270002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재찬 보유 그룹 동키즈의 표정 연기 (ft.생양파) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26348192</link>
-            <guid>https://tv.naver.com/v/26348192</guid>
-            <pubDate>Wed, 20 Apr 2022 12:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[4:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_173/pyidx_1650455226337JlyvQ_JPEG/CA202204200103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
