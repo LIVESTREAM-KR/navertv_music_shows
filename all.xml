@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 23:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 01:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[방송선공개] 개인기가 R&B요?! 퍼플키스 최고 명창 수안이가 커버하는 문별의 ＜달이 태양을 가릴 때(Eclipse)＞♬ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26559281</link>
+            <guid>https://tv.naver.com/v/26559281</guid>
+            <pubDate>Tue, 03 May 2022 01:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_252/vCjkR_1651473422637L0Hvx_JPEG/CA202205040005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] 세상에서 가장 힙한 상어가 있다?! 주간아에 다시 돌아온 문별 상어! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26559280</link>
+            <guid>https://tv.naver.com/v/26559280</guid>
+            <pubDate>Tue, 03 May 2022 01:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_247/rzMeb_1651473421206AH2hH_JPEG/CA202205040004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 560회 문별&퍼플키스편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26521046</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 27 Apr 2022 11:12:49 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220427_154/GGIgY_1651065425716VDlGm_JPEG/CA202204270021_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist] 베리베리가 커버하는 EXO의  ‘3.6.5’ Full ver. l EP.559 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26467773</link>
-            <guid>https://tv.naver.com/v/26467773</guid>
-            <pubDate>Wed, 27 Apr 2022 12:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220427_195/P9qPr_16510261206736BhL0_JPEG/CA202204270020_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] (아무설명없음) 베리베리 메인보컬 연호가 부릅니다 SUPER JUNIOR ＜Callin'＞ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26427911</link>
-            <guid>https://tv.naver.com/v/26427911</guid>
-            <pubDate>Tue, 26 Apr 2022 01:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220425_143/RsUBB_1650867124171ULxaP_JPEG/CA202204270006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
