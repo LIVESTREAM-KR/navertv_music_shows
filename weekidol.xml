@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 09:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 10:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주간아이돌 561회 LE SSERAFIM 편 예고]]></title>
+            <link>https://tv.naver.com/v/26635253</link>
+            <guid>https://tv.naver.com/v/26635253</guid>
+            <pubDate>Fri, 06 May 2022 10:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_69/mRsh8_1651825052979MSFHe_JPEG/CA202205110002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
             <link>https://tv.naver.com/v/26607093</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Apr 2022 12:26:53 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220429_36/Id46W_16512232260397gJng_JPEG/CA202202090048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist l 세로캠] VERIVERY - 3.6.5 (베리베리 - 3.6.5 (원곡 : EXO) ) l EP.559]]></title>
-            <link>https://tv.naver.com/v/26497539</link>
-            <guid>https://tv.naver.com/v/26497539</guid>
-            <pubDate>Sat, 30 Apr 2022 06:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_77/nSsrl_1651133821037ziGPg_JPEG/CA202204270065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
