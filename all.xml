@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 05:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 06:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간아 짐벌캠] PURPLE KISS - Pretty Psycho (퍼플키스 - 프리티 사이코) l EP.560 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26635348</link>
+            <guid>https://tv.naver.com/v/26635348</guid>
+            <pubDate>Sat, 07 May 2022 06:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_104/MU4QX_1651825323531XiPvt_JPEG/CA202205040106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 561회 LE SSERAFIM 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26635253</link>
@@ -14,6 +22,22 @@
             <pubDate>Fri, 06 May 2022 10:16:13 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220506_69/mRsh8_1651825052979MSFHe_JPEG/CA202205110002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 짐벌캠] MOONBYUL  - C.I.T.T (문별 - 치즈인더트랩) l EP.560 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26635221</link>
+            <guid>https://tv.naver.com/v/26635221</guid>
+            <pubDate>Sat, 07 May 2022 06:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_209/20uaQ_1651825022732XYDhj_JPEG/CA202205040105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Playlist l 짐벌캠] PURPLE KISS - MAMAMOO medley (퍼플키스 - 마마무 메들리) l EP.560 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26634888</link>
+            <guid>https://tv.naver.com/v/26634888</guid>
+            <pubDate>Sat, 07 May 2022 06:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_32/YliRU_1651824126033NDrnS_JPEG/CA202205040104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 03 May 2022 01:13:00 GMT</pubDate>
             <content:encoded><![CDATA[1:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220502_252/vCjkR_1651473422637L0Hvx_JPEG/CA202205040005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 세상에서 가장 힙한 상어가 있다?! 주간아에 다시 돌아온 문별 상어! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26559280</link>
-            <guid>https://tv.naver.com/v/26559280</guid>
-            <pubDate>Tue, 03 May 2022 01:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_247/rzMeb_1651473421206AH2hH_JPEG/CA202205040004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 560회 문별&퍼플키스편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26521046</link>
-            <guid>https://tv.naver.com/v/26521046</guid>
-            <pubDate>Mon, 02 May 2022 01:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_98/VARkr_165122352019602w9l_JPEG/CA202205040002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 하드털이] 비비지 덕후가 벅차올라서 ㄹㅇ 하드 털어왔습니다 ✨주간아 2배속 댄스의 창시자!✨ VIVIZ의 안대 댄스 (소름주의...) l EP.548 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26520920</link>
-            <guid>https://tv.naver.com/v/26520920</guid>
-            <pubDate>Fri, 29 Apr 2022 12:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_36/Id46W_16512232260397gJng_JPEG/CA202202090048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
