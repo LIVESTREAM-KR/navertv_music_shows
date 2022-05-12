@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 12:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 13:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Weekly Playlist l 세로캠] LE SSERAFIM - Vocal medley (르세라핌 - 보컬 메들리) l EP.561]]></title>
+            <link>https://tv.naver.com/v/26737667</link>
+            <guid>https://tv.naver.com/v/26737667</guid>
+            <pubDate>Thu, 12 May 2022 13:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_15/mRZs9_1652341081721YsroD_JPEG/CA202205110114.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
             <link>https://tv.naver.com/v/26720594</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 May 2022 12:29:22 GMT</pubDate>
             <content:encoded><![CDATA[0:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220504_90/RLvGv_1651663930267eWk0S_JPEG/CA202205040099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문별x퍼플키스의 ＜HIP 고고베베＞ 게임★]]></title>
-            <link>https://tv.naver.com/v/26607086</link>
-            <guid>https://tv.naver.com/v/26607086</guid>
-            <pubDate>Wed, 04 May 2022 12:29:22 GMT</pubDate>
-            <content:encoded><![CDATA[6:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_83/nnlWg_16516639249514NGPv_JPEG/CA202205040098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
