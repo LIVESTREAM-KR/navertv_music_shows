@@ -4,9 +4,25 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 23:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 01:14:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[방송선공개] 큐브의 제일 귀여운 두명 우남매라고 부르죠 !펜타곤 우석과(여자)아이들 우기! 귀여운 우남매의 스피드게임 실력은..?]]></title>
+            <link>https://tv.naver.com/v/26937108</link>
+            <guid>https://tv.naver.com/v/26937108</guid>
+            <pubDate>Tue, 24 May 2022 01:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220523_236/5f1qi_1653294122347bLw9n_JPEG/CA202205250005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] 이중엽의 둘째 아들 골든차일드의 장준이와 주찬이의 스피드 게임~! 엉생에서부터 캔모Ah까지 갈 수 있을까?]]></title>
+            <link>https://tv.naver.com/v/26937106</link>
+            <guid>https://tv.naver.com/v/26937106</guid>
+            <pubDate>Tue, 24 May 2022 01:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220523_251/vZ5kU_1653294120915085x3_JPEG/CA202205250004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간아 직캠] 클라씨(CLASS:y)의 '상하체 분리 댄스 퀴즈' 직캠 Ver. l 맛(Hot Sauce), Black Mamba, ELEVEN 등 l EP.562]]></title>
             <link>https://tv.naver.com/v/26871726</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 22 May 2022 16:15:37 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220518_96/o1Nnh_1652839679791YmkTQ_JPEG/CA202205180018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간신곡] 케이팝 갓기들 두두등장! 클라씨(CLASS:y)의 ‘SHUT DOWN'♬ l EP.562]]></title>
-            <link>https://tv.naver.com/v/26840780</link>
-            <guid>https://tv.naver.com/v/26840780</guid>
-            <pubDate>Sun, 22 May 2022 16:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_159/VqAHG_1652837831611IyG2z_JPEG/CA202205180017.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 본업천재갓기 짱라씨의 채원, 보은이 부르는 볼빨간사춘기의 ＜나의 사춘기에게＞♬]]></title>
-            <link>https://tv.naver.com/v/26804365</link>
-            <guid>https://tv.naver.com/v/26804365</guid>
-            <pubDate>Sun, 22 May 2022 16:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220516_43/Y5OOz_1652686923267gvFjE_JPEG/CA202205180005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
