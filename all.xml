@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 23:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 01:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[방송선공개] ＜가시나＞ 커버에 진심인 슈화! 열정 투머치한 슈슈 덕분에 큐브&울림 연합 퍼포팀 탄생?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27060772</link>
+            <guid>https://tv.naver.com/v/27060772</guid>
+            <pubDate>Tue, 31 May 2022 01:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_265/mZKBV_1653891420128BsTlj_JPEG/CA202206010003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전매특허 개인기 선보이다 혼란에 빠진 골차 장준@_@ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26981811</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 22 May 2022 16:15:37 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220518_136/g6hjc_1652871720344K8e6D_JPEG/CA202205180061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짱구 개인기 뺏겨 힝구 된 우리 떠뉴... (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26853741</link>
-            <guid>https://tv.naver.com/v/26853741</guid>
-            <pubDate>Sun, 22 May 2022 16:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_143/eD2aR_1652871427570OwU4I_JPEG/CA202205180060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
