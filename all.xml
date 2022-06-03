@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 09:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 10:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주간아이돌 565회 라잇썸 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27141151</link>
+            <guid>https://tv.naver.com/v/27141151</guid>
+            <pubDate>Fri, 03 Jun 2022 10:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220603_100/Cdbzx_1654243623671lRzhp_JPEG/CA202206080002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동물 성대모사가 이렇게 웃길 일인가요? (ft.저퀄ㅋㅋㅋㅋ) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27100753</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 May 2022 01:14:50 GMT</pubDate>
             <content:encoded><![CDATA[1:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220523_251/vZ5kU_1653294120915085x3_JPEG/CA202205250004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] 클라씨(CLASS:y)의 '상하체 분리 댄스 퀴즈' 직캠 Ver. l 맛(Hot Sauce), Black Mamba, ELEVEN 등 l EP.562 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26871726</link>
-            <guid>https://tv.naver.com/v/26871726</guid>
-            <pubDate>Sun, 22 May 2022 16:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220519_160/yjoUt_1652944979603njEEy_JPEG/CA202205180088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
