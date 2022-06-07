@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 23:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 01:03:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[방송선공개]태연 ＜만약에＞를 커버한 적이 있쵸~주간아에서 초원이가 준비한 ＜사계(Four Seasons＞ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27200539</link>
+            <guid>https://tv.naver.com/v/27200539</guid>
+            <pubDate>Tue, 07 Jun 2022 01:03:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_144/QvGIN_1654560125977pk9PQ_JPEG/CA202206080004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] 폭주중인 댄서 광희와 파워 게터웨이 나영이의 뜨거운 한판 댄스 배틀~!과연 누가 이길지.. (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27200538</link>
+            <guid>https://tv.naver.com/v/27200538</guid>
+            <pubDate>Tue, 07 Jun 2022 01:03:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_68/06oXK_16545601249217pteY_JPEG/CA202206080003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 565회 라잇썸 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27141151</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 25 May 2022 11:15:47 GMT</pubDate>
             <content:encoded><![CDATA[2:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_13/fjQVw_1653476832260eu2od_JPEG/CA202205250095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 큐브의 제일 귀여운 두명 우남매라고 부르죠 !펜타곤 우석과(여자)아이들 우기! 귀여운 우남매의 스피드게임 실력은..? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26937108</link>
-            <guid>https://tv.naver.com/v/26937108</guid>
-            <pubDate>Tue, 24 May 2022 01:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220523_236/5f1qi_1653294122347bLw9n_JPEG/CA202205250005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 이중엽의 둘째 아들 골든차일드의 장준이와 주찬이의 스피드 게임~! 엉생에서부터 캔모Ah까지 갈 수 있을까? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26937106</link>
-            <guid>https://tv.naver.com/v/26937106</guid>
-            <pubDate>Tue, 24 May 2022 01:14:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220523_251/vZ5kU_1653294120915085x3_JPEG/CA202205250004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
