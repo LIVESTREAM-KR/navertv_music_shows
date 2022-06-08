@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 10:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 11:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연습실 바닥에서 수북한 머리칼 ㄷㄷ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27236190</link>
+            <guid>https://tv.naver.com/v/27236190</guid>
+            <pubDate>Wed, 08 Jun 2022 11:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_53/pKB1j_1654686722062C5PvS_JPEG/CA202206080084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[셀프 영업왕 라잇썸을 소개합니다♥ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27236125</link>
+            <guid>https://tv.naver.com/v/27236125</guid>
+            <pubDate>Wed, 08 Jun 2022 11:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[2:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_260/Vlddl_1654686422885qezSP_JPEG/CA202206080083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간신곡] 하이틴 크러시!💕 라잇썸(LIGHTSUM)의 ‘ALIVE'♬ l EP.565 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27227724</link>
+            <guid>https://tv.naver.com/v/27227724</guid>
+            <pubDate>Wed, 08 Jun 2022 11:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_83/iUFog_1654664823987SnPX6_JPEG/CA202206080023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방송선공개]태연 ＜만약에＞를 커버한 적이 있쵸~주간아에서 초원이가 준비한 ＜사계(Four Seasons＞ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27200539</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 25 May 2022 11:15:47 GMT</pubDate>
             <content:encoded><![CDATA[1:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_134/vLRu1_1653477133265oVRcT_JPEG/CA202205250098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아2를 진행 중인 골든차일드 장준&주찬?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26980659</link>
-            <guid>https://tv.naver.com/v/26980659</guid>
-            <pubDate>Wed, 25 May 2022 11:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_71/HHC3Q_1653477129959imAzM_JPEG/CA202205250097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[골차&드리핀이 추는 (여자)아이들의 '톰보이'♬ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26980658</link>
-            <guid>https://tv.naver.com/v/26980658</guid>
-            <pubDate>Wed, 25 May 2022 11:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_258/DCUhj_1653477128297K0g2d_JPEG/CA202205250096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큐브vs울림 가좍들과 함께하는 ＜가족오락관＞ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26980563</link>
-            <guid>https://tv.naver.com/v/26980563</guid>
-            <pubDate>Wed, 25 May 2022 11:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_13/fjQVw_1653476832260eu2od_JPEG/CA202205250095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
