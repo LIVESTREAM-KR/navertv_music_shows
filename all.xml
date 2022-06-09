@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 12:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 13:34:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간아 직캠] 라잇썸(LIGHTSUM)의 '셀프로필' 직캠 Ver. l FEARLESS, TOMBOY, be l EP.565 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27250585</link>
+            <guid>https://tv.naver.com/v/27250585</guid>
+            <pubDate>Thu, 09 Jun 2022 13:34:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_260/e7pGQ_1654751280712HbV2t_JPEG/CA202206080109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[※배꼽주의※ 빙글빙글~ 뿅망치 어딧썸?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27236820</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 12:32:47 GMT</pubDate>
             <content:encoded><![CDATA[2:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_123/cabUM_1654085823515HMnE6_JPEG/CA202206010071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은혁, 후배들과 얼큰~한 '로꾸거' 댄스 @_@ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27100668</link>
-            <guid>https://tv.naver.com/v/27100668</guid>
-            <pubDate>Wed, 01 Jun 2022 12:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_141/ld0zc_1654085821953jJfnA_JPEG/CA202206010070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
