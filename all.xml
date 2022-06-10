@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 10:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 11:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Fri, 10 Jun 2022 10:15:42 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_140/e61Z5_1654846622276wHLJs_JPEG/CA202206150002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Playlist l 짐벌캠] LIGHTSUM - Lion Heart (라잇썸 - 라이언 하트) (원곡 : 소녀시대) l EP.565 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27268646</link>
+            <guid>https://tv.naver.com/v/27268646</guid>
+            <pubDate>Fri, 10 Jun 2022 11:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_14/EJrl9_1654826519525sheX1_JPEG/CA202206080112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 짐벌캠] LIGHTSUM - ALIVE (라잇썸 - 얼라이브) l EP.565 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27268367</link>
+            <guid>https://tv.naver.com/v/27268367</guid>
+            <pubDate>Fri, 10 Jun 2022 11:12:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_86/9ViVI_1654825921331AxEBc_JPEG/CA202206080111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간아 직캠] 라잇썸(LIGHTSUM)의 '셀프로필' 직캠 Ver. l FEARLESS, TOMBOY, be l EP.565 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 12:32:47 GMT</pubDate>
             <content:encoded><![CDATA[2:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_123/cabUM_1654085823515HMnE6_JPEG/CA202206010071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은혁, 후배들과 얼큰~한 '로꾸거' 댄스 @_@ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27100668</link>
-            <guid>https://tv.naver.com/v/27100668</guid>
-            <pubDate>Fri, 10 Jun 2022 03:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_141/ld0zc_1654085821953jJfnA_JPEG/CA202206010070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세상 각박한 명대사 말하기 게임★ (ft.비속어 필터링) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27100602</link>
-            <guid>https://tv.naver.com/v/27100602</guid>
-            <pubDate>Fri, 10 Jun 2022 03:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[5:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_31/5gGzB_1654085524381ymYuC_JPEG/CA202206010075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
