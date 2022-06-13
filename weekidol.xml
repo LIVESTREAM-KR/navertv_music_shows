@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 08:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 09:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dita from SECRET NUMBER says hello to fans in Bahasa Indonesia 💕 | Weekly Idol l EP.566]]></title>
+            <link>https://tv.naver.com/v/27320680</link>
+            <guid>https://tv.naver.com/v/27320680</guid>
+            <pubDate>Mon, 13 Jun 2022 09:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_281/kYICF_1655101388588Gued1_JPEG/CA202206150004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 566회 woo!ah!&SECRET NUMBER 편 예고]]></title>
             <link>https://tv.naver.com/v/27276510</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 12:32:47 GMT</pubDate>
             <content:encoded><![CDATA[3:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_176/7zoaX_16540858252619YJX8_JPEG/CA202206010072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이름에 '숫자' 들어간 K-POP 그룹은?!]]></title>
-            <link>https://tv.naver.com/v/27100669</link>
-            <guid>https://tv.naver.com/v/27100669</guid>
-            <pubDate>Wed, 01 Jun 2022 12:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_123/cabUM_1654085823515HMnE6_JPEG/CA202206010071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
