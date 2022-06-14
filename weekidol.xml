@@ -4,9 +4,25 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 23:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 01:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[방송선공개] 힙한 웅니 우아! 나나가 커버하는 제시의 ＜ZOOM＞♬]]></title>
+            <link>https://tv.naver.com/v/27322773</link>
+            <guid>https://tv.naver.com/v/27322773</guid>
+            <pubDate>Tue, 14 Jun 2022 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_20/p9n0Z_1655106781266RyjeV_JPEG/CA202206150006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] 세계로 뻗어나가는 주간아이돌! SECRET NUMBER 디타가 보여주는 오또케 송 인도네시아 버전!]]></title>
+            <link>https://tv.naver.com/v/27322671</link>
+            <guid>https://tv.naver.com/v/27322671</guid>
+            <pubDate>Tue, 14 Jun 2022 01:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_115/fIeYc_1655106426491wtLDX_JPEG/CA202206150005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dita from SECRET NUMBER says hello to fans in Bahasa Indonesia 💕 | Weekly Idol l EP.566]]></title>
             <link>https://tv.naver.com/v/27320680</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 12:32:47 GMT</pubDate>
             <content:encoded><![CDATA[4:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_93/EhlgP_1654086180469CKnv2_JPEG/CA202206010074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주워먹기 고수들의 퀴즈 대결! '여섯글자 이상의 메뉴 말하기']]></title>
-            <link>https://tv.naver.com/v/27100674</link>
-            <guid>https://tv.naver.com/v/27100674</guid>
-            <pubDate>Wed, 01 Jun 2022 12:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_163/3wxCF_16540858288254gtXp_JPEG/CA202206010073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퀴즈 풀랬는데 고퀄 라이브를?! 근데 이제 개그를 잔뜩 곁들인...]]></title>
-            <link>https://tv.naver.com/v/27100670</link>
-            <guid>https://tv.naver.com/v/27100670</guid>
-            <pubDate>Wed, 01 Jun 2022 12:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_176/7zoaX_16540858252619YJX8_JPEG/CA202206010072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
