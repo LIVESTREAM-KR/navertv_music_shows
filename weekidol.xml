@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 10:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 11:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간아 미방] 오또케송♡ 우아! & 시크릿넘버 (woo!ah! & SECRET NUMBER) l EP.566]]></title>
+            <link>https://tv.naver.com/v/27386137</link>
+            <guid>https://tv.naver.com/v/27386137</guid>
+            <pubDate>Thu, 16 Jun 2022 11:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_205/lktP2_1655368026369gRKhv_JPEG/CA202206150116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[은혁&광희가 시트릿넘버 메이크업 쌤에게 사과한 사연...]]></title>
             <link>https://tv.naver.com/v/27369165</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Jun 2022 13:33:27 GMT</pubDate>
             <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220614_229/Ewh9i_1655197681066STwDQ_JPEG/CA202206150008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 4K캠] SECRET NUMBER - DOOMCHITA (시크릿넘버 - 둠치타) l EP.566]]></title>
-            <link>https://tv.naver.com/v/27345909</link>
-            <guid>https://tv.naver.com/v/27345909</guid>
-            <pubDate>Wed, 15 Jun 2022 13:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_293/rRp2l_1655197679979H9w7n_JPEG/CA202206150007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
