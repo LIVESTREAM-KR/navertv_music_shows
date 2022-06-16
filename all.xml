@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 08:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 09:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,7 +72,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220615_103/Nn1cd_1655291520347wTWnp_JPEG/CA202206150078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[허를 찌르는 조류(?) 묘사하기 ＂우아!＂ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <title><![CDATA[허를 찌르는 조류(?) 묘사하기 '우아!' (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27368570</link>
             <guid>https://tv.naver.com/v/27368570</guid>
             <pubDate>Wed, 15 Jun 2022 11:12:51 GMT</pubDate>
