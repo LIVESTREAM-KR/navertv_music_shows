@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 09:16:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 10:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주간아이돌 567회 이달의 소녀 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27406609</link>
+            <guid>https://tv.naver.com/v/27406609</guid>
+            <pubDate>Fri, 17 Jun 2022 10:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_31/jGDpQ_1655453526074zmrPl_JPEG/CA202206220002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간아 직캠] 우아!(woo!ah!) & 시크릿넘버(SECRET NUMBER)의 '장기 지옥' 직캠 Ver. l ZOOM, 스포츠 댄스, 댄스배틀 l EP.566 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27386419</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Jun 2022 13:33:27 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220614_271/vVWAw_1655199479225tYgjY_JPEG/CA202206150010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist l 4K캠] SECRET NUMBER - Black Mamba (시크릿넘버 - 블랙맘바) (원곡 : aespa) l EP.566 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27346552</link>
-            <guid>https://tv.naver.com/v/27346552</guid>
-            <pubDate>Wed, 15 Jun 2022 13:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_115/GEPe9_1655199119973jy3A0_JPEG/CA202206150009.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
