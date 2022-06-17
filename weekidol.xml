@@ -4,7 +4,7 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 10:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 11:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Thu, 16 Jun 2022 11:11:38 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_205/lktP2_1655368026369gRKhv_JPEG/CA202206150116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 짐벌캠] SECRET NUMBER - DOOMCHITA (시크릿넘버 - 둠치타) l EP.566]]></title>
+            <link>https://tv.naver.com/v/27381253</link>
+            <guid>https://tv.naver.com/v/27381253</guid>
+            <pubDate>Fri, 17 Jun 2022 11:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_54/XvFF6_16553563183221IXL3_JPEG/CA202206150112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 짐벌캠] woo!ah! - Danger (우아! - 단거) l EP.566]]></title>
+            <link>https://tv.naver.com/v/27381008</link>
+            <guid>https://tv.naver.com/v/27381008</guid>
+            <pubDate>Fri, 17 Jun 2022 11:12:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_221/ycitY_1655355720887wz50N_JPEG/CA202206150114.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[은혁&광희가 시트릿넘버 메이크업 쌤에게 사과한 사연...]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 15 Jun 2022 12:27:29 GMT</pubDate>
             <content:encoded><![CDATA[3:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220615_8/zZ5jM_1655254625026X339F_JPEG/CA202206150020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] woo!ah! NANA - Danger (우아! 나나 - 단거) l EP.566]]></title>
-            <link>https://tv.naver.com/v/27356119</link>
-            <guid>https://tv.naver.com/v/27356119</guid>
-            <pubDate>Wed, 15 Jun 2022 12:27:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_117/La558_1655254623966CFgn8_JPEG/CA202206150019.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist l 4K캠] woo!ah! - Feel My Rhythm (우아! - 필 마이 리듬) (원곡 : 레드벨벳) l EP.566]]></title>
-            <link>https://tv.naver.com/v/27346694</link>
-            <guid>https://tv.naver.com/v/27346694</guid>
-            <pubDate>Wed, 15 Jun 2022 13:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_271/vVWAw_1655199479225tYgjY_JPEG/CA202206150010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
