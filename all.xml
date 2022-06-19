@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 15:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 16:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.naver.com/v/27406609</guid>
             <pubDate>Fri, 17 Jun 2022 10:15:00 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_31/jGDpQ_1655453526074zmrPl_JPEG/CA202206220002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220620_77/doKrM_1655653023283hpkTT_JPEG/CA202206220002_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간아 직캠] 우아!(woo!ah!) & 시크릿넘버(SECRET NUMBER)의 '장기 지옥' 직캠 Ver. l ZOOM, 스포츠 댄스, 댄스배틀 l EP.566 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
