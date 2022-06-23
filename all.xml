@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 11:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 12:29:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간아 하드털이] 이달의 소녀 고인물 희진&현진의 듀엣곡은? (ft. I'll Be There 2022 ver.)  l EP.567 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27520647</link>
+            <guid>https://tv.naver.com/v/27520647</guid>
+            <pubDate>Thu, 23 Jun 2022 12:28:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_102/umihD_1655971021047rABA7_JPEG/CA202206220069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[까꿍 이달소♥ 12명 버전의 ＜탐이 나＞♨ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27519355</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Jun 2022 13:36:10 GMT</pubDate>
             <content:encoded><![CDATA[2:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220622_41/Hbk3t_1655881325982EDmBM_JPEG/CA202206220021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist l 4K캠] LOONA - K-POP Dance medley (이달의 소녀 - 케이팝 댄스 메들리) l EP.567 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27494891</link>
-            <guid>https://tv.naver.com/v/27494891</guid>
-            <pubDate>Wed, 22 Jun 2022 13:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_128/VQ8LT_165588103709078Mwb_JPEG/CA202206220022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
