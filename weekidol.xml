@@ -4,16 +4,24 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 06:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 07:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[바쁘다 바빠 이달소의 우당탕탕 랜플댄@_@]]></title>
+            <title><![CDATA[까꿍 이달소♥ 12명 버전의 ＜탐이 나＞♨]]></title>
+            <link>https://tv.naver.com/v/27519355</link>
+            <guid>https://tv.naver.com/v/27519355</guid>
+            <pubDate>Thu, 23 Jun 2022 07:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_19/7FZze_1655968323852HqNLp_JPEG/CA202206220068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[랜덤플레이댄스FULL] 12명이 하는 2배속 랜플댄@_@;; 극악 난이도에 뒤집어진 이달소 l 이달의 소녀(LOONA) l RandomPlayDance]]></title>
             <link>https://tv.naver.com/v/27498742</link>
             <guid>https://tv.naver.com/v/27498742</guid>
             <pubDate>Wed, 22 Jun 2022 13:36:10 GMT</pubDate>
             <content:encoded><![CDATA[8:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_71/Tzfsr_1655889420026afdII_JPEG/CA202206220048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_295/jbZHr_16559656818023L0Hr_JPEG/CA202206220048_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Jun 2022 13:36:10 GMT</pubDate>
             <content:encoded><![CDATA[2:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220622_128/VQ8LT_165588103709078Mwb_JPEG/CA202206220022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간신곡] ★짱달소 컴백★ 이달의 소녀(LOONA)의 ‘Flip That'♬ l EP.567]]></title>
-            <link>https://tv.naver.com/v/27494730</link>
-            <guid>https://tv.naver.com/v/27494730</guid>
-            <pubDate>Wed, 22 Jun 2022 11:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_130/xdaKr_1655880730213ldPBN_JPEG/CA202206220020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
