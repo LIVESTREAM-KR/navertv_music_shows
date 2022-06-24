@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 09:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 10:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주간아이돌 568회 프로미스나인 편 예고]]></title>
+            <link>https://tv.naver.com/v/27547379</link>
+            <guid>https://tv.naver.com/v/27547379</guid>
+            <pubDate>Fri, 24 Jun 2022 10:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_39/tZidb_16560625816916t9W0_JPEG/CA202206290002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간아 하드털이] 이달의 소녀 고인물 희진&현진의 듀엣곡은? (ft. I'll Be There 2022 ver.)  l EP.567]]></title>
             <link>https://tv.naver.com/v/27520647</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Jun 2022 13:36:10 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220622_299/7yUoV_1655881327716W0aLI_JPEG/CA202206220024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist] 이달의 소녀가 커버하는 K-POP 댄스 메들리 FULL ver♬ l EP.567]]></title>
-            <link>https://tv.naver.com/v/27495013</link>
-            <guid>https://tv.naver.com/v/27495013</guid>
-            <pubDate>Wed, 22 Jun 2022 13:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_41/Hbk3t_1655881325982EDmBM_JPEG/CA202206220021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
