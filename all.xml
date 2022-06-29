@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 12:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 13:41:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,12 +208,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_231/pw1xl_1656480121276f389M_JPEG/CA202206290023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간아 짐벌캠] fromis_9 - Stay this way (프로미스나인 - 스테이 디스 웨이) l EP.568 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27638910</link>
+            <guid>https://tv.naver.com/v/27638910</guid>
+            <pubDate>Wed, 29 Jun 2022 13:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_241/LaCvp_1656469020499uDgx3_JPEG/CA202206290006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[팬들의 니즈 확인완료! 더욱 새로워진 주간아이돌로돌아왔다! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27638046</link>
             <guid>https://tv.naver.com/v/27638046</guid>
             <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
             <content:encoded><![CDATA[0:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_145/NQprf_1656467229084ofNls_JPEG/CA202206290020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 4K캠] fromis_9 - Stay This Way (프로미스나인 - 스테이 디스 웨이) l EP.568 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27637015</link>
+            <guid>https://tv.naver.com/v/27637015</guid>
+            <pubDate>Wed, 29 Jun 2022 13:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_181/lPbbS_1656463981311wkpHi_JPEG/CA202206290017.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[방송선공개] 춤마저 얄미운 박얄밉,, 아니 박지원이 커버하는 현아&던의 ＜PING PONG＞♬ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 28 Jun 2022 01:16:45 GMT</pubDate>
             <content:encoded><![CDATA[1:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220627_98/nevXO_1656316029802Yi8Qm_JPEG/CA202206290004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 568회 프로미스나인 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27547379</link>
-            <guid>https://tv.naver.com/v/27547379</guid>
-            <pubDate>Fri, 24 Jun 2022 10:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_39/tZidb_16560625816916t9W0_JPEG/CA202206290002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 하드털이] 이달의 소녀 고인물 희진&현진의 듀엣곡은? (ft. I'll Be There 2022 ver.)  l EP.567 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27520647</link>
-            <guid>https://tv.naver.com/v/27520647</guid>
-            <pubDate>Thu, 23 Jun 2022 12:28:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_102/umihD_1655971021047rABA7_JPEG/CA202206220069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
