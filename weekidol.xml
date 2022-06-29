@@ -4,9 +4,65 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 11:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 12:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어차피 우승은 송하영( •̀ ω •́ )✧]]></title>
+            <link>https://tv.naver.com/v/27654342</link>
+            <guid>https://tv.naver.com/v/27654342</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_142/CBR59_1656502679697MHX11_JPEG/CA202206290103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엿보기의 달인 박지원 선생의 몸으로 말해요]]></title>
+            <link>https://tv.naver.com/v/27654316</link>
+            <guid>https://tv.naver.com/v/27654316</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[5:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_188/gMjYy_1656502623087aA7Db_JPEG/CA202206290102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
+            <link>https://tv.naver.com/v/27654182</link>
+            <guid>https://tv.naver.com/v/27654182</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_165/5p4Vf_1656502323603YeSv8_JPEG/CA202206290104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈주 막내 규현, 프미나 막내 지헌이가 고르는 조별과제 팀원 멤버는?!]]></title>
+            <link>https://tv.naver.com/v/27654180</link>
+            <guid>https://tv.naver.com/v/27654180</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[4:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_193/OyNYG_1656502320061C1Sck_JPEG/CA202206290101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나꼬(북이)의 취미는 물멍✨]]></title>
+            <link>https://tv.naver.com/v/27653916</link>
+            <guid>https://tv.naver.com/v/27653916</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_193/SL3Sy_1656501782361QjCTR_JPEG/CA202206290100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1 vs 8? 껌이지ㅋ 가위바위보의 신 이서연]]></title>
+            <link>https://tv.naver.com/v/27653892</link>
+            <guid>https://tv.naver.com/v/27653892</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_76/sukyn_16565017187298Pcm2_JPEG/CA202206290099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피스 건배?! 프미나가 정해주는 플로버 건배사♥]]></title>
+            <link>https://tv.naver.com/v/27653777</link>
+            <guid>https://tv.naver.com/v/27653777</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_280/mLCze_1656501424528U1FWA_JPEG/CA202206290095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[챙이에게 상처만 남은 상황극]]></title>
             <link>https://tv.naver.com/v/27653558</link>
@@ -16,7 +72,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_192/pqvc3_16565008789471jg1Y_JPEG/CA202206290092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[벚꽃놀이 갔다가 남의 사진＂만＂ 찍어준 지원&지헌]]></title>
+            <title><![CDATA[벚꽃놀이 갔다가 남의 사진'만' 찍어준 지원&하영]]></title>
             <link>https://tv.naver.com/v/27653529</link>
             <guid>https://tv.naver.com/v/27653529</guid>
             <pubDate>Wed, 29 Jun 2022 11:12:37 GMT</pubDate>
@@ -64,12 +120,100 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_271/9vlzs_1656499922830XPDI3_JPEG/CA202206290086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주간신곡] 청량 상큼 발랄 다 잡아먹은 프롬이들 컴백❤ 프로미스나인(fromis_9)의 ‘Stay This Way'♬ l EP.568]]></title>
+            <title><![CDATA[[주간아 직캠] fromis_9 Lee Chaeyoung- Stay This Way (프로미스나인 이채영 - 스테이 디스 웨이) l EP.568]]></title>
+            <link>https://tv.naver.com/v/27646046</link>
+            <guid>https://tv.naver.com/v/27646046</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_182/Ez97X_1656484620482TSiJp_JPEG/CA202206290047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] fromis_9 Park Jiwon- Stay This Way (프로미스나인 박지원 - 스테이 디스 웨이) l EP.568]]></title>
+            <link>https://tv.naver.com/v/27645585</link>
+            <guid>https://tv.naver.com/v/27645585</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_258/IdaAP_1656483719250XkzW3_JPEG/CA202206290041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간신곡] ★최초공개☆ 청량 상큼 발랄 다 잡아먹은 프롬이들 컴백❤ 프로미스나인(fromis_9)의 ‘Stay This Way'♬ l EP.568]]></title>
             <link>https://tv.naver.com/v/27645304</link>
             <guid>https://tv.naver.com/v/27645304</guid>
             <pubDate>Wed, 29 Jun 2022 11:12:37 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_293/gqwtN_1656483119985bPl9g_JPEG/CA202206290050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] fromis_9 Song Hayoung- Stay This Way (프로미스나인 송하영 - 스테이 디스 웨이) l EP.568]]></title>
+            <link>https://tv.naver.com/v/27645160</link>
+            <guid>https://tv.naver.com/v/27645160</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_170/GuN24_16564828209168TGzT_JPEG/CA202206290048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] fromis_9 Baek Jiheon- Stay This Way (프로미스나인 백지헌 - 스테이 디스 웨이) l EP.568]]></title>
+            <link>https://tv.naver.com/v/27645159</link>
+            <guid>https://tv.naver.com/v/27645159</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_120/hBVhK_1656482820028ifMAi_JPEG/CA202206290046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] fromis_9 Roh Jisun- Stay This Way (프로미스나인 노지선 - 스테이 디스 웨이) l EP.568]]></title>
+            <link>https://tv.naver.com/v/27644701</link>
+            <guid>https://tv.naver.com/v/27644701</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_123/1IIGn_1656481920492oHH74_JPEG/CA202206290037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] fromis_9 Lee Seoyeon- Stay This Way (프로미스나인 이서연 - 스테이 디스 웨이) l EP.568]]></title>
+            <link>https://tv.naver.com/v/27644388</link>
+            <guid>https://tv.naver.com/v/27644388</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_105/IRajE_1656481322060pk7dY_JPEG/CA202206290027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] fromis_9 Lee Nagyung- Stay This Way (프로미스나인 이나경 - 스테이 디스 웨이) l EP.568]]></title>
+            <link>https://tv.naver.com/v/27644260</link>
+            <guid>https://tv.naver.com/v/27644260</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_155/b3uI3_1656481081109ifMMP_JPEG/CA202206290025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] fromis_9 Lee Sae Rom- Stay This Way (프로미스나인 이새롬 - 스테이 디스 웨이) l EP.568]]></title>
+            <link>https://tv.naver.com/v/27644226</link>
+            <guid>https://tv.naver.com/v/27644226</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_278/MCxmZ_1656481022209IA8g2_JPEG/CA202206290026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 직캠] fromis_9 Jang Gyuri- Stay This Way (프로미스나인 장규리 - 스테이 디스 웨이) l EP.568]]></title>
+            <link>https://tv.naver.com/v/27643899</link>
+            <guid>https://tv.naver.com/v/27643899</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_233/UfcFQ_1656480423722pLmFq_JPEG/CA202206290024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Playlist] 프로미스나인 서연이가 부르는 이하이 ＜홀로＞ 귀가 녹아내려요... ＜홀로＞ FULL ver♬ l EP.568]]></title>
+            <link>https://tv.naver.com/v/27643750</link>
+            <guid>https://tv.naver.com/v/27643750</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_231/pw1xl_1656480121276f389M_JPEG/CA202206290023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팬들의 니즈 확인완료! 더욱 새로워진 주간아이돌로돌아왔다!]]></title>
+            <link>https://tv.naver.com/v/27638046</link>
+            <guid>https://tv.naver.com/v/27638046</guid>
+            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_145/NQprf_1656467229084ofNls_JPEG/CA202206290020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[방송선공개] 춤마저 얄미운 박얄밉,, 아니 박지원이 커버하는 현아&던의 ＜PING PONG＞♬]]></title>
@@ -102,150 +246,6 @@
             <pubDate>Thu, 23 Jun 2022 12:28:58 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_102/umihD_1655971021047rABA7_JPEG/CA202206220069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[까꿍 이달소♥ 12명 버전의 ＜탐이 나＞♨]]></title>
-            <link>https://tv.naver.com/v/27519355</link>
-            <guid>https://tv.naver.com/v/27519355</guid>
-            <pubDate>Thu, 23 Jun 2022 07:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_19/7FZze_1655968323852HqNLp_JPEG/CA202206220068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[랜덤플레이댄스FULL] 12명이 하는 2배속 랜플댄@_@;; 극악 난이도에 뒤집어진 이달소 l 이달의 소녀(LOONA) l RandomPlayDance]]></title>
-            <link>https://tv.naver.com/v/27498742</link>
-            <guid>https://tv.naver.com/v/27498742</guid>
-            <pubDate>Wed, 22 Jun 2022 13:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[8:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_295/jbZHr_16559656818023L0Hr_JPEG/CA202206220048_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
-            <link>https://tv.naver.com/v/27498475</link>
-            <guid>https://tv.naver.com/v/27498475</guid>
-            <pubDate>Wed, 22 Jun 2022 13:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[0:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_11/ScI68_1655888825494bK4yV_JPEG/CA202206220049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[※심쿵주의※ 여보비아 혜의 설렘 멘트..♡]]></title>
-            <link>https://tv.naver.com/v/27498472</link>
-            <guid>https://tv.naver.com/v/27498472</guid>
-            <pubDate>Wed, 22 Jun 2022 13:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_205/2vQ9i_1655888822534o0oAC_JPEG/CA202206220047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹' 메이커 고원에 표정관리 실패한 은혁^^;;]]></title>
-            <link>https://tv.naver.com/v/27498333</link>
-            <guid>https://tv.naver.com/v/27498333</guid>
-            <pubDate>Wed, 22 Jun 2022 13:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_9/U1Ltd_1655888524077dXVM5_JPEG/CA202206220046.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아 기네스 커플 림보 기록에 도전하다↗]]></title>
-            <link>https://tv.naver.com/v/27498331</link>
-            <guid>https://tv.naver.com/v/27498331</guid>
-            <pubDate>Wed, 22 Jun 2022 13:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[6:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_102/z50zJ_16558885222595ltmF_JPEG/CA202206220044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 은쪽이에게는 독특한 습관이 많아요★]]></title>
-            <link>https://tv.naver.com/v/27498220</link>
-            <guid>https://tv.naver.com/v/27498220</guid>
-            <pubDate>Wed, 22 Jun 2022 13:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_30/z3dBL_1655888290065U6Irs_JPEG/CA202206220045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홀리뱅에게 전수받은 춤! 츄가 하는 '츄월킹'＞_＜]]></title>
-            <link>https://tv.naver.com/v/27498216</link>
-            <guid>https://tv.naver.com/v/27498216</guid>
-            <pubDate>Wed, 22 Jun 2022 11:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_237/RcLWi_1655888285194qcBuE_JPEG/CA202206220043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[＜퀸덤2＞ 무대 끝나고 운 진도리의 사연T.T]]></title>
-            <link>https://tv.naver.com/v/27498215</link>
-            <guid>https://tv.naver.com/v/27498215</guid>
-            <pubDate>Wed, 22 Jun 2022 11:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_287/fEG9I_1655888283849MjhJP_JPEG/CA202206220041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['매번 해요' 코파여진의 당당한 코파기 비법♪]]></title>
-            <link>https://tv.naver.com/v/27498074</link>
-            <guid>https://tv.naver.com/v/27498074</guid>
-            <pubDate>Wed, 22 Jun 2022 11:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_50/aLo1m_1655887985089nQAGl_JPEG/CA202206220042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독립 후 단점이요? 없어요^0^ (단호'혜'ㅋㅋ)]]></title>
-            <link>https://tv.naver.com/v/27497930</link>
-            <guid>https://tv.naver.com/v/27497930</guid>
-            <pubDate>Wed, 22 Jun 2022 11:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_239/mK3sZ_165588763051389Nyk_JPEG/CA202206220040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[희진쌤에게 배워보는 고관절 마사지 교실♭]]></title>
-            <link>https://tv.naver.com/v/27497929</link>
-            <guid>https://tv.naver.com/v/27497929</guid>
-            <pubDate>Wed, 22 Jun 2022 11:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_117/fAdjB_1655887629047pS2RW_JPEG/CA202206220039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모른 척할 수 없었던(?) 해피 진솔 데이♥]]></title>
-            <link>https://tv.naver.com/v/27497923</link>
-            <guid>https://tv.naver.com/v/27497923</guid>
-            <pubDate>Wed, 22 Jun 2022 11:12:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_79/wLfQr_1655887625342MUBG1_JPEG/CA202206220038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 짐벌캠] LOONA - Flip That (이달의 소녀 - 플립 댓) l EP.567]]></title>
-            <link>https://tv.naver.com/v/27496571</link>
-            <guid>https://tv.naver.com/v/27496571</guid>
-            <pubDate>Wed, 22 Jun 2022 13:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_243/1OVcX_1655884931816AKulC_JPEG/CA202206220037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] LOONA Olivia Hye - Flip That (이달의 소녀 올리비아 혜 - 플립 댓) l EP.567]]></title>
-            <link>https://tv.naver.com/v/27496569</link>
-            <guid>https://tv.naver.com/v/27496569</guid>
-            <pubDate>Wed, 22 Jun 2022 13:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_137/DjHFT_1655884928906MwVNz_JPEG/CA202206220036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist l 짐벌캠] LOONA - K-POP Dance medley (이달의 소녀 - 케이팝 댄스 메들리) l EP.567]]></title>
-            <link>https://tv.naver.com/v/27495469</link>
-            <guid>https://tv.naver.com/v/27495469</guid>
-            <pubDate>Wed, 22 Jun 2022 13:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_2/7ONUi_1655882525102aH1PR_JPEG/CA202206220035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] LOONA Yves - Flip That (이달의 소녀 이브 - 플립 댓) l EP.567]]></title>
-            <link>https://tv.naver.com/v/27495343</link>
-            <guid>https://tv.naver.com/v/27495343</guid>
-            <pubDate>Wed, 22 Jun 2022 13:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_254/JpHfm_1655882222155cEyTw_JPEG/CA202206220032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] LOONA Choerry - Flip That (이달의 소녀 최리 - 플립 댓) l EP.567]]></title>
-            <link>https://tv.naver.com/v/27495147</link>
-            <guid>https://tv.naver.com/v/27495147</guid>
-            <pubDate>Wed, 22 Jun 2022 13:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_263/UDDnF_16558816845360EQOV_JPEG/CA202206220031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
