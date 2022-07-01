@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 09:14:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 10:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주간아이돌 569회 우주소녀 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27702975</link>
+            <guid>https://tv.naver.com/v/27702975</guid>
+            <pubDate>Fri, 01 Jul 2022 10:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_144/QPOmB_1656665224669Las3W_JPEG/CA202207060002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Weekly Playlist l 세로캠] 프로미스나인 (fromis_9) - ＜홀로＞ (원곡 : 이하이) ♬ l EP.549 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27700329</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
             <content:encoded><![CDATA[0:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_145/NQprf_1656467229084ofNls_JPEG/CA202206290020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 4K캠] fromis_9 - Stay This Way (프로미스나인 - 스테이 디스 웨이) l EP.568 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27637015</link>
-            <guid>https://tv.naver.com/v/27637015</guid>
-            <pubDate>Wed, 29 Jun 2022 13:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_181/lPbbS_1656463981311wkpHi_JPEG/CA202206290017.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
