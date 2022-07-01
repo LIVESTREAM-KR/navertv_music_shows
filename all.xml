@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 08:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 09:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Weekly Playlist l 세로캠] 프로미스나인 (fromis_9) - ＜홀로＞ (원곡 : 이하이) ♬ l EP.549 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27700329</link>
+            <guid>https://tv.naver.com/v/27700329</guid>
+            <pubDate>Fri, 01 Jul 2022 09:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_81/0OSOW_165666042011292QLX_JPEG/CA202206290120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주간아 직캠] 프로미스나인(fromis_9)의 '소원수리센터' 직캠 Ver. l PING PONG l EP.568 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27676538</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Jun 2022 13:41:05 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_181/lPbbS_1656463981311wkpHi_JPEG/CA202206290017.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 춤마저 얄미운 박얄밉,, 아니 박지원이 커버하는 현아&던의 ＜PING PONG＞♬ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27593876</link>
-            <guid>https://tv.naver.com/v/27593876</guid>
-            <pubDate>Tue, 28 Jun 2022 01:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_114/Jdf3j_1656316031080btuT1_JPEG/CA202206290005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
