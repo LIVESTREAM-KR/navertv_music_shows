@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 08:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 09:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Weekly Playlist+ l 세로캠] 우주소녀(WJSN) - ＜Stronger + Weekend + New Me＞ ♬ l EP.569 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/27820212</link>
+            <guid>https://tv.naver.com/v/27820212</guid>
+            <pubDate>Fri, 08 Jul 2022 09:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[5:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_184/mUoP5_1657244821074vewXK_JPEG/CA202207060121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1위 루다, 10위 다영인 이것은? (힌트:💰) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/27791576</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Jun 2022 13:35:02 GMT</pubDate>
             <content:encoded><![CDATA[1:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220630_210/hIh6N_1656576123965Js9Qq_JPEG/CA202206290119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어차피 우승은 송하영( •̀ ω •́ )✧ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/27654342</link>
-            <guid>https://tv.naver.com/v/27654342</guid>
-            <pubDate>Wed, 29 Jun 2022 12:28:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_142/CBR59_1656502679697MHX11_JPEG/CA202206290103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
