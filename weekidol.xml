@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 08:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 09:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Weekly Playlist+ l 세로캠] SF9 (에스에프나인) - ＜Good Guy + 무중력 + 더 잔인하게(Stop It Now)＞ ♬ l EP.570]]></title>
+            <link>https://tv.naver.com/v/27941111</link>
+            <guid>https://tv.naver.com/v/27941111</guid>
+            <pubDate>Fri, 15 Jul 2022 09:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[4:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_159/a0aou_16577803193450tNsU_JPEG/CA202207130101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
             <link>https://tv.naver.com/v/27923535</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Jul 2022 12:31:38 GMT</pubDate>
             <content:encoded><![CDATA[0:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_2/sVBfs_1657105684783jKUj2_JPEG/CA202207060098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우소x우정pick! 우주소녀의 환불 퀸은?!💸]]></title>
-            <link>https://tv.naver.com/v/27791307</link>
-            <guid>https://tv.naver.com/v/27791307</guid>
-            <pubDate>Wed, 06 Jul 2022 11:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[5:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_230/IZ56B_1657105619786EyCr3_JPEG/CA202207060093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
