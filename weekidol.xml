@@ -4,9 +4,25 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 08:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 09:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Weekly Playlist+ l 세로캠] 있지(ITZY) - ＜DOMINO + SURF + Mad At Disney＞ ♬ l EP.571]]></title>
+            <link>https://tv.naver.com/v/28105785</link>
+            <guid>https://tv.naver.com/v/28105785</guid>
+            <pubDate>Fri, 22 Jul 2022 09:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[4:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_173/g0OJF_16584793195733VvlH_JPEG/CA202207200095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 미방] 박진영 PD 앞에서도 줏대 세울 수 있는 멤버가 👑ITZY👑...?!😱 l EP.571]]></title>
+            <link>https://tv.naver.com/v/28103720</link>
+            <guid>https://tv.naver.com/v/28103720</guid>
+            <pubDate>Fri, 22 Jul 2022 09:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[4:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_135/DfWGB_1658475720823Kl6rv_JPEG/CA202207200094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[역대급 짜릿함! 대혼돈에 빠진 있지?! ㄷㄷ]]></title>
             <link>https://tv.naver.com/v/28063856</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 13 Jul 2022 12:26:02 GMT</pubDate>
             <content:encoded><![CDATA[2:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220713_197/z5huJ_1657711640517HiaSJ_JPEG/CA202207130077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(리얼 100%) 폭주호VS유태양 '안무 디테일 맞춰↗']]></title>
-            <link>https://tv.naver.com/v/27923418</link>
-            <guid>https://tv.naver.com/v/27923418</guid>
-            <pubDate>Wed, 13 Jul 2022 12:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[4:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_225/YdBEK_1657711389949GSDCE_JPEG/CA202207130076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인성묘사 1인자 다원! 입대한 인성의 부재가 느껴지는 순간]]></title>
-            <link>https://tv.naver.com/v/27923143</link>
-            <guid>https://tv.naver.com/v/27923143</guid>
-            <pubDate>Wed, 13 Jul 2022 11:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_116/YNstb_1657710480487GNG35_JPEG/CA202207130075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
