@@ -4,7 +4,7 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 09:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 10:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 22 Jul 2022 09:14:45 GMT</pubDate>
             <content:encoded><![CDATA[4:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_135/DfWGB_1658475720823Kl6rv_JPEG/CA202207200094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주간아이돌 572회 Xdinary Heroes 편 예고]]></title>
+            <link>https://tv.naver.com/v/28103346</link>
+            <guid>https://tv.naver.com/v/28103346</guid>
+            <pubDate>Fri, 22 Jul 2022 10:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_45/6cEdh_1658475133133LI0n8_JPEG/CA202207270002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[역대급 짜릿함! 대혼돈에 빠진 있지?! ㄷㄷ]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Jul 2022 12:26:02 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220713_288/UJ8fE_1657711920392pJbYD_JPEG/CA202207130078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[※개봉 박두※ 습구 싸움에 등터지는 종이 인형 광희ㅋㅋㅋ]]></title>
-            <link>https://tv.naver.com/v/27923475</link>
-            <guid>https://tv.naver.com/v/27923475</guid>
-            <pubDate>Wed, 13 Jul 2022 12:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_197/z5huJ_1657711640517HiaSJ_JPEG/CA202207130077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
