@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 10:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 11:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간신곡] 환상적임+웅장함 다 잡은 Xdinary Heroes(엑스디너리 히어로즈)의 ‘Test Me'♬ l EP.572]]></title>
+            <link>https://tv.naver.com/v/28191269</link>
+            <guid>https://tv.naver.com/v/28191269</guid>
+            <pubDate>Wed, 27 Jul 2022 11:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_261/7EWZP_1658898478742HMnBU_JPEG/CA202207270016.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방송선공개] 춤짱 엑디즈 이젠 댄스계마저 점령..? 짱디즈가 커버하는 JYP 댄스 메들리★]]></title>
             <link>https://tv.naver.com/v/28149204</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Jul 2022 09:14:30 GMT</pubDate>
             <content:encoded><![CDATA[4:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220714_159/a0aou_16577803193450tNsU_JPEG/CA202207130101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
-            <link>https://tv.naver.com/v/27923535</link>
-            <guid>https://tv.naver.com/v/27923535</guid>
-            <pubDate>Wed, 13 Jul 2022 12:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_191/ZjrSq_1657711934522Jj5qy_JPEG/CA202207130081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
