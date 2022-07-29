@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 08:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 09:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Weekly Playlist+ l 세로캠] Xdinary Heroes - ＜KNOCK DOWN + Trouble's Coming + 한페이지가 될 수 있게＞ ♬ l EP.572]]></title>
+            <link>https://tv.naver.com/v/28249529</link>
+            <guid>https://tv.naver.com/v/28249529</guid>
+            <pubDate>Fri, 29 Jul 2022 09:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_4/eBrNw_1659084724552SufBt_JPEG/CA202207270062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
             <link>https://tv.naver.com/v/28200239</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Jul 2022 11:12:27 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220720_277/opinl_1658315222937euGYL_JPEG/CA202207200063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠] ITZY CHAERYEONG- SNEAKERS (있지 채령 - 스니커즈) l EP.571]]></title>
-            <link>https://tv.naver.com/v/28056859</link>
-            <guid>https://tv.naver.com/v/28056859</guid>
-            <pubDate>Wed, 20 Jul 2022 12:29:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_116/vmJ4V_1658300220404mO8LP_JPEG/CA202207200023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
