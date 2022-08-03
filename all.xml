@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 10:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 11:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간신곡] 힙한 무드 다 씹어 먹은 ATEEZ의 ‘Guerrilla’♬ l EP.573 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28341647</link>
+            <guid>https://tv.naver.com/v/28341647</guid>
+            <pubDate>Wed, 03 Aug 2022 11:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_6/CYBs3_1659508020706cByfC_JPEG/CA202208030013.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방송선공개] 상견례 프리 빠꾸(?)상 산이...? 우리 사니한테 다들 웨그뤱..? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28296012</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Jul 2022 12:29:33 GMT</pubDate>
             <content:encoded><![CDATA[4:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220720_121/p2MIo_1658315823916mPmha_JPEG/CA202207200067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무대 위 센캐♨ 무대 아래 쾌녀★ 있지의 반전매력 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28063131</link>
-            <guid>https://tv.naver.com/v/28063131</guid>
-            <pubDate>Wed, 20 Jul 2022 11:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_269/5WBkV_1658315523460VM8O8_JPEG/CA202207200066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
