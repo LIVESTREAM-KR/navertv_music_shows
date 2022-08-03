@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 12:29:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 13:37:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220803_275/jFv5q_16595092258031hhmO_JPEG/CA202208030025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Weekly Playlist+ l 4K캠] ATEEZ - ＜춤을 춰(TO THE BEAT) + 선도부(The Leaders) + Good Lil Boy＞ ♬ l EP.573 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28342122</link>
+            <guid>https://tv.naver.com/v/28342122</guid>
+            <pubDate>Wed, 03 Aug 2022 13:37:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_124/nMYwL_16595092245803OXGX_JPEG/CA202208030024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간아 직캠] ATEEZ SEONGHWA- GUERRILLA (에이티즈 성화 - 게릴라) l EP.573 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28341886</link>
             <guid>https://tv.naver.com/v/28341886</guid>
@@ -184,6 +192,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220803_63/nDJFM_1659508019275wE4Ru_JPEG/CA202208030009.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간아 짐벌캠] ATEEZ - GUERRILLA (에이티즈 - 게릴라) l EP.573 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28322879</link>
+            <guid>https://tv.naver.com/v/28322879</guid>
+            <pubDate>Wed, 03 Aug 2022 13:37:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_203/zCUbk_16594309221004L0X0_JPEG/CA202208030006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 4K캠] ATEEZ - GUERRILLA (에이티즈 - 게릴라) l EP.573 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28322877</link>
+            <guid>https://tv.naver.com/v/28322877</guid>
+            <pubDate>Wed, 03 Aug 2022 13:37:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_40/J8NNO_1659430920862wPAUl_JPEG/CA202208030005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[방송선공개] 상견례 프리 빠꾸(?)상 산이...? 우리 사니한테 다들 웨그뤱..? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28296012</link>
             <guid>https://tv.naver.com/v/28296012</guid>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 27 Jul 2022 12:31:47 GMT</pubDate>
             <content:encoded><![CDATA[0:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220727_9/nkXL5_1658921534431cVbiw_JPEG/CA202207270057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오드의 독무대였던 원샷원킬 힘VS힘의 대결! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28200226</link>
-            <guid>https://tv.naver.com/v/28200226</guid>
-            <pubDate>Wed, 27 Jul 2022 12:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_129/Aup5i_1658921522629sC4Jh_JPEG/CA202207270056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑디즈의 ★립스틱 펜싱 히어로즈★ 게임 (있지의 ICY한 옵션까지!) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28200225</link>
-            <guid>https://tv.naver.com/v/28200225</guid>
-            <pubDate>Wed, 27 Jul 2022 12:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_121/S7xQm_1658921521466xVdFu_JPEG/CA202207270054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑디즈 순둥이의 반란?! '몸 좀 그만 까아악↗!!' (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28200126</link>
-            <guid>https://tv.naver.com/v/28200126</guid>
-            <pubDate>Wed, 27 Jul 2022 12:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[4:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_259/RlxxW_1658921219850FUbXf_JPEG/CA202207270053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
