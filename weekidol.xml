@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 09:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 10:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주간아이돌 574회 골든차일드 편 예고]]></title>
+            <link>https://tv.naver.com/v/28393800</link>
+            <guid>https://tv.naver.com/v/28393800</guid>
+            <pubDate>Fri, 05 Aug 2022 10:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_196/0mTmc_1659688024123kiSpz_JPEG/CA202208100002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Weekly Playlist+ l 세로캠] ATEEZ - ＜ 춤을 춰(TO THE BEAT) + 선도부(The Leaders) + Good Lil Boy ＞ ♬ l EP.573]]></title>
             <link>https://tv.naver.com/v/28390453</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Jul 2022 09:15:01 GMT</pubDate>
             <content:encoded><![CDATA[4:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_4/eBrNw_1659084724552SufBt_JPEG/CA202207270062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 573회 ATEEZ 편 예고]]></title>
-            <link>https://tv.naver.com/v/28245296</link>
-            <guid>https://tv.naver.com/v/28245296</guid>
-            <pubDate>Fri, 29 Jul 2022 10:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_15/a0ZIK_16590793815731E6LE_JPEG/CA202208030001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
