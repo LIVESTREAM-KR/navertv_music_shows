@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 08:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 09:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Weekly Playlist+ l 세로캠] ATEEZ - ＜ 춤을 춰(TO THE BEAT) + 선도부(The Leaders) + Good Lil Boy ＞ ♬ l EP.573 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28390453</link>
+            <guid>https://tv.naver.com/v/28390453</guid>
+            <pubDate>Fri, 05 Aug 2022 09:14:31 GMT</pubDate>
+            <content:encoded><![CDATA[4:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_91/rI5or_16596808223320iPKz_JPEG/CA202208030106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고딩 윤호의 소고기 FLEX $$, 민기는 또 상처...@_@ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28349305</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Jul 2022 10:16:01 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_15/a0ZIK_16590793815731E6LE_JPEG/CA202208030001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28200239</link>
-            <guid>https://tv.naver.com/v/28200239</guid>
-            <pubDate>Wed, 27 Jul 2022 12:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[0:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_9/nkXL5_1658921534431cVbiw_JPEG/CA202207270057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
