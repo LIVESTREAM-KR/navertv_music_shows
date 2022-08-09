@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 23:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 01:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[방송선공개] 금둥이들한테 온 많은 커버댄스 소원들! 그 중 제일은 보민이와 재현이가 추는 세븐틴의 '예쁘다' 아니겠어? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28437692</link>
+            <guid>https://tv.naver.com/v/28437692</guid>
+            <pubDate>Tue, 09 Aug 2022 01:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_107/ekZwg_1659946082171YHEJb_JPEG/CA202208100005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] 다들 아시겠지만.. 주간아 새롭게 생긴 셀프로필칸..! 하지만 이렇게 적은 분은 처음이라고.. 기묘하다 기묘해 ㅠ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28437691</link>
+            <guid>https://tv.naver.com/v/28437691</guid>
+            <pubDate>Tue, 09 Aug 2022 01:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_162/8AwnW_1659946080969o5grW_JPEG/CA202208100004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 574회 골든차일드 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28393800</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 02 Aug 2022 01:26:58 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_155/S3EIL_1659336436643E6MbC_JPEG/CA202208030004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 세계로 뻗어나가는 우리티즈..★ 해외 투어 중 있었던 썰 푼다..★ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28296009</link>
-            <guid>https://tv.naver.com/v/28296009</guid>
-            <pubDate>Tue, 02 Aug 2022 01:26:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_28/og3EI_1659336435197zIebI_JPEG/CA202208030003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist+ l 세로캠] Xdinary Heroes - ＜KNOCK DOWN + Trouble's Coming + 한페이지가 될 수 있게＞ ♬ l EP.572 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28249529</link>
-            <guid>https://tv.naver.com/v/28249529</guid>
-            <pubDate>Fri, 29 Jul 2022 09:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_4/eBrNw_1659084724552SufBt_JPEG/CA202207270062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
