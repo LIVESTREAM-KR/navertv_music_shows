@@ -4,7 +4,7 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 12:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 13:31:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,22 @@
             <pubDate>Wed, 10 Aug 2022 11:12:52 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220810_53/ZcZhV_1660129020980WJE4y_JPEG/CA202208100044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 4K캠] Golden Child - Replay (골든차일드 - 리플레이) l EP.574]]></title>
+            <link>https://tv.naver.com/v/28475538</link>
+            <guid>https://tv.naver.com/v/28475538</guid>
+            <pubDate>Wed, 10 Aug 2022 13:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_247/nDthW_1660100221858MPLIa_JPEG/CA202208100018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 짐벌캠] Golden Child - Replay (골든차일드 - 리플레이) l EP.574]]></title>
+            <link>https://tv.naver.com/v/28475295</link>
+            <guid>https://tv.naver.com/v/28475295</guid>
+            <pubDate>Wed, 10 Aug 2022 13:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_240/w2wdT_166009962223215zIF_JPEG/CA202208100017.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주간아 직캠] Golden Child Y - Replay (골든차일드 와이 - 리플레이) l EP.574]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 05 Aug 2022 09:14:31 GMT</pubDate>
             <content:encoded><![CDATA[4:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220805_91/rI5or_16596808223320iPKz_JPEG/CA202208030106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고딩 윤호의 소고기 FLEX $$, 민기는 또 상처...@_@]]></title>
-            <link>https://tv.naver.com/v/28349305</link>
-            <guid>https://tv.naver.com/v/28349305</guid>
-            <pubDate>Wed, 03 Aug 2022 12:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[5:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_194/AbqhC_1659525419772q7N8g_JPEG/CA202208030083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2배속도 무리 없는 퍼포 천재 에이티즈의 랜덤 플레이 댄스★]]></title>
-            <link>https://tv.naver.com/v/28349192</link>
-            <guid>https://tv.naver.com/v/28349192</guid>
-            <pubDate>Wed, 03 Aug 2022 12:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_104/DHoYj_1659525123821zUKaO_JPEG/CA202208030086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
