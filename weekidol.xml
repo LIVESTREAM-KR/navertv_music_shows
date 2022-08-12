@@ -4,7 +4,7 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 09:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 10:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 12 Aug 2022 09:14:48 GMT</pubDate>
             <content:encoded><![CDATA[4:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220812_37/GraUp_1660288076647xxGD3_JPEG/CA202208100107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주간아이돌 575회 여름방학 특집 편 예고]]></title>
+            <link>https://tv.naver.com/v/28533164</link>
+            <guid>https://tv.naver.com/v/28533164</guid>
+            <pubDate>Fri, 12 Aug 2022 10:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_12/WzZkl_1660287178458pQT4j_JPEG/CA202208170002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
@@ -40,7 +48,7 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220810_128/XOcL7_1660130229766fCRTO_JPEG/CA202208100053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주찬에게 정~~말 서운했든 태그의 찐심,,ㅠㅠ]]></title>
+            <title><![CDATA[주찬에게 정~~말 서운했던 태그의 찐심,,ㅠㅠ]]></title>
             <link>https://tv.naver.com/v/28488801</link>
             <guid>https://tv.naver.com/v/28488801</guid>
             <pubDate>Wed, 10 Aug 2022 12:28:43 GMT</pubDate>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 09 Aug 2022 01:23:17 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220808_162/8AwnW_1659946080969o5grW_JPEG/CA202208100004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 574회 골든차일드 편 예고]]></title>
-            <link>https://tv.naver.com/v/28393800</link>
-            <guid>https://tv.naver.com/v/28393800</guid>
-            <pubDate>Fri, 05 Aug 2022 10:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_196/0mTmc_1659688024123kiSpz_JPEG/CA202208100002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
