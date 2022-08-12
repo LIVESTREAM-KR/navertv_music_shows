@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 08:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 09:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Weekly Playlist+ l 세로캠] Golden Child - ＜담다디+너 없인 안 된다+3!6!5!＞ ♬ l EP.574 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28533625</link>
+            <guid>https://tv.naver.com/v/28533625</guid>
+            <pubDate>Fri, 12 Aug 2022 09:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[4:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_37/GraUp_1660288076647xxGD3_JPEG/CA202208100107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28488806</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 05 Aug 2022 10:15:52 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220805_196/0mTmc_1659688024123kiSpz_JPEG/CA202208100002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist+ l 세로캠] ATEEZ - ＜ 춤을 춰(TO THE BEAT) + 선도부(The Leaders) + Good Lil Boy ＞ ♬ l EP.573 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28390453</link>
-            <guid>https://tv.naver.com/v/28390453</guid>
-            <pubDate>Fri, 05 Aug 2022 09:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[4:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_91/rI5or_16596808223320iPKz_JPEG/CA202208030106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
