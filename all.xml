@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 12:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 13:45:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220817_58/4Kkyc_1660714332807fYAQS_JPEG/CA202208170011_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Weekly Playlist l 4K캠] BLITZERS - Hello Future (블리처스 - 헬로 퓨쳐) (원곡 : NCT DREAM) l EP.575 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28612571</link>
+            <guid>https://tv.naver.com/v/28612571</guid>
+            <pubDate>Wed, 17 Aug 2022 13:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_275/VASpn_1660714020991Hg10o_JPEG/CA202208170009.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Playlist l 4K캠] OMEGA X - HOT (오메가엑스 - 핫) (원곡 : 세븐틴) l EP.575 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28612569</link>
+            <guid>https://tv.naver.com/v/28612569</guid>
+            <pubDate>Wed, 17 Aug 2022 13:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_227/IoKmL_1660714019862YosVT_JPEG/CA202208170008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Playlist l 4K캠] bugAboo - ICY (버가부 - 아이씨) (원곡 : ITZY) l EP.575 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28612468</link>
+            <guid>https://tv.naver.com/v/28612468</guid>
+            <pubDate>Wed, 17 Aug 2022 13:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_10/baIqr_16607137777198Wtir_JPEG/CA202208170007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주간아 직캠] 골든차일드 '와장찬(Y, 장준, 주찬)'의 오렌지캬라멜 ＜마법소녀＞ 커버 직캠 Ver. l EP.574 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28590503</link>
             <guid>https://tv.naver.com/v/28590503</guid>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 12 Aug 2022 11:13:21 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220812_47/YYKjA_1660291677692jqsl2_JPEG/CA202208030107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist+ l 세로캠] Golden Child - ＜담다디+너 없인 안 된다+3!6!5!＞ ♬ l EP.574 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28533625</link>
-            <guid>https://tv.naver.com/v/28533625</guid>
-            <pubDate>Fri, 12 Aug 2022 09:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_102/T63UY_1660611119512sOU0q_JPEG/CA202208100107_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 575회 여름방학 특집 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28533164</link>
-            <guid>https://tv.naver.com/v/28533164</guid>
-            <pubDate>Fri, 12 Aug 2022 10:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_12/WzZkl_1660287178458pQT4j_JPEG/CA202208170002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28488806</link>
-            <guid>https://tv.naver.com/v/28488806</guid>
-            <pubDate>Wed, 10 Aug 2022 12:28:43 GMT</pubDate>
-            <content:encoded><![CDATA[0:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_16/klMio_16601302343644LpBb_JPEG/CA202208100055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
