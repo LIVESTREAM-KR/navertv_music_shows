@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 09:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 10:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주간아이돌 576회 IVE 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28672376</link>
+            <guid>https://tv.naver.com/v/28672376</guid>
+            <pubDate>Fri, 19 Aug 2022 10:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_200/YNSbL_1660898819068wmbxL_JPEG/CA202208240002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28621106</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 12 Aug 2022 11:13:21 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220812_74/YRQuD_1660301582120goyxq_JPEG/CA202208100108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 미방] 🔥FIRE한  랜플댄 하드털이🔥 ATEEZ가 추는 BTS의 불타오르네 l EP.573 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28535610</link>
-            <guid>https://tv.naver.com/v/28535610</guid>
-            <pubDate>Fri, 12 Aug 2022 11:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_47/YYKjA_1660291677692jqsl2_JPEG/CA202208030107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
