@@ -4,7 +4,7 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 03:36:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 04:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 19 Aug 2022 10:18:13 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_200/YNSbL_1660898819068wmbxL_JPEG/CA202208240002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 미방] ATEEZ 멤버들도 질색하게 만드는 찐 꼰대 우영😱 (고통받는 KQ 연습생..☆) l EP.573]]></title>
+            <link>https://tv.naver.com/v/28645797</link>
+            <guid>https://tv.naver.com/v/28645797</guid>
+            <pubDate>Sat, 20 Aug 2022 04:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_122/sYXIp_1660870319253RDd4P_JPEG/CA202208030108_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 16 Aug 2022 01:24:34 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220815_44/q3hMu_1660550519028wFvtA_JPEG/CA202208170003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 미방] 오늘도.. 얼굴로 때워봅니다^__^ 뽀민이의 얼굴로 개인기 때워온 나날들..☆ l EP.574]]></title>
-            <link>https://tv.naver.com/v/28539380</link>
-            <guid>https://tv.naver.com/v/28539380</guid>
-            <pubDate>Fri, 12 Aug 2022 11:13:21 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_74/YRQuD_1660301582120goyxq_JPEG/CA202208100108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
