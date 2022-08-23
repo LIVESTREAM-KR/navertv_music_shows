@@ -4,9 +4,25 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 23:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 01:29:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[방송선공개] 주간아이돌 시그니처 코너에 도전하는 아기브! 잘.. 할 수 있지..?]]></title>
+            <link>https://tv.naver.com/v/28717091</link>
+            <guid>https://tv.naver.com/v/28717091</guid>
+            <pubDate>Tue, 23 Aug 2022 01:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_108/pdZLu_1661152018686bH2i6_JPEG/CA202208240005_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] ＜After LIKE＞로 또 한 번 세상을 사랑에 빠트릴 우리브! 전 세계로 뻗어나갈 유후~♥]]></title>
+            <link>https://tv.naver.com/v/28716958</link>
+            <guid>https://tv.naver.com/v/28716958</guid>
+            <pubDate>Tue, 23 Aug 2022 01:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_197/WaWsd_1661151719641F6c0Q_JPEG/CA202208240004_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 576회 IVE 편 예고]]></title>
             <link>https://tv.naver.com/v/28672376</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 16 Aug 2022 01:24:34 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220815_185/VjDYf_1660550818918fXGG9_JPEG/CA202208170005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] ★스페셜 MC 창빈이와 함께하는 주간아이돌★ 약속 지키는 창빈이 주간아에서 복근 공개(?)]]></title>
-            <link>https://tv.naver.com/v/28575974</link>
-            <guid>https://tv.naver.com/v/28575974</guid>
-            <pubDate>Tue, 16 Aug 2022 01:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220815_213/FdTRD_1660550522011RYLFw_JPEG/CA202208170004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[♥오직 팬들 위해 존재하는 주간아이돌♥ 매주 수요일만 기다려지는데.. 새롭게 생긴 신상 코너들까지..?!]]></title>
-            <link>https://tv.naver.com/v/28575971</link>
-            <guid>https://tv.naver.com/v/28575971</guid>
-            <pubDate>Tue, 16 Aug 2022 01:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220815_44/q3hMu_1660550519028wFvtA_JPEG/CA202208170003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
