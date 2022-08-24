@@ -4,7 +4,7 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 12:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 13:33:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,6 +160,30 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_250/1cXcJ_1661323321200W9rhi_JPEG/CA202208240024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Weekly Playlist+ l 4K캠] IVE - ＜ELEVEN + ROYAL + Zedd&Kehlani - Good Thing ＞ ♬ l EP.576]]></title>
+            <link>https://tv.naver.com/v/28757012</link>
+            <guid>https://tv.naver.com/v/28757012</guid>
+            <pubDate>Wed, 24 Aug 2022 13:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_231/XNd8B_1661308916885H8z6L_JPEG/CA202208240019.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 4K캠] IVE - After LIKE (아이브 - 애프터 라이크) l EP.576]]></title>
+            <link>https://tv.naver.com/v/28754056</link>
+            <guid>https://tv.naver.com/v/28754056</guid>
+            <pubDate>Wed, 24 Aug 2022 13:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_262/sMxdI_1661299679225KKUIf_JPEG/CA202208240012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 짐벌캠] IVE - After LIKE (아이브 - 애프터 라이크) l EP.576]]></title>
+            <link>https://tv.naver.com/v/28754001</link>
+            <guid>https://tv.naver.com/v/28754001</guid>
+            <pubDate>Wed, 24 Aug 2022 13:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_173/YGQni_16612993225014Lkh5_JPEG/CA202208240013.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[방송선공개] 주간아이돌 시그니처 코너에 도전하는 아기브! 잘.. 할 수 있지..?]]></title>
             <link>https://tv.naver.com/v/28717091</link>
             <guid>https://tv.naver.com/v/28717091</guid>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 17 Aug 2022 12:30:23 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220817_139/6dNbV_1660731427869AIqWD_JPEG/CA202208170032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우승 굳히기 들어가는 사나운(?) 옴라노사우루스🦖]]></title>
-            <link>https://tv.naver.com/v/28620992</link>
-            <guid>https://tv.naver.com/v/28620992</guid>
-            <pubDate>Wed, 17 Aug 2022 11:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_277/fGxrs_1660731426178GqpDO_JPEG/CA202208170031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말도 안 되는(?) 바다'혁'끼리에 중독된 빈MCㅋㅋ]]></title>
-            <link>https://tv.naver.com/v/28620986</link>
-            <guid>https://tv.naver.com/v/28620986</guid>
-            <pubDate>Wed, 17 Aug 2022 11:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_101/gME96_16607326232385gXBJ_JPEG/CA202208170029_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쉽게 웃지 않는 내가 '줏대좌' 창빈이란다↗]]></title>
-            <link>https://tv.naver.com/v/28620985</link>
-            <guid>https://tv.naver.com/v/28620985</guid>
-            <pubDate>Wed, 17 Aug 2022 11:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_227/hn0Hi_1660731418811rtFq5_JPEG/CA202208170028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
