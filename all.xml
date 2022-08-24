@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 10:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 11:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간신곡] 이번 컴백으로 더 완벽하게 빛난✨ IVE(아이브) ‘After LIKE’♬ l EP.576 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28765847</link>
+            <guid>https://tv.naver.com/v/28765847</guid>
+            <pubDate>Wed, 24 Aug 2022 11:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_119/YH5TF_1661323322581zC21N_JPEG/CA202208240025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방송선공개] 주간아이돌 시그니처 코너에 도전하는 아기브! 잘.. 할 수 있지..? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28717091</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 16 Aug 2022 10:15:09 GMT</pubDate>
             <content:encoded><![CDATA[4:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220816_159/IgLBg_1660628224365apM6K_JPEG/CA202208100110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 아.. 수박 먹고 싶다.. 대리 수박 먹어드립니다! 3팀이 펼치는 ＜수박 빨리 먹기＞ 과연 승리팀은? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28576033</link>
-            <guid>https://tv.naver.com/v/28576033</guid>
-            <pubDate>Tue, 16 Aug 2022 01:24:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220815_185/VjDYf_1660550818918fXGG9_JPEG/CA202208170005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
