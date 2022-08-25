@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 08:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 09:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Weekly Playlist+ l 세로캠] IVE - ＜ ELEVEN + ROYAL ＞ ♬ l EP.576 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28782603</link>
+            <guid>https://tv.naver.com/v/28782603</guid>
+            <pubDate>Thu, 25 Aug 2022 09:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220825_201/cJjiS_1661392919203ENzEt_JPEG/CA202208240109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Playlist+ l 세로캠] IVE 안유진 - ＜ Good Thing ＞ ♬ (원곡 : Zedd&Kehlani) l EP.576 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28782493</link>
+            <guid>https://tv.naver.com/v/28782493</guid>
+            <pubDate>Thu, 25 Aug 2022 09:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220825_203/sLfuT_16613926198082jemW_JPEG/CA202208240108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[당당함 풀 장착한 아이브의 랜덤 플레이 댄스★ㅋㅋ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28773383</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 17 Aug 2022 12:30:23 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220817_297/rLCn5_1660731719840creum_JPEG/CA202208170034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비빔면 먹는 법? 일단 들이붓고 보는거야! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28620995</link>
-            <guid>https://tv.naver.com/v/28620995</guid>
-            <pubDate>Wed, 17 Aug 2022 12:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_49/Qq5Mm_1660731429442aljwo_JPEG/CA202208170033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우승 대신 웃음을 선택한 우당탕 블리처스🍦 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28620993</link>
-            <guid>https://tv.naver.com/v/28620993</guid>
-            <pubDate>Wed, 17 Aug 2022 12:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_139/6dNbV_1660731427869AIqWD_JPEG/CA202208170032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
