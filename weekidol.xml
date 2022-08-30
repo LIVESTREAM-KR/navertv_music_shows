@@ -4,9 +4,25 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 23:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 01:46:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[방송선공개] ♥ 표정장인 츠키의 오또케 송 ♥ 너무 귀여워서 오또카지..?]]></title>
+            <link>https://tv.naver.com/v/28875715</link>
+            <guid>https://tv.naver.com/v/28875715</guid>
+            <pubDate>Tue, 30 Aug 2022 01:46:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_75/VWTUM_16617601177010MCcy_JPEG/CA202208310005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방송선공개] 주간아 시그니처 댄스 테스트 ! ※2배속 댄스※ 이거 2배속 맞아? 체감은 22배속..]]></title>
+            <link>https://tv.naver.com/v/28875713</link>
+            <guid>https://tv.naver.com/v/28875713</guid>
+            <pubDate>Tue, 30 Aug 2022 01:46:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_207/rRwhK_1661760116363GiFDr_JPEG/CA202208310004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 577회 Billlie 편 예고]]></title>
             <link>https://tv.naver.com/v/28821576</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 19 Aug 2022 10:18:13 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_200/YNSbL_1660898819068wmbxL_JPEG/CA202208240002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 미방] ATEEZ 멤버들도 질색하게 만드는 찐 꼰대 우영😱 (고통받는 KQ 연습생..☆) l EP.573]]></title>
-            <link>https://tv.naver.com/v/28645797</link>
-            <guid>https://tv.naver.com/v/28645797</guid>
-            <pubDate>Sat, 20 Aug 2022 04:29:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_122/sYXIp_1660870319253RDd4P_JPEG/CA202208030108_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
-            <link>https://tv.naver.com/v/28621106</link>
-            <guid>https://tv.naver.com/v/28621106</guid>
-            <pubDate>Wed, 17 Aug 2022 12:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[0:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_137/GO5qA_1660731721401cMCxT_JPEG/CA202208170035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
