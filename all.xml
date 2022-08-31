@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 10:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 11:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간신곡] 더 짜릿하게 돌아온 퍼폼 장인 Billlie의 ‘RING ma Bell (what a wonderful world)’♬ l EP.577 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/28916234</link>
+            <guid>https://tv.naver.com/v/28916234</guid>
+            <pubDate>Wed, 31 Aug 2022 11:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_100/Vx6mU_1661912220552NJO21_JPEG/CA202208310007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방송선공개] ♥ 표정장인 츠키의 오또케 송 ♥ 너무 귀여워서 오또카지..? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/28875715</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
             <content:encoded><![CDATA[1:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220822_197/WaWsd_1661151719641F6c0Q_JPEG/CA202208240004_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 576회 IVE 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28672376</link>
-            <guid>https://tv.naver.com/v/28672376</guid>
-            <pubDate>Thu, 25 Aug 2022 12:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_200/YNSbL_1660898819068wmbxL_JPEG/CA202208240002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
