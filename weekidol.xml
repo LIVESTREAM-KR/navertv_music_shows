@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 09:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 10:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주간아이돌 578회 원어스 편 예고]]></title>
+            <link>https://tv.naver.com/v/28978932</link>
+            <guid>https://tv.naver.com/v/28978932</guid>
+            <pubDate>Fri, 02 Sep 2022 10:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_277/T9gq3_16621087835875AAl6_JPEG/CA202209070002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Weekly Playlist l 짐벌캠] Billlie - Love Shot (원곡: EXO) (빌리 - 러브 샷(원곡: EXO)) l EP.577]]></title>
             <link>https://tv.naver.com/v/28949814</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 30 Aug 2022 01:46:18 GMT</pubDate>
             <content:encoded><![CDATA[1:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220829_207/rRwhK_1661760116363GiFDr_JPEG/CA202208310004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주간아이돌 577회 Billlie 편 예고]]></title>
-            <link>https://tv.naver.com/v/28821576</link>
-            <guid>https://tv.naver.com/v/28821576</guid>
-            <pubDate>Fri, 26 Aug 2022 10:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_18/xQloR_1661501281440htjXv_JPEG/CA202208310002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
