@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 10:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 11:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간신곡] 모든 걸 소화해버리는 짱어스! ONEUS의 ‘Same Scent’♬ l EP.578]]></title>
+            <link>https://tv.naver.com/v/29064506</link>
+            <guid>https://tv.naver.com/v/29064506</guid>
+            <pubDate>Wed, 07 Sep 2022 11:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_21/ShQP9_1662517380060PnOXf_JPEG/CA202209070016_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방송선공개] 호락호락하지 않은 주간아와 짱어스가 함께하는 ‘랜덤플레이댄스’!! ‘어렵게 틀어진 랜플’ 의 결과는!?]]></title>
             <link>https://tv.naver.com/v/29024348</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 31 Aug 2022 11:13:22 GMT</pubDate>
             <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220831_100/Vx6mU_1661912220552NJO21_JPEG/CA202208310007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist] 파워풀한 퍼포먼스 장인이 되어 돌아온 Billlie가 커버하는 ＜EXO-Love Shot＞ FULL ver. ♬ l EP.577]]></title>
-            <link>https://tv.naver.com/v/28915974</link>
-            <guid>https://tv.naver.com/v/28915974</guid>
-            <pubDate>Wed, 31 Aug 2022 12:30:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_240/JKywc_1661911624294qMgni_JPEG/CA202208310006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
