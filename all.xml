@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 08:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 09:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,14 @@
             <pubDate>Wed, 07 Sep 2022 12:31:21 GMT</pubDate>
             <content:encoded><![CDATA[3:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220907_120/e69Py_1662527218412kfR4c_JPEG/CA202209070029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Weekly Playlist+ l 세로캠] ONEUS - ＜쉽게 쓰여진 노래+STUPID LOVE+ 피 땀 눈물 (원곡 : BTS) ＞ FULL ver. ♬ l EP.578 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29067080</link>
+            <guid>https://tv.naver.com/v/29067080</guid>
+            <pubDate>Thu, 08 Sep 2022 09:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[4:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_285/gTED9_1662520022188L5cl2_JPEG/CA202209070025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Weekly Playlist+ l 4K캠] ONEUS - ＜쉽게 쓰여진 노래+STUPID LOVE+ 피 땀 눈물 (원곡 : BTS) ＞ FULL ver. ♬ l EP.578 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 31 Aug 2022 12:30:39 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220831_200/oAvFW_1661932379358lpPkP_JPEG/CA202208310059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[츠조교 X 김조교 등판! 여기가 강철부대야@_@? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/28925601</link>
-            <guid>https://tv.naver.com/v/28925601</guid>
-            <pubDate>Wed, 31 Aug 2022 12:30:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_11/rmrh9_1661931423572A85oD_JPEG/CA202208310058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
