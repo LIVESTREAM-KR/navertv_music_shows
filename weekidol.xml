@@ -4,7 +4,7 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 09:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 10:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 07 Sep 2022 12:31:21 GMT</pubDate>
             <content:encoded><![CDATA[3:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220907_39/gmwMK_1662550618305Xh5U4_JPEG/CA202209070098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주간아이돌 579회 CIX 편 예고]]></title>
+            <link>https://tv.naver.com/v/29080707</link>
+            <guid>https://tv.naver.com/v/29080707</guid>
+            <pubDate>Fri, 09 Sep 2022 10:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_120/3uHV7_1662550321161bS8Dq_JPEG/CA202209140002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 01 Sep 2022 11:13:24 GMT</pubDate>
             <content:encoded><![CDATA[3:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220901_130/aLaht_1662011521351g9PaR_JPEG/CA202208310102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문수아 VS 하루나 빌리의 암기력 최강자는 과연 누구?]]></title>
-            <link>https://tv.naver.com/v/28926157</link>
-            <guid>https://tv.naver.com/v/28926157</guid>
-            <pubDate>Wed, 31 Aug 2022 12:30:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_200/oAvFW_1661932379358lpPkP_JPEG/CA202208310059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
