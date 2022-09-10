@@ -4,7 +4,7 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 08:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 09:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,6 +208,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220907_21/ShQP9_1662517380060PnOXf_JPEG/CA202209070016_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주간아 미방] 오또케송♡ 빌리 (Billlie) l EP.577]]></title>
+            <link>https://tv.naver.com/v/29047060</link>
+            <guid>https://tv.naver.com/v/29047060</guid>
+            <pubDate>Sat, 10 Sep 2022 09:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_234/P9suo_1662445318942vOBkN_JPEG/CA202208310104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[방송선공개] 호락호락하지 않은 주간아와 짱어스가 함께하는 ‘랜덤플레이댄스’!! ‘어렵게 틀어진 랜플’ 의 결과는!?]]></title>
             <link>https://tv.naver.com/v/29024348</link>
             <guid>https://tv.naver.com/v/29024348</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 01 Sep 2022 11:13:24 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220901_212/5KiNJ_1662012119822Yu8YQ_JPEG/CA202208310103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Weekly Playlist l 4K캠] Billlie - Love Shot (원곡: EXO) (빌리 - 러브 샷(원곡: EXO)) l EP.577]]></title>
-            <link>https://tv.naver.com/v/28949442</link>
-            <guid>https://tv.naver.com/v/28949442</guid>
-            <pubDate>Thu, 01 Sep 2022 11:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220901_130/aLaht_1662011521351g9PaR_JPEG/CA202208310102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
