@@ -4,9 +4,17 @@
         <title>MBC M 주간아이돌 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 10:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 11:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간신곡] 더 강력해져서 돌아 온🔥 CIX(씨아이엑스)의 ‘458'♬ l EP.579]]></title>
+            <link>https://tv.naver.com/v/29187609</link>
+            <guid>https://tv.naver.com/v/29187609</guid>
+            <pubDate>Wed, 14 Sep 2022 11:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_149/Enanz_1663132018774eWb6D_JPEG/CA202209140019.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방송선공개] 늦은 밤 내가 끓인 라면을 동생이 한 입만 달라하면? 근데 그게 CIX야..!]]></title>
             <link>https://tv.naver.com/v/29147910</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 06 Sep 2022 01:45:55 GMT</pubDate>
             <content:encoded><![CDATA[1:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220905_272/Zmnjy_1662362518911zxjg6_JPEG/CA202209070005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[방송선공개] 추석에 집에 데려가고 싶은 1등 신랑감은 누구!? 나는 울어스라면 다 좋은데..♥]]></title>
-            <link>https://tv.naver.com/v/29024347</link>
-            <guid>https://tv.naver.com/v/29024347</guid>
-            <pubDate>Tue, 06 Sep 2022 01:45:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_272/3uqmh_1662362517614gpk7S_JPEG/CA202209070004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
