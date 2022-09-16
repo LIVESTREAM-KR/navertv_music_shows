@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 09:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 10:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주간아이돌 580회 NMIXX 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29248950</link>
+            <guid>https://tv.naver.com/v/29248950</guid>
+            <pubDate>Fri, 16 Sep 2022 10:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220916_48/r68s0_1663318323152s2dcJ_JPEG/CA202209210002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Weekly Playlist+ l 세로캠] CIX - ＜I'm In Love+Movie star+여름바다＞ FULL ver. ♬ l EP.579 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/29218706</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 07 Sep 2022 12:31:21 GMT</pubDate>
             <content:encoded><![CDATA[0:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220907_52/JUnnB_1662550319347RgHYK_JPEG/CA202209070102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(투명도 100%) 레이븐, 녹화장 뛰쳐나갈 뻔한 사연 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/29080564</link>
-            <guid>https://tv.naver.com/v/29080564</guid>
-            <pubDate>Wed, 07 Sep 2022 12:31:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_71/lbvAK_1662549781896Jr40J_JPEG/CA202209070095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
