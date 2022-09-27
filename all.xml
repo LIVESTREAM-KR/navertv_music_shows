@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-26T23:19:25.671Z</updated>
+    <updated>2022-09-27T01:28:10.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 다시 돌아온 넷이서 한마음 ! 아니죠 셋이서 한마음~! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/29473669</id>
+        <link href="https://tv.naver.com/v/29473669"/>
+        <updated>2022-09-27T01:28:04.941Z</updated>
+        <content type="html"><![CDATA[1:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 성민이를 손민수하는 손원진... 알고보니 원진이의 뮤즈?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/29473665</id>
+        <link href="https://tv.naver.com/v/29473665"/>
+        <updated>2022-09-27T01:28:04.943Z</updated>
+        <content type="html"><![CDATA[1:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 581회 CRAVITY 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/29410169</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/29301059"/>
         <updated>2022-09-24T06:14:49.028Z</updated>
         <content type="html"><![CDATA[2:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 580회 NMIXX 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/29248950</id>
-        <link href="https://tv.naver.com/v/29248950"/>
-        <updated>2022-09-24T06:14:49.029Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist+ l 세로캠] CIX - ＜I'm In Love+Movie star+여름바다＞ FULL ver. ♬ l EP.579 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/29218706</id>
-        <link href="https://tv.naver.com/v/29218706"/>
-        <updated>2022-09-24T06:14:49.030Z</updated>
-        <content type="html"><![CDATA[4:39]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
