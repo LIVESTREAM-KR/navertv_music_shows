@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-09-29T11:14:43.824Z</updated>
+    <updated>2022-09-29T12:36:32.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠] CRAVITY - MANIAC (원곡 : Stray Kids) (크래비티 - 매니악) l EP.581]]></title>
+        <id>https://tv.naver.com/v/29556213</id>
+        <link href="https://tv.naver.com/v/29556213"/>
+        <updated>2022-09-29T12:33:28.298Z</updated>
+        <content type="html"><![CDATA[3:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] CRAVITY - MANIAC (원곡 : Stray Kids) (크래비티 - 매니악) l EP.581]]></title>
+        <id>https://tv.naver.com/v/29556048</id>
+        <link href="https://tv.naver.com/v/29556048"/>
+        <updated>2022-09-29T12:33:28.298Z</updated>
+        <content type="html"><![CDATA[3:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조상님이 도왔다! 크래비티의 ＂셋이서 한마음＂ 게임★]]></title>
         <id>https://tv.naver.com/v/29534911</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/29378259"/>
         <updated>2022-09-24T06:14:48.980Z</updated>
         <content type="html"><![CDATA[4:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[같은 팀까지 당황하게 만든 열정 지니모티콘@ㅁ@!]]></title>
-        <id>https://tv.naver.com/v/29350456</id>
-        <link href="https://tv.naver.com/v/29350456"/>
-        <updated>2022-09-24T06:14:48.980Z</updated>
-        <content type="html"><![CDATA[4:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
-        <id>https://tv.naver.com/v/29350416</id>
-        <link href="https://tv.naver.com/v/29350416"/>
-        <updated>2022-09-24T06:14:48.981Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
     </entry>
 </feed>
