@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-09-30T09:25:12.055Z</updated>
+    <updated>2022-09-30T10:22:17.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 582회 EXID 편 예고]]></title>
+        <id>https://tv.naver.com/v/29585025</id>
+        <link href="https://tv.naver.com/v/29585025"/>
+        <updated>2022-09-30T10:19:13.483Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 4K캠] CRAVITY - MANIAC (원곡 : Stray Kids) (크래비티 - 매니악) l EP.581]]></title>
         <id>https://tv.naver.com/v/29556213</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29410169"/>
         <updated>2022-09-24T06:14:48.979Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] 엔믹스(NMIXX)의 '순.정.팬' 노래방 리액션 직캠 Ver. l 한 페이지가 될 수 있게, Fire, How You Like That l EP.580]]></title>
-        <id>https://tv.naver.com/v/29378259</id>
-        <link href="https://tv.naver.com/v/29378259"/>
-        <updated>2022-09-24T06:14:48.980Z</updated>
-        <content type="html"><![CDATA[4:39]]></content>
     </entry>
 </feed>
