@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-10-03T23:19:17.809Z</updated>
+    <updated>2022-10-04T01:43:39.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 6년 만에 돌아온 EXID의 인간 브릿지! 이제 쉽지 않을걸~?]]></title>
+        <id>https://tv.naver.com/v/29635635</id>
+        <link href="https://tv.naver.com/v/29635635"/>
+        <updated>2022-10-04T01:40:34.630Z</updated>
+        <content type="html"><![CDATA[1:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 완벽한 분업 구조로 찐으른이 되어 돌아온 읷순이들의 컴백 비하인드!?]]></title>
+        <id>https://tv.naver.com/v/29635526</id>
+        <link href="https://tv.naver.com/v/29635526"/>
+        <updated>2022-10-04T01:40:34.631Z</updated>
+        <content type="html"><![CDATA[1:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 582회 EXID 편 예고]]></title>
         <id>https://tv.naver.com/v/29585025</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/29473669"/>
         <updated>2022-09-27T01:28:04.941Z</updated>
         <content type="html"><![CDATA[1:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 성민이를 손민수하는 손원진... 알고보니 원진이의 뮤즈?!]]></title>
-        <id>https://tv.naver.com/v/29473665</id>
-        <link href="https://tv.naver.com/v/29473665"/>
-        <updated>2022-09-27T01:28:04.943Z</updated>
-        <content type="html"><![CDATA[1:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 581회 CRAVITY 편 예고]]></title>
-        <id>https://tv.naver.com/v/29410169</id>
-        <link href="https://tv.naver.com/v/29410169"/>
-        <updated>2022-09-24T06:14:48.979Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
     </entry>
 </feed>
