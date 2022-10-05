@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-10-05T11:16:50.393Z</updated>
+    <updated>2022-10-05T12:34:37.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
+        <id>https://tv.naver.com/v/29699073</id>
+        <link href="https://tv.naver.com/v/29699073"/>
+        <updated>2022-10-05T12:34:31.771Z</updated>
+        <content type="html"><![CDATA[0:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6전 2승의 초라한 성적표는 가라! 각성한 EXID의 랜플댄 결과는?!]]></title>
+        <id>https://tv.naver.com/v/29699060</id>
+        <link href="https://tv.naver.com/v/29699060"/>
+        <updated>2022-10-05T12:34:31.771Z</updated>
+        <content type="html"><![CDATA[2:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[＂이게 뭐야..?＂ 물음표 가득한 EXID의 랜덤 플레이 댄스]]></title>
+        <id>https://tv.naver.com/v/29699059</id>
+        <link href="https://tv.naver.com/v/29699059"/>
+        <updated>2022-10-05T12:34:31.772Z</updated>
+        <content type="html"><![CDATA[2:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[곡소리가 절로나는 ＂아예(Ah Yeah)＂ 2배속 랜플댄 X_X]]></title>
+        <id>https://tv.naver.com/v/29699032</id>
+        <link href="https://tv.naver.com/v/29699032"/>
+        <updated>2022-10-05T12:34:31.773Z</updated>
+        <content type="html"><![CDATA[2:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꼬봉(?) 하니의 Savage 에피소드 ＂훔쳐가지 마시오!!＂ㅋㅋㅋㅋ]]></title>
+        <id>https://tv.naver.com/v/29699031</id>
+        <link href="https://tv.naver.com/v/29699031"/>
+        <updated>2022-10-05T12:34:31.779Z</updated>
+        <content type="html"><![CDATA[2:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 어디가 어때서!!! 룸메로 만나면 나랑 진짜 안 맞는 멤버]]></title>
+        <id>https://tv.naver.com/v/29699028</id>
+        <link href="https://tv.naver.com/v/29699028"/>
+        <updated>2022-10-05T12:34:31.804Z</updated>
+        <content type="html"><![CDATA[4:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EXID 10년 우정의 비결은~♥ ＂다시 뭉칠 수 있었던 이유＂]]></title>
+        <id>https://tv.naver.com/v/29698908</id>
+        <link href="https://tv.naver.com/v/29698908"/>
+        <updated>2022-10-05T12:34:31.805Z</updated>
+        <content type="html"><![CDATA[2:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알코올향 진동하는 EXID 공백기 에피술드!]]></title>
+        <id>https://tv.naver.com/v/29698907</id>
+        <link href="https://tv.naver.com/v/29698907"/>
+        <updated>2022-10-05T12:34:31.810Z</updated>
+        <content type="html"><![CDATA[4:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매운맛 풀장착하고 완전체 컴백한 EXID! 포인트 안무★]]></title>
         <id>https://tv.naver.com/v/29698790</id>
@@ -18,6 +74,27 @@
         <link href="https://tv.naver.com/v/29698693"/>
         <updated>2022-10-05T11:16:43.638Z</updated>
         <content type="html"><![CDATA[2:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 4K캠] EXID - fire (이엑스아이디 - 불이나) l EP.582]]></title>
+        <id>https://tv.naver.com/v/29697182</id>
+        <link href="https://tv.naver.com/v/29697182"/>
+        <updated>2022-10-05T12:34:31.821Z</updated>
+        <content type="html"><![CDATA[3:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 짐벌캠] EXID - fire (이엑스아이디 - 불이나) l EP.582]]></title>
+        <id>https://tv.naver.com/v/29697180</id>
+        <link href="https://tv.naver.com/v/29697180"/>
+        <updated>2022-10-05T12:34:31.822Z</updated>
+        <content type="html"><![CDATA[3:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist+] Whoz That girl? 핫걸들만 들을수있는 EXID의 위플플!  ＜위아래+내일해+IDK＞ FULL ver. ♬ l EP.582]]></title>
+        <id>https://tv.naver.com/v/29694012</id>
+        <link href="https://tv.naver.com/v/29694012"/>
+        <updated>2022-10-05T12:34:31.822Z</updated>
+        <content type="html"><![CDATA[7:07]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[주간신곡] 케이팝 매운맛 원조 EXID가 준비한 선물! EXID의 ‘불이나’♬ l EP.582]]></title>
@@ -137,82 +214,5 @@
         <link href="https://tv.naver.com/v/29534470"/>
         <updated>2022-09-28T13:47:54.828Z</updated>
         <content type="html"><![CDATA[2:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음ver. ] CRAVITY - PARTY ROCK (크래비티 - 파티 락) l EP.581]]></title>
-        <id>https://tv.naver.com/v/29526152</id>
-        <link href="https://tv.naver.com/v/29526152"/>
-        <updated>2022-09-28T13:47:54.828Z</updated>
-        <content type="html"><![CDATA[3:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 짐벌캠] CRAVITY - PARTY ROCK (크래비티 - 파티 락) l EP.581]]></title>
-        <id>https://tv.naver.com/v/29523052</id>
-        <link href="https://tv.naver.com/v/29523052"/>
-        <updated>2022-09-28T13:47:54.829Z</updated>
-        <content type="html"><![CDATA[3:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY TAEYOUNG - PARTY ROCK (크래비티 태영 - 파티 락) l EP.581]]></title>
-        <id>https://tv.naver.com/v/29519990</id>
-        <link href="https://tv.naver.com/v/29519990"/>
-        <updated>2022-09-28T13:47:54.830Z</updated>
-        <content type="html"><![CDATA[3:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist] 청량비티에서 섹시파워다크비티로! 크래비티가 준비한 Stray Kids ＜MANIAC＞ FULL ver. ♬ l EP.581]]></title>
-        <id>https://tv.naver.com/v/29517150</id>
-        <link href="https://tv.naver.com/v/29517150"/>
-        <updated>2022-09-28T13:47:54.831Z</updated>
-        <content type="html"><![CDATA[3:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY WONJIN - PARTY ROCK (크래비티 원진 - 파티 락) l EP.581]]></title>
-        <id>https://tv.naver.com/v/29517149</id>
-        <link href="https://tv.naver.com/v/29517149"/>
-        <updated>2022-09-28T13:47:54.835Z</updated>
-        <content type="html"><![CDATA[3:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY JUNGMO - PARTY ROCK (크래비티 정모 - 파티 락) l EP.581]]></title>
-        <id>https://tv.naver.com/v/29517148</id>
-        <link href="https://tv.naver.com/v/29517148"/>
-        <updated>2022-09-28T13:47:54.837Z</updated>
-        <content type="html"><![CDATA[3:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY HYEONGJUN - PARTY ROCK (크래비티 형준 - 파티 락) l EP.581]]></title>
-        <id>https://tv.naver.com/v/29517147</id>
-        <link href="https://tv.naver.com/v/29517147"/>
-        <updated>2022-09-28T13:47:54.838Z</updated>
-        <content type="html"><![CDATA[3:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY ALLEN - PARTY ROCK (크래비티 앨런 - 파티 락) l EP.581]]></title>
-        <id>https://tv.naver.com/v/29516999</id>
-        <link href="https://tv.naver.com/v/29516999"/>
-        <updated>2022-09-28T13:47:54.838Z</updated>
-        <content type="html"><![CDATA[3:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY SERIM - PARTY ROCK (크래비티 세림 - 파티 락) l EP.581]]></title>
-        <id>https://tv.naver.com/v/29516998</id>
-        <link href="https://tv.naver.com/v/29516998"/>
-        <updated>2022-09-28T13:47:54.842Z</updated>
-        <content type="html"><![CDATA[3:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY SEONGMIN - PARTY ROCK (크래비티 성민 - 파티 락) l EP.581]]></title>
-        <id>https://tv.naver.com/v/29516865</id>
-        <link href="https://tv.naver.com/v/29516865"/>
-        <updated>2022-09-28T13:47:54.843Z</updated>
-        <content type="html"><![CDATA[3:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY MINHEE - PARTY ROCK (크래비티 민희 - 파티 락) l EP.581]]></title>
-        <id>https://tv.naver.com/v/29516732</id>
-        <link href="https://tv.naver.com/v/29516732"/>
-        <updated>2022-09-28T13:47:54.846Z</updated>
-        <content type="html"><![CDATA[3:09]]></content>
     </entry>
 </feed>
