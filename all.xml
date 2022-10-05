@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-05T10:22:28.779Z</updated>
+    <updated>2022-10-05T11:16:50.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[매운맛 풀장착하고 완전체 컴백한 EXID! 포인트 안무★ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/29698790</id>
+        <link href="https://tv.naver.com/v/29698790"/>
+        <updated>2022-10-05T11:16:43.636Z</updated>
+        <content type="html"><![CDATA[1:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K-pop 매운맛 원조들의 귀환! 원조mc와 함께 온 EXID♨ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/29698693</id>
+        <link href="https://tv.naver.com/v/29698693"/>
+        <updated>2022-10-05T11:16:43.638Z</updated>
+        <content type="html"><![CDATA[2:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간신곡] 케이팝 매운맛 원조 EXID가 준비한 선물! EXID의 ‘불이나’♬ l EP.582 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/29680627</id>
+        <link href="https://tv.naver.com/v/29680627"/>
+        <updated>2022-10-05T11:16:43.638Z</updated>
+        <content type="html"><![CDATA[3:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 6년 만에 돌아온 EXID의 인간 브릿지! 이제 쉽지 않을걸~? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/29635635</id>
@@ -192,27 +213,6 @@
         <link href="https://tv.naver.com/v/29516732"/>
         <updated>2022-09-28T13:47:54.846Z</updated>
         <content type="html"><![CDATA[3:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY WOOBIN - PARTY ROCK (크래비티 우빈 - 파티 락) l EP.581 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/29516730</id>
-        <link href="https://tv.naver.com/v/29516730"/>
-        <updated>2022-09-28T13:47:54.847Z</updated>
-        <content type="html"><![CDATA[3:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간신곡] 중독성 강한 클깅이들의 PARTY 시작! CRAVITY의 ‘PARTY ROCK’♬ l EP.581 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/29516476</id>
-        <link href="https://tv.naver.com/v/29516476"/>
-        <updated>2022-09-28T11:15:36.813Z</updated>
-        <content type="html"><![CDATA[3:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 다시 돌아온 넷이서 한마음 ! 아니죠 셋이서 한마음~! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/29473669</id>
-        <link href="https://tv.naver.com/v/29473669"/>
-        <updated>2022-09-27T01:28:04.941Z</updated>
-        <content type="html"><![CDATA[1:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
