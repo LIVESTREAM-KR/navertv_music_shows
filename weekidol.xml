@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-10-06T09:23:01.863Z</updated>
+    <updated>2022-10-06T10:20:19.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 세로캠] 이엑스아이디 (EXID) - ＜위아래+내일해+IDK＞♬ l EP.582]]></title>
+        <id>https://tv.naver.com/v/29727470</id>
+        <link href="https://tv.naver.com/v/29727470"/>
+        <updated>2022-10-06T10:20:14.122Z</updated>
+        <content type="html"><![CDATA[4:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
         <id>https://tv.naver.com/v/29699073</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29534472"/>
         <updated>2022-09-28T13:47:54.827Z</updated>
         <content type="html"><![CDATA[2:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관종협회 정회원 등극 태영✨ 저리비켜 안성민↗]]></title>
-        <id>https://tv.naver.com/v/29534470</id>
-        <link href="https://tv.naver.com/v/29534470"/>
-        <updated>2022-09-28T13:47:54.828Z</updated>
-        <content type="html"><![CDATA[2:13]]></content>
     </entry>
 </feed>
