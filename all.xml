@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-07T09:23:45.701Z</updated>
+    <updated>2022-10-07T10:20:38.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 583회 Stray Kids 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/29759112</id>
+        <link href="https://tv.naver.com/v/29759112"/>
+        <updated>2022-10-07T10:20:33.728Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 세로캠] 이엑스아이디 (EXID) - ＜위아래+내일해+IDK＞♬ l EP.582 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/29727470</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/29534476"/>
         <updated>2022-09-28T13:47:54.827Z</updated>
         <content type="html"><![CDATA[2:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강민희는 강아지라서 강씨인가? 강쥐 인증 아이돌🐶 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/29534472</id>
-        <link href="https://tv.naver.com/v/29534472"/>
-        <updated>2022-09-28T13:47:54.827Z</updated>
-        <content type="html"><![CDATA[2:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
