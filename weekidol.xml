@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-10-12T10:20:42.295Z</updated>
+    <updated>2022-10-12T11:16:45.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간신곡] 원조 퍼포맛집 스키즈 컴백! Stray Kids의 ‘CASE 143’♬ l EP.583]]></title>
+        <id>https://tv.naver.com/v/29853671</id>
+        <link href="https://tv.naver.com/v/29853671"/>
+        <updated>2022-10-12T11:16:40.390Z</updated>
+        <content type="html"><![CDATA[3:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 스키즈와 평친하고 싶은 사람 여기 여기 붙어라~! 스키즈가 평친을 위해 이것까지 해 줄 수 있는 것은??]]></title>
         <id>https://tv.naver.com/v/29809076</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29534612"/>
         <updated>2022-09-28T13:47:54.821Z</updated>
         <content type="html"><![CDATA[2:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원진, 성민에게 0고백 1차임]]></title>
-        <id>https://tv.naver.com/v/29534479</id>
-        <link href="https://tv.naver.com/v/29534479"/>
-        <updated>2022-09-28T13:47:54.821Z</updated>
-        <content type="html"><![CDATA[2:01]]></content>
     </entry>
 </feed>
