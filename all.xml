@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-14T11:18:35.553Z</updated>
+    <updated>2022-10-14T12:35:19.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[주간아이돌 584회 드림캐쳐 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://tv.naver.com/v/29928549"/>
         <updated>2022-10-14T10:19:31.816Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist+ l 세로캠] Stray Kids ＜Gone Days + TIME OUT＞ + 죠지 ＜좋아해..＞ FULL ver. ♬ l EP.583 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/29902903</id>
+        <link href="https://tv.naver.com/v/29902903"/>
+        <updated>2022-10-14T12:35:14.239Z</updated>
+        <content type="html"><![CDATA[4:52]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/29699060"/>
         <updated>2022-10-05T12:34:31.771Z</updated>
         <content type="html"><![CDATA[2:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂이게 뭐야..?＂ 물음표 가득한 EXID의 랜덤 플레이 댄스 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/29699059</id>
-        <link href="https://tv.naver.com/v/29699059"/>
-        <updated>2022-10-05T12:34:31.772Z</updated>
-        <content type="html"><![CDATA[2:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
