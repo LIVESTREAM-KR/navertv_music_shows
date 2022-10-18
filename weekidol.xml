@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-10-17T23:20:06.274Z</updated>
+    <updated>2022-10-18T01:47:45.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 비전에 비전을 더해 지켜내자 우리캐쳐 랜플댄 전적 2전2승 !]]></title>
+        <id>https://tv.naver.com/v/29986474</id>
+        <link href="https://tv.naver.com/v/29986474"/>
+        <updated>2022-10-18T01:44:41.215Z</updated>
+        <content type="html"><![CDATA[1:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] ★썸냐들의 심장을 저격할 최초공개 무대★ 밍스캐쳐 ＜Love Shake＞]]></title>
+        <id>https://tv.naver.com/v/29986473</id>
+        <link href="https://tv.naver.com/v/29986473"/>
+        <updated>2022-10-18T01:44:41.216Z</updated>
+        <content type="html"><![CDATA[1:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 584회 드림캐쳐 편 예고]]></title>
         <id>https://tv.naver.com/v/29928549</id>
@@ -104,7 +118,7 @@
         <content type="html"><![CDATA[3:18]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음ver.] Stray Kids - CASE 143 (스트레이 키즈 - CASE 143) l EP.583]]></title>
+        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음ver.] Stray Kids - CASE 143 (스트레이 키즈 - 케이스 143) l EP.583]]></title>
         <id>https://tv.naver.com/v/29856394</id>
         <link href="https://tv.naver.com/v/29856394"/>
         <updated>2022-10-12T12:34:39.213Z</updated>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/29727470"/>
         <updated>2022-10-06T10:20:14.122Z</updated>
         <content type="html"><![CDATA[4:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
-        <id>https://tv.naver.com/v/29699073</id>
-        <link href="https://tv.naver.com/v/29699073"/>
-        <updated>2022-10-05T12:34:31.771Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6전 2승의 초라한 성적표는 가라! 각성한 EXID의 랜플댄 결과는?!]]></title>
-        <id>https://tv.naver.com/v/29699060</id>
-        <link href="https://tv.naver.com/v/29699060"/>
-        <updated>2022-10-05T12:34:31.771Z</updated>
-        <content type="html"><![CDATA[2:42]]></content>
     </entry>
 </feed>
