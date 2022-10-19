@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-10-19T10:25:30.445Z</updated>
+    <updated>2022-10-19T11:20:45.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간신곡] 드림캐쳐가 보내는 경종의 메시지! 드림캐쳐의 ‘VISION’♬ l EP.584]]></title>
+        <id>https://tv.naver.com/v/30045436</id>
+        <link href="https://tv.naver.com/v/30045436"/>
+        <updated>2022-10-19T11:17:41.762Z</updated>
+        <content type="html"><![CDATA[3:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 비전에 비전을 더해 지켜내자 우리캐쳐 랜플댄 전적 2전2승 !]]></title>
         <id>https://tv.naver.com/v/29986474</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29759112"/>
         <updated>2022-10-07T10:20:33.728Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist l 세로캠] 이엑스아이디 (EXID) - ＜위아래+내일해+IDK＞♬ l EP.582]]></title>
-        <id>https://tv.naver.com/v/29727470</id>
-        <link href="https://tv.naver.com/v/29727470"/>
-        <updated>2022-10-06T10:20:14.122Z</updated>
-        <content type="html"><![CDATA[4:30]]></content>
     </entry>
 </feed>
