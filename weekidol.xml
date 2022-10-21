@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-10-21T09:23:11.125Z</updated>
+    <updated>2022-10-21T10:20:39.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 585회 WEi 편 예고]]></title>
+        <id>https://tv.naver.com/v/30121221</id>
+        <link href="https://tv.naver.com/v/30121221"/>
+        <updated>2022-10-21T10:20:34.312Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
         <id>https://tv.naver.com/v/30064291</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29872298"/>
         <updated>2022-10-12T12:34:39.173Z</updated>
         <content type="html"><![CDATA[0:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스키즈 마지막 3차 시도! 이번에는 성공하겠지...?]]></title>
-        <id>https://tv.naver.com/v/29872235</id>
-        <link href="https://tv.naver.com/v/29872235"/>
-        <updated>2022-10-12T12:34:39.174Z</updated>
-        <content type="html"><![CDATA[3:21]]></content>
     </entry>
 </feed>
