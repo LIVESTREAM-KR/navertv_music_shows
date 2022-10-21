@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-21T11:16:52.018Z</updated>
+    <updated>2022-10-21T12:38:47.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[주간아이돌 585회 WEi 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://tv.naver.com/v/30121221"/>
         <updated>2022-10-21T10:20:34.312Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist+ l 세로캠] 드림캐쳐 ＜BOCA + 하늘을 넘어＞ + Big Naughty(서동현) ＜정이라고 하자＞ FULL ver. ♬ l EP.584 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/30078012</id>
+        <link href="https://tv.naver.com/v/30078012"/>
+        <updated>2022-10-21T12:35:44.403Z</updated>
+        <content type="html"><![CDATA[4:38]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/29902903"/>
         <updated>2022-10-14T12:35:14.239Z</updated>
         <content type="html"><![CDATA[4:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/29872298</id>
-        <link href="https://tv.naver.com/v/29872298"/>
-        <updated>2022-10-12T12:34:39.173Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
