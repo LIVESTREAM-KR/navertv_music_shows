@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-10-24T23:20:24.263Z</updated>
+    <updated>2022-10-25T01:46:08.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 장대현의 허세는 어디까지인가...김요한 내 오른발이면 태권도 이길 가능성 200%]]></title>
+        <id>https://tv.naver.com/v/30181080</id>
+        <link href="https://tv.naver.com/v/30181080"/>
+        <updated>2022-10-25T01:46:03.020Z</updated>
+        <content type="html"><![CDATA[1:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 주간아에서 최초 공개하는 김국보 이마 상처.SSUL]]></title>
+        <id>https://tv.naver.com/v/30181077</id>
+        <link href="https://tv.naver.com/v/30181077"/>
+        <updated>2022-10-25T01:46:03.035Z</updated>
+        <content type="html"><![CDATA[1:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 585회 WEi 편 예고]]></title>
         <id>https://tv.naver.com/v/30121221</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/29986473"/>
         <updated>2022-10-18T01:44:41.216Z</updated>
         <content type="html"><![CDATA[1:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 584회 드림캐쳐 편 예고]]></title>
-        <id>https://tv.naver.com/v/29928549</id>
-        <link href="https://tv.naver.com/v/29928549"/>
-        <updated>2022-10-14T10:19:31.816Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist+ l 세로캠] Stray Kids ＜Gone Days + TIME OUT＞ + 죠지 ＜좋아해..＞ FULL ver. ♬ l EP.583]]></title>
-        <id>https://tv.naver.com/v/29902903</id>
-        <link href="https://tv.naver.com/v/29902903"/>
-        <updated>2022-10-14T12:35:14.239Z</updated>
-        <content type="html"><![CDATA[4:52]]></content>
     </entry>
 </feed>
