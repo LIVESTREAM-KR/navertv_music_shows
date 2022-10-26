@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-10-26T10:20:33.702Z</updated>
+    <updated>2022-10-26T11:16:52.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] 중독적인 다크 섹시에 위며들었다..★☆ 위아이(WEi)의 ‘Spray’♬ l EP.585]]></title>
+        <id>https://tv.naver.com/v/30238061</id>
+        <link href="https://tv.naver.com/v/30238061"/>
+        <updated>2022-10-26T11:13:48.905Z</updated>
+        <content type="html"><![CDATA[3:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 장대현의 허세는 어디까지인가...김요한 내 오른발이면 태권도 이길 가능성 200%]]></title>
         <id>https://tv.naver.com/v/30181080</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29986474"/>
         <updated>2022-10-18T01:44:41.215Z</updated>
         <content type="html"><![CDATA[1:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] ★썸냐들의 심장을 저격할 최초공개 무대★ 밍스캐쳐 ＜Love Shake＞]]></title>
-        <id>https://tv.naver.com/v/29986473</id>
-        <link href="https://tv.naver.com/v/29986473"/>
-        <updated>2022-10-18T01:44:41.216Z</updated>
-        <content type="html"><![CDATA[1:54]]></content>
     </entry>
 </feed>
