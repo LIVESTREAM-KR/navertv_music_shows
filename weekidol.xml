@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-10-29T05:23:22.784Z</updated>
+    <updated>2022-10-29T06:20:12.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://tv.naver.com/v/30319137"/>
         <updated>2022-10-28T10:17:14.060Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠] WEi - Love Killa (원곡: MONSTA X) (위아이 - 러브 킬라 (원곡: MONSTA X)) l EP.585]]></title>
+        <id>https://tv.naver.com/v/30288065</id>
+        <link href="https://tv.naver.com/v/30288065"/>
+        <updated>2022-10-29T06:20:05.929Z</updated>
+        <content type="html"><![CDATA[3:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] WEi - Love Killa (원곡: MONSTA X) (위아이 - 러브 킬라 (원곡: MONSTA X)) l EP.585]]></title>
+        <id>https://tv.naver.com/v/30287790</id>
+        <link href="https://tv.naver.com/v/30287790"/>
+        <updated>2022-10-29T06:20:05.931Z</updated>
+        <content type="html"><![CDATA[3:12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[＂요한＂ 기술 이름(?) 때문에 죠스팀 분열사태?! 과연 돌핀팀 역전할 수 있을까?!]]></title>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/30078012"/>
         <updated>2022-10-21T12:35:44.403Z</updated>
         <content type="html"><![CDATA[4:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
-        <id>https://tv.naver.com/v/30064291</id>
-        <link href="https://tv.naver.com/v/30064291"/>
-        <updated>2022-10-19T12:36:14.847Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과연 3연승을 향해서 갈 수 있을까..? 드림캐쳐 랜플댄 3차 시도 결과는?]]></title>
-        <id>https://tv.naver.com/v/30064289</id>
-        <link href="https://tv.naver.com/v/30064289"/>
-        <updated>2022-10-19T12:36:14.847Z</updated>
-        <content type="html"><![CDATA[2:56]]></content>
     </entry>
 </feed>
