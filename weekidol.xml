@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-11-07T23:18:25.813Z</updated>
+    <updated>2022-11-08T01:15:47.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 그냥 천재 갓메보 채원이가 부르는 긴~ 버전의 IVE의 ＜LOVE DIVE＞♬]]></title>
+        <id>https://tv.naver.com/v/30548184</id>
+        <link href="https://tv.naver.com/v/30548184"/>
+        <updated>2022-11-08T01:15:42.061Z</updated>
+        <content type="html"><![CDATA[1:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 귀염 깜찍 가득 눌러 담은 뽀냥이표 모닝콜 사투리 버전!]]></title>
+        <id>https://tv.naver.com/v/30548183</id>
+        <link href="https://tv.naver.com/v/30548183"/>
+        <updated>2022-11-08T01:15:42.062Z</updated>
+        <content type="html"><![CDATA[1:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 586회 CLASS:y 편 예고]]></title>
         <id>https://tv.naver.com/v/30319137</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/30181077"/>
         <updated>2022-10-25T01:46:03.035Z</updated>
         <content type="html"><![CDATA[1:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 585회 WEi 편 예고]]></title>
-        <id>https://tv.naver.com/v/30121221</id>
-        <link href="https://tv.naver.com/v/30121221"/>
-        <updated>2022-10-21T10:20:34.312Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist+ l 세로캠] 드림캐쳐 ＜BOCA + 하늘을 넘어＞ + Big Naughty(서동현) ＜정이라고 하자＞ FULL ver. ♬ l EP.584]]></title>
-        <id>https://tv.naver.com/v/30078012</id>
-        <link href="https://tv.naver.com/v/30078012"/>
-        <updated>2022-10-21T12:35:44.403Z</updated>
-        <content type="html"><![CDATA[4:38]]></content>
     </entry>
 </feed>
