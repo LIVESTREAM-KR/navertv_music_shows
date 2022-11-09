@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-11-09T10:16:40.760Z</updated>
+    <updated>2022-11-09T11:14:24.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다들 조용🤫 명배우 형서의 인생 연기 네컷🎞]]></title>
+        <id>https://tv.naver.com/v/30627681</id>
+        <link href="https://tv.naver.com/v/30627681"/>
+        <updated>2022-11-09T11:14:18.499Z</updated>
+        <content type="html"><![CDATA[2:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[＂혜주＂ 예배시간에도 내 흥을 멈출 수 없어..★]]></title>
+        <id>https://tv.naver.com/v/30627528</id>
+        <link href="https://tv.naver.com/v/30627528"/>
+        <updated>2022-11-09T11:14:18.502Z</updated>
+        <content type="html"><![CDATA[1:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✨클라씨✨ 데뷔 전과 후 달라진 점이 있다면?!]]></title>
+        <id>https://tv.naver.com/v/30627526</id>
+        <link href="https://tv.naver.com/v/30627526"/>
+        <updated>2022-11-09T11:14:18.521Z</updated>
+        <content type="html"><![CDATA[1:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[＂클라씨 07즈＂ 리원&지민의 아침 등교 에피소드🏃‍]]></title>
+        <id>https://tv.naver.com/v/30627365</id>
+        <link href="https://tv.naver.com/v/30627365"/>
+        <updated>2022-11-09T11:14:18.522Z</updated>
+        <content type="html"><![CDATA[1:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[＂채원＂ 취침 전 스트레칭과 함께 듣는 클래식..?]]></title>
+        <id>https://tv.naver.com/v/30627200</id>
+        <link href="https://tv.naver.com/v/30627200"/>
+        <updated>2022-11-09T11:14:18.523Z</updated>
+        <content type="html"><![CDATA[1:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[계속되는 샤워 질문에 혼란이 온 지민이😵]]></title>
+        <id>https://tv.naver.com/v/30627189</id>
+        <link href="https://tv.naver.com/v/30627189"/>
+        <updated>2022-11-09T11:14:18.524Z</updated>
+        <content type="html"><![CDATA[1:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보은 ＂요즘 킹 받네 누가 써?! 이제는 ＂너무 멋있으세요~♥...라고 할 뻔..★＂]]></title>
+        <id>https://tv.naver.com/v/30627060</id>
+        <link href="https://tv.naver.com/v/30627060"/>
+        <updated>2022-11-09T11:14:18.532Z</updated>
+        <content type="html"><![CDATA[1:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] 클라쓰가 남다른 클라씨 무대☆ CLASS:y(클라씨)의 ‘Tick Tick Boom’♬  l EP.586]]></title>
+        <id>https://tv.naver.com/v/30591233</id>
+        <link href="https://tv.naver.com/v/30591233"/>
+        <updated>2022-11-09T11:14:18.532Z</updated>
+        <content type="html"><![CDATA[3:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 그냥 천재 갓메보 채원이가 부르는 긴~ 버전의 IVE의 ＜LOVE DIVE＞♬]]></title>
         <id>https://tv.naver.com/v/30548184</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/30237841"/>
         <updated>2022-10-26T12:35:37.127Z</updated>
         <content type="html"><![CDATA[3:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] WEi KIM JUNSEO - Spray (위아이 김준서 - 스프레이) l EP.585]]></title>
-        <id>https://tv.naver.com/v/30237767</id>
-        <link href="https://tv.naver.com/v/30237767"/>
-        <updated>2022-10-26T12:35:37.130Z</updated>
-        <content type="html"><![CDATA[3:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] WEi KIM YOHAN - Spray (위아이 김요한 - 스프레이) l EP.585]]></title>
-        <id>https://tv.naver.com/v/30237766</id>
-        <link href="https://tv.naver.com/v/30237766"/>
-        <updated>2022-10-26T12:35:37.130Z</updated>
-        <content type="html"><![CDATA[3:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] WEi KIM DONGHAN - Spray (위아이 김동한 - 스프레이) l EP.585]]></title>
-        <id>https://tv.naver.com/v/30237742</id>
-        <link href="https://tv.naver.com/v/30237742"/>
-        <updated>2022-10-26T12:35:37.131Z</updated>
-        <content type="html"><![CDATA[3:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] WEi KANG SEOKHWA - Spray (위아이 강석화 - 스프레이) l EP.585]]></title>
-        <id>https://tv.naver.com/v/30237631</id>
-        <link href="https://tv.naver.com/v/30237631"/>
-        <updated>2022-10-26T12:35:37.133Z</updated>
-        <content type="html"><![CDATA[3:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 짐벌캠] WEi - Spray (위아이 - 스프레이) l EP.585]]></title>
-        <id>https://tv.naver.com/v/30222247</id>
-        <link href="https://tv.naver.com/v/30222247"/>
-        <updated>2022-10-26T12:35:37.134Z</updated>
-        <content type="html"><![CDATA[3:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 4K캠 ㅣ현장음ver.] WEi - Spray (위아이 - 스프레이) l EP.585]]></title>
-        <id>https://tv.naver.com/v/30221552</id>
-        <link href="https://tv.naver.com/v/30221552"/>
-        <updated>2022-10-26T12:35:37.137Z</updated>
-        <content type="html"><![CDATA[3:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 장대현의 허세는 어디까지인가...김요한 내 오른발이면 태권도 이길 가능성 200%]]></title>
-        <id>https://tv.naver.com/v/30181080</id>
-        <link href="https://tv.naver.com/v/30181080"/>
-        <updated>2022-10-25T01:46:03.020Z</updated>
-        <content type="html"><![CDATA[1:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 주간아에서 최초 공개하는 김국보 이마 상처.SSUL]]></title>
-        <id>https://tv.naver.com/v/30181077</id>
-        <link href="https://tv.naver.com/v/30181077"/>
-        <updated>2022-10-25T01:46:03.035Z</updated>
-        <content type="html"><![CDATA[1:32]]></content>
     </entry>
 </feed>
