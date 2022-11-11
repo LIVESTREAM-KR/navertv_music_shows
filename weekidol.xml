@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-11-11T09:18:15.881Z</updated>
+    <updated>2022-11-11T10:17:04.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 587회 DRIPPIN&EPEX 편 예고]]></title>
+        <id>https://tv.naver.com/v/30690430</id>
+        <link href="https://tv.naver.com/v/30690430"/>
+        <updated>2022-11-11T10:16:59.535Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
         <id>https://tv.naver.com/v/30628190</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30258410"/>
         <updated>2022-10-26T12:35:37.075Z</updated>
         <content type="html"><![CDATA[5:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위루 핑↗! 아래루 퐁↘! 헤딩탁구! [위아이 3 VS 3 대결]]]></title>
-        <id>https://tv.naver.com/v/30258070</id>
-        <link href="https://tv.naver.com/v/30258070"/>
-        <updated>2022-10-26T12:35:37.082Z</updated>
-        <content type="html"><![CDATA[3:09]]></content>
     </entry>
 </feed>
