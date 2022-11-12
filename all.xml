@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-12T05:17:58.716Z</updated>
+    <updated>2022-11-12T06:18:36.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[주간아이돌 587회 DRIPPIN&EPEX 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -10,6 +10,20 @@
         <link href="https://tv.naver.com/v/30690430"/>
         <updated>2022-11-11T10:16:59.535Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] CLASS:y - Hype Boy (원곡 : 뉴진스) (클라씨 - 하입 보이) l EP.586 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/30645994</id>
+        <link href="https://tv.naver.com/v/30645994"/>
+        <updated>2022-11-12T06:18:30.737Z</updated>
+        <content type="html"><![CDATA[3:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠] CLASS:y - Hype Boy (원곡 : 뉴진스) (클라씨 - 하입 보이) l EP.586 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/30645770</id>
+        <link href="https://tv.naver.com/v/30645770"/>
+        <updated>2022-11-12T06:18:30.747Z</updated>
+        <content type="html"><![CDATA[3:06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/30288065"/>
         <updated>2022-10-29T06:20:05.929Z</updated>
         <content type="html"><![CDATA[3:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] WEi - Love Killa (원곡: MONSTA X) (위아이 - 러브 킬라 (원곡: MONSTA X)) l EP.585 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/30287790</id>
-        <link href="https://tv.naver.com/v/30287790"/>
-        <updated>2022-10-29T06:20:05.931Z</updated>
-        <content type="html"><![CDATA[3:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂요한＂ 기술 이름(?) 때문에 죠스팀 분열사태?! 과연 돌핀팀 역전할 수 있을까?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/30258410</id>
-        <link href="https://tv.naver.com/v/30258410"/>
-        <updated>2022-10-26T12:35:37.075Z</updated>
-        <content type="html"><![CDATA[5:07]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
