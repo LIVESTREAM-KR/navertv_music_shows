@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-11-14T23:18:11.387Z</updated>
+    <updated>2022-11-15T01:13:51.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 멤버들의 순발력과 깨알 지식을 확인하기 위한 밀가루 폭탄 퀴즈~★]]></title>
+        <id>https://tv.naver.com/v/30755713</id>
+        <link href="https://tv.naver.com/v/30755713"/>
+        <updated>2022-11-15T01:13:44.850Z</updated>
+        <content type="html"><![CDATA[1:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 찐 예능돌이 되기 위한 멤버들의 운동 부심 체크 타임! ＜주간아능력시험＞ 첫 번째 영역은!?]]></title>
+        <id>https://tv.naver.com/v/30755501</id>
+        <link href="https://tv.naver.com/v/30755501"/>
+        <updated>2022-11-15T01:13:44.866Z</updated>
+        <content type="html"><![CDATA[1:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 직캠] 클라씨(CLASS:y)의 '틱! 틱! K-POP 1초 퀴즈' 직캠 Ver. l After LIKE, Attention, TOMBOY 등 l EP.586]]></title>
         <id>https://tv.naver.com/v/30751061</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/30548184"/>
         <updated>2022-11-08T01:15:42.061Z</updated>
         <content type="html"><![CDATA[1:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 귀염 깜찍 가득 눌러 담은 뽀냥이표 모닝콜 사투리 버전!]]></title>
-        <id>https://tv.naver.com/v/30548183</id>
-        <link href="https://tv.naver.com/v/30548183"/>
-        <updated>2022-11-08T01:15:42.062Z</updated>
-        <content type="html"><![CDATA[1:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 586회 CLASS:y 편 예고]]></title>
-        <id>https://tv.naver.com/v/30319137</id>
-        <link href="https://tv.naver.com/v/30319137"/>
-        <updated>2022-11-07T01:15:31.711Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
     </entry>
 </feed>
