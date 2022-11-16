@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-11-16T10:16:09.649Z</updated>
+    <updated>2022-11-16T11:12:28.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] 어화둥둥 짱펙스💗 이펙스(EPEX)의 '사랑歌’♬ l EP.587]]></title>
+        <id>https://tv.naver.com/v/30807417</id>
+        <link href="https://tv.naver.com/v/30807417"/>
+        <updated>2022-11-16T11:12:23.187Z</updated>
+        <content type="html"><![CDATA[3:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] 세계관 마지막을 장식할 피날레★ 드리핀(DRIPPIN)의 ‘The One’♬ l EP.587]]></title>
+        <id>https://tv.naver.com/v/30807412</id>
+        <link href="https://tv.naver.com/v/30807412"/>
+        <updated>2022-11-16T11:12:23.188Z</updated>
+        <content type="html"><![CDATA[3:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 멤버들의 순발력과 깨알 지식을 확인하기 위한 밀가루 폭탄 퀴즈~★]]></title>
         <id>https://tv.naver.com/v/30755713</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/30591057"/>
         <updated>2022-11-09T12:34:17.055Z</updated>
         <content type="html"><![CDATA[3:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 짐벌캠] CLASS:y - Tick Tick Boom (클라씨 - 틱틱붐) l EP.586]]></title>
-        <id>https://tv.naver.com/v/30590942</id>
-        <link href="https://tv.naver.com/v/30590942"/>
-        <updated>2022-11-09T12:34:17.056Z</updated>
-        <content type="html"><![CDATA[3:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 그냥 천재 갓메보 채원이가 부르는 긴~ 버전의 IVE의 ＜LOVE DIVE＞♬]]></title>
-        <id>https://tv.naver.com/v/30548184</id>
-        <link href="https://tv.naver.com/v/30548184"/>
-        <updated>2022-11-08T01:15:42.061Z</updated>
-        <content type="html"><![CDATA[1:18]]></content>
     </entry>
 </feed>
