@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-18T09:21:35.301Z</updated>
+    <updated>2022-11-18T10:15:37.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 588회 네이처 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/30882004</id>
+        <link href="https://tv.naver.com/v/30882004"/>
+        <updated>2022-11-18T10:15:32.620Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/30826179</id>
@@ -205,13 +212,6 @@
         <id>https://tv.naver.com/v/30808074</id>
         <link href="https://tv.naver.com/v/30808074"/>
         <updated>2022-11-16T12:27:51.069Z</updated>
-        <content type="html"><![CDATA[3:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] DRIPPIN JOO CHANGUK - The One (드리핀 주창욱 - 더 원) l EP.587 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/30808041</id>
-        <link href="https://tv.naver.com/v/30808041"/>
-        <updated>2022-11-16T12:27:51.071Z</updated>
         <content type="html"><![CDATA[3:40]]></content>
     </entry>
     <entry>
