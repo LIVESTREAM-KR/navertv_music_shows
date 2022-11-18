@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-11-18T10:15:37.728Z</updated>
+    <updated>2022-11-18T11:12:32.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://tv.naver.com/v/30882004"/>
         <updated>2022-11-18T10:15:32.620Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠] DRIPPIN - Getting Closer (원곡 : 세븐틴) (드리핀 - 숨이차) l EP.587]]></title>
+        <id>https://tv.naver.com/v/30839060</id>
+        <link href="https://tv.naver.com/v/30839060"/>
+        <updated>2022-11-18T11:12:25.861Z</updated>
+        <content type="html"><![CDATA[2:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠] EPEX - Adore U (원곡 : 세븐틴) (이펙스 - 아낀다) l EP.587]]></title>
+        <id>https://tv.naver.com/v/30838937</id>
+        <link href="https://tv.naver.com/v/30838937"/>
+        <updated>2022-11-18T11:12:25.861Z</updated>
+        <content type="html"><![CDATA[2:18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
@@ -199,20 +213,6 @@
         <id>https://tv.naver.com/v/30808359</id>
         <link href="https://tv.naver.com/v/30808359"/>
         <updated>2022-11-16T12:27:51.066Z</updated>
-        <content type="html"><![CDATA[3:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] DRIPPIN HWANG YUNSEONG - The One (드리핀 황윤성 - 더 원) l EP.587]]></title>
-        <id>https://tv.naver.com/v/30808356</id>
-        <link href="https://tv.naver.com/v/30808356"/>
-        <updated>2022-11-16T12:27:51.068Z</updated>
-        <content type="html"><![CDATA[3:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] DRIPPIN ALEX - The One (드리핀 알렉스 - 더 원) l EP.587]]></title>
-        <id>https://tv.naver.com/v/30808074</id>
-        <link href="https://tv.naver.com/v/30808074"/>
-        <updated>2022-11-16T12:27:51.069Z</updated>
         <content type="html"><![CDATA[3:40]]></content>
     </entry>
 </feed>
