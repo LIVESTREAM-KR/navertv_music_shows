@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-22T01:20:02.844Z</updated>
+    <updated>2022-11-22T03:11:53.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 주간아에 네이처가 왔는데 이거 안보면 유죄..★퀵소희가 추는 RICA RICA 2배속! 놀라움의 연속이다... (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/30951644</id>
+        <link href="https://tv.naver.com/v/30951644"/>
+        <updated>2022-11-22T03:08:50.074Z</updated>
+        <content type="html"><![CDATA[1:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] ★전 세계 최초공개 오로라의 개인기★성악하는 오숭이 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/30951607</id>
+        <link href="https://tv.naver.com/v/30951607"/>
+        <updated>2022-11-22T03:08:50.076Z</updated>
+        <content type="html"><![CDATA[1:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 588회 네이처 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/30882004</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/30808659"/>
         <updated>2022-11-16T12:27:51.062Z</updated>
         <content type="html"><![CDATA[3:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] EPEX WISH - Hymn to Love (이펙스 위시 - 사랑歌) l EP.587 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/30808548</id>
-        <link href="https://tv.naver.com/v/30808548"/>
-        <updated>2022-11-16T12:27:51.062Z</updated>
-        <content type="html"><![CDATA[3:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] EPEX A-MIN - Hymn to Love (이펙스 아민 - 사랑歌) l EP.587 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/30808545</id>
-        <link href="https://tv.naver.com/v/30808545"/>
-        <updated>2022-11-16T12:27:51.062Z</updated>
-        <content type="html"><![CDATA[3:19]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
