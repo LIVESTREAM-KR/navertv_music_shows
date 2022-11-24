@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-11-24T10:14:28.858Z</updated>
+    <updated>2022-11-24T11:11:56.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] NATURE - Nxde (원곡 : (여자)아이들) (네이처 - 누드) l EP.588]]></title>
+        <id>https://tv.naver.com/v/31054304</id>
+        <link href="https://tv.naver.com/v/31054304"/>
+        <updated>2022-11-24T11:11:51.389Z</updated>
+        <content type="html"><![CDATA[3:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웃음을 참을수록 더 유리해지는 ＂후후 불어라~ 머니카락 보리카-!＂]]></title>
         <id>https://tv.naver.com/v/31026278</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30839559"/>
         <updated>2022-11-18T12:26:58.832Z</updated>
         <content type="html"><![CDATA[2:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist l 4K캠] DRIPPIN - Getting Closer (원곡 : 세븐틴) (드리핀 - 숨이차) l EP.587]]></title>
-        <id>https://tv.naver.com/v/30839060</id>
-        <link href="https://tv.naver.com/v/30839060"/>
-        <updated>2022-11-18T11:12:25.861Z</updated>
-        <content type="html"><![CDATA[2:13]]></content>
     </entry>
 </feed>
