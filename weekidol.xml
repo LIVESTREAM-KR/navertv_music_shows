@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-11-25T09:13:54.190Z</updated>
+    <updated>2022-11-25T10:15:07.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 589회 VERIVERY 편 예고]]></title>
+        <id>https://tv.naver.com/v/31081857</id>
+        <link href="https://tv.naver.com/v/31081857"/>
+        <updated>2022-11-25T10:15:01.218Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] NATURE - Nxde (원곡 : (여자)아이들) (네이처 - 누드) l EP.588]]></title>
         <id>https://tv.naver.com/v/31054304</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30839939"/>
         <updated>2022-11-18T12:26:58.829Z</updated>
         <content type="html"><![CDATA[2:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] EPEX - Adore U (원곡 : 세븐틴) (이펙스 - 아낀다) l EP.587]]></title>
-        <id>https://tv.naver.com/v/30839559</id>
-        <link href="https://tv.naver.com/v/30839559"/>
-        <updated>2022-11-18T12:26:58.832Z</updated>
-        <content type="html"><![CDATA[2:16]]></content>
     </entry>
 </feed>
