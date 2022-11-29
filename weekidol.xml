@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-11-29T01:12:26.756Z</updated>
+    <updated>2022-11-29T02:51:07.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 집요 아닌 집요.. 우리 강민이는 계획이 다~ 있구나..★]]></title>
+        <id>https://tv.naver.com/v/31146140</id>
+        <link href="https://tv.naver.com/v/31146140"/>
+        <updated>2022-11-29T02:51:01.043Z</updated>
+        <content type="html"><![CDATA[1:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 벨벨이들의 여전한 헌몰이! 사실은 멤버들의 사랑을 독차지하는 헌쪽이였다고..!?]]></title>
+        <id>https://tv.naver.com/v/31145994</id>
+        <link href="https://tv.naver.com/v/31145994"/>
+        <updated>2022-11-29T02:51:01.052Z</updated>
+        <content type="html"><![CDATA[1:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 589회 VERIVERY 편 예고]]></title>
         <id>https://tv.naver.com/v/31081857</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/30951644"/>
         <updated>2022-11-22T03:08:50.074Z</updated>
         <content type="html"><![CDATA[1:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] ★전 세계 최초공개 오로라의 개인기★성악하는 오숭이]]></title>
-        <id>https://tv.naver.com/v/30951607</id>
-        <link href="https://tv.naver.com/v/30951607"/>
-        <updated>2022-11-22T03:08:50.076Z</updated>
-        <content type="html"><![CDATA[1:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 588회 네이처 편 예고]]></title>
-        <id>https://tv.naver.com/v/30882004</id>
-        <link href="https://tv.naver.com/v/30882004"/>
-        <updated>2022-11-18T10:15:32.620Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
     </entry>
 </feed>
