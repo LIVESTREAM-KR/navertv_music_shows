@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-12-01T11:14:50.088Z</updated>
+    <updated>2022-12-01T12:32:00.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] VERIVERY - Candy Sugar Pop (원곡 : 아스트로) (베리베리 - 캔디 슈가 팝) l EP.589]]></title>
+        <id>https://tv.naver.com/v/31248134</id>
+        <link href="https://tv.naver.com/v/31248134"/>
+        <updated>2022-12-01T12:28:56.719Z</updated>
+        <content type="html"><![CDATA[2:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] VERIVERY - Candy Sugar Pop (원곡 : 아스트로) (베리베리 - 캔디 슈가 팝) l EP.589]]></title>
+        <id>https://tv.naver.com/v/31248099</id>
+        <link href="https://tv.naver.com/v/31248099"/>
+        <updated>2022-12-01T12:28:56.719Z</updated>
+        <content type="html"><![CDATA[2:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마지막 3차 시도! 초라한 성적 드디어 뗄 수 있을까?! 베리베리 랜플댄 마지막 결과는?!]]></title>
         <id>https://tv.naver.com/v/31222832</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/31054304"/>
         <updated>2022-11-24T11:11:51.389Z</updated>
         <content type="html"><![CDATA[3:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist l 4K캠] NATURE - Nxde (원곡 : (여자)아이들) (네이처 - 누드) l EP.588]]></title>
-        <id>https://tv.naver.com/v/31052550</id>
-        <link href="https://tv.naver.com/v/31052550"/>
-        <updated>2022-11-25T12:27:21.048Z</updated>
-        <content type="html"><![CDATA[3:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웃음을 참을수록 더 유리해지는 ＂후후 불어라~ 머니카락 보리카-!＂]]></title>
-        <id>https://tv.naver.com/v/31026278</id>
-        <link href="https://tv.naver.com/v/31026278"/>
-        <updated>2022-11-23T12:27:23.884Z</updated>
-        <content type="html"><![CDATA[4:01]]></content>
     </entry>
 </feed>
