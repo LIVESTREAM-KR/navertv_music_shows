@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-12-02T09:15:38.639Z</updated>
+    <updated>2022-12-02T10:14:28.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 589회 TEMPEST 편 예고]]></title>
+        <id>https://tv.naver.com/v/31285426</id>
+        <link href="https://tv.naver.com/v/31285426"/>
+        <updated>2022-12-02T10:14:23.893Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] VERIVERY - Candy Sugar Pop (원곡 : 아스트로) (베리베리 - 캔디 슈가 팝) l EP.589]]></title>
         <id>https://tv.naver.com/v/31248134</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31081857"/>
         <updated>2022-11-25T10:15:01.218Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] NATURE - Nxde (원곡 : (여자)아이들) (네이처 - 누드) l EP.588]]></title>
-        <id>https://tv.naver.com/v/31054304</id>
-        <link href="https://tv.naver.com/v/31054304"/>
-        <updated>2022-11-24T11:11:51.389Z</updated>
-        <content type="html"><![CDATA[3:08]]></content>
     </entry>
 </feed>
