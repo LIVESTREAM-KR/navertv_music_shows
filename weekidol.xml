@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-12-07T15:13:38.886Z</updated>
+    <updated>2022-12-07T16:17:54.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] TEMPEST LEW - Dragon(飛上) (템페스트 루 - 드래곤(비상)) l EP.590]]></title>
+        <id>https://tv.naver.com/v/31429709</id>
+        <link href="https://tv.naver.com/v/31429709"/>
+        <updated>2022-12-07T16:17:49.052Z</updated>
+        <content type="html"><![CDATA[3:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＂템페스트＂ 마지막 점수가 75조 점?! 랄라 VS 깡 과연 최종 우승팀은?!]]></title>
         <id>https://tv.naver.com/v/31424600</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31222078"/>
         <updated>2022-11-30T11:12:09.039Z</updated>
         <content type="html"><![CDATA[1:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤어라인을 지키기 위한 호람쥐의 외침📢 ＂멈춰~!!＂]]></title>
-        <id>https://tv.naver.com/v/31222072</id>
-        <link href="https://tv.naver.com/v/31222072"/>
-        <updated>2022-11-30T11:12:09.041Z</updated>
-        <content type="html"><![CDATA[1:21]]></content>
     </entry>
 </feed>
