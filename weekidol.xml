@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-12-07T11:11:03.549Z</updated>
+    <updated>2022-12-07T12:27:03.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[꼬꼬한빈 & 형섭댕댕이가 보여주는 넘나 리얼한 동물 성대모사😮]]></title>
+        <id>https://tv.naver.com/v/31423365</id>
+        <link href="https://tv.naver.com/v/31423365"/>
+        <updated>2022-12-07T12:24:00.412Z</updated>
+        <content type="html"><![CDATA[1:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한빈이가 뽑은 템페스트 최강 겁둥이 찾기🔍 (feat. 벌레 친구들)]]></title>
+        <id>https://tv.naver.com/v/31423264</id>
+        <link href="https://tv.naver.com/v/31423264"/>
+        <updated>2022-12-07T12:24:00.412Z</updated>
+        <content type="html"><![CDATA[1:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간 신곡] 용맹한 드래곤 7마리 주간아 입성🐉 템페스트(TEMPEST)의 ‘Dragon(飛上)’♬ l EP.590]]></title>
         <id>https://tv.naver.com/v/31402763</id>
         <link href="https://tv.naver.com/v/31402763"/>
         <updated>2022-12-07T11:10:58.174Z</updated>
         <content type="html"><![CDATA[3:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist] 템페스트의 첫 주간아 첫 위플리! 준비한 곡은 NCT 127 ＜질주 (2 Baddies)＞ l EP.590]]></title>
+        <id>https://tv.naver.com/v/31402581</id>
+        <link href="https://tv.naver.com/v/31402581"/>
+        <updated>2022-12-07T12:24:00.413Z</updated>
+        <content type="html"><![CDATA[3:54]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 애교 끝판왕 한빈이의 베트남어 버전 ＜오또케송＞]]></title>
@@ -192,27 +213,6 @@
         <id>https://tv.naver.com/v/31201834</id>
         <link href="https://tv.naver.com/v/31201834"/>
         <updated>2022-11-30T12:27:34.228Z</updated>
-        <content type="html"><![CDATA[3:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] VERIVERY KANGMIN - Tap Tap (베리베리 강민 - 탭 탭) l EP.589]]></title>
-        <id>https://tv.naver.com/v/31201644</id>
-        <link href="https://tv.naver.com/v/31201644"/>
-        <updated>2022-11-30T12:27:34.230Z</updated>
-        <content type="html"><![CDATA[3:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist] 선언한다! 오늘부터 청량은 베리베리꺼다! 아낌없이 보여주는 청량베리 모먼트🌊 아스트로 ＜Candy Sugar Pop＞ l EP.589]]></title>
-        <id>https://tv.naver.com/v/31201330</id>
-        <link href="https://tv.naver.com/v/31201330"/>
-        <updated>2022-11-30T12:27:34.232Z</updated>
-        <content type="html"><![CDATA[2:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간 신곡] 원래 겨울 컴백의 꽃말은 청량..❄ 베리베리(VERIVERY)의 ‘Tap Tap’♬ l EP.589]]></title>
-        <id>https://tv.naver.com/v/31201329</id>
-        <link href="https://tv.naver.com/v/31201329"/>
-        <updated>2022-11-30T11:12:09.049Z</updated>
         <content type="html"><![CDATA[3:11]]></content>
     </entry>
 </feed>
