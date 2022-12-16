@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-12-16T09:14:52.647Z</updated>
+    <updated>2022-12-16T10:16:11.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 592회 미리 크리스마스 특집 2부 편 예고]]></title>
+        <id>https://tv.naver.com/v/31652095</id>
+        <link href="https://tv.naver.com/v/31652095"/>
+        <updated>2022-12-16T10:13:07.815Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 다음주 예고]]></title>
         <id>https://tv.naver.com/v/31609586</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31424598"/>
         <updated>2022-12-07T13:20:52.115Z</updated>
         <content type="html"><![CDATA[4:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광엠씨의 허술한 기술때문에 빠르게 정답을 캐치하는 랄라팀!]]></title>
-        <id>https://tv.naver.com/v/31424481</id>
-        <link href="https://tv.naver.com/v/31424481"/>
-        <updated>2022-12-07T13:20:52.116Z</updated>
-        <content type="html"><![CDATA[1:33]]></content>
     </entry>
 </feed>
