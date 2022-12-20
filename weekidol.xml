@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-12-19T23:16:10.012Z</updated>
+    <updated>2022-12-20T01:06:16.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://tv.naver.com/v/31727645"/>
         <updated>2022-12-19T09:13:08.019Z</updated>
         <content type="html"><![CDATA[1:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 멈출 생각 없는 댄스 세포! 춤 하면 댸니를 뺴고 논할 수 없지]]></title>
+        <id>https://tv.naver.com/v/31727332</id>
+        <link href="https://tv.naver.com/v/31727332"/>
+        <updated>2022-12-20T01:03:13.045Z</updated>
+        <content type="html"><![CDATA[1:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 592회 미리 크리스마스 특집 2부 편 예고]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31429709"/>
         <updated>2022-12-07T16:17:49.052Z</updated>
         <content type="html"><![CDATA[3:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂템페스트＂ 마지막 점수가 75조 점?! 랄라 VS 깡 과연 최종 우승팀은?!]]></title>
-        <id>https://tv.naver.com/v/31424600</id>
-        <link href="https://tv.naver.com/v/31424600"/>
-        <updated>2022-12-07T13:20:52.113Z</updated>
-        <content type="html"><![CDATA[2:59]]></content>
     </entry>
 </feed>
