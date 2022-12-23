@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-12-23T09:12:12.785Z</updated>
+    <updated>2022-12-23T10:13:31.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 593회 K-CHAMP AWARDS 편 예고]]></title>
+        <id>https://tv.naver.com/v/31843508</id>
+        <link href="https://tv.naver.com/v/31843508"/>
+        <updated>2022-12-23T10:13:26.305Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[핑크 베놈이 아니라 베놈이라며 베놈 라이팅을 시전하는 은혁 어쩜 좋아..😅]]></title>
         <id>https://tv.naver.com/v/31791233</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31542482"/>
         <updated>2022-12-13T01:07:02.287Z</updated>
         <content type="html"><![CDATA[1:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 제일 재밌는 게 싸움 구경★ 내 찐친이 싸움에 휘말려도 말리지 않는 D&E!?]]></title>
-        <id>https://tv.naver.com/v/31542481</id>
-        <link href="https://tv.naver.com/v/31542481"/>
-        <updated>2022-12-13T01:07:02.287Z</updated>
-        <content type="html"><![CDATA[1:42]]></content>
     </entry>
 </feed>
