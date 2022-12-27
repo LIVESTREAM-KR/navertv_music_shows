@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2022-12-26T23:12:42.068Z</updated>
+    <updated>2022-12-27T01:00:12.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 한우를 먹고 싶은 자... 랜덤 플레이 댄스에서 승리하라..★]]></title>
+        <id>https://tv.naver.com/v/31899747</id>
+        <link href="https://tv.naver.com/v/31899747"/>
+        <updated>2022-12-27T01:00:04.668Z</updated>
+        <content type="html"><![CDATA[1:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 빛나는 직캠의 Stray Kids와 함께 했던 ‘바나나 알러지 원숭이’ 커버를 이번엔 Xdinary Heroes 버전으로!?]]></title>
+        <id>https://tv.naver.com/v/31899609</id>
+        <link href="https://tv.naver.com/v/31899609"/>
+        <updated>2022-12-27T01:00:04.669Z</updated>
+        <content type="html"><![CDATA[1:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 593회 K-CHAMP AWARDS 편 예고]]></title>
         <id>https://tv.naver.com/v/31843508</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/31609086"/>
         <updated>2022-12-14T12:24:58.175Z</updated>
         <content type="html"><![CDATA[1:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광희 절친 GD의 성대모사를 준비한 키노! GD 버전으로 뉴진스의 ＂Hype boy＂를 부른다고?!]]></title>
-        <id>https://tv.naver.com/v/31608868</id>
-        <link href="https://tv.naver.com/v/31608868"/>
-        <updated>2022-12-14T12:24:58.177Z</updated>
-        <content type="html"><![CDATA[2:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 설렘 가득 막대 과자 게임에 한숨만 늘어가는 찐친들..★]]></title>
-        <id>https://tv.naver.com/v/31542482</id>
-        <link href="https://tv.naver.com/v/31542482"/>
-        <updated>2022-12-13T01:07:02.287Z</updated>
-        <content type="html"><![CDATA[1:07]]></content>
     </entry>
 </feed>
