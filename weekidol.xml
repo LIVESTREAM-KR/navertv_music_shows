@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-01-06T09:13:01.036Z</updated>
+    <updated>2023-01-06T10:13:43.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 595회 WayV 편 예고]]></title>
+        <id>https://tv.naver.com/v/32177083</id>
+        <link href="https://tv.naver.com/v/32177083"/>
+        <updated>2023-01-06T10:13:38.169Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콘서트 버전은 NO! 스키즈 랜플댄 마지막 3차시도 결과는..?]]></title>
         <id>https://tv.naver.com/v/32115233</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31791231"/>
         <updated>2022-12-21T12:23:07.860Z</updated>
         <content type="html"><![CDATA[2:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음주 예고]]></title>
-        <id>https://tv.naver.com/v/31791103</id>
-        <link href="https://tv.naver.com/v/31791103"/>
-        <updated>2022-12-21T12:23:07.861Z</updated>
-        <content type="html"><![CDATA[0:44]]></content>
     </entry>
 </feed>
