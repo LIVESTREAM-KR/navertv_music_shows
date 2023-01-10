@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-01-09T23:13:06.571Z</updated>
+    <updated>2023-01-10T01:08:16.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방선공개] 혼자 보기 아까운 쿤또케송과 쥔또케송♥]]></title>
+        <id>https://tv.naver.com/v/32238980</id>
+        <link href="https://tv.naver.com/v/32238980"/>
+        <updated>2023-01-10T01:05:12.728Z</updated>
+        <content type="html"><![CDATA[1:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] Welcome to ZOO간아! WayV와 함께하는 ZOO간아에 놀러와★]]></title>
+        <id>https://tv.naver.com/v/32238978</id>
+        <link href="https://tv.naver.com/v/32238978"/>
+        <updated>2023-01-10T01:05:12.728Z</updated>
+        <content type="html"><![CDATA[1:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 595회 WayV 편 예고]]></title>
         <id>https://tv.naver.com/v/32177083</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/31843508"/>
         <updated>2022-12-23T10:13:26.305Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핑크 베놈이 아니라 베놈이라며 베놈 라이팅을 시전하는 은혁 어쩜 좋아..😅]]></title>
-        <id>https://tv.naver.com/v/31791233</id>
-        <link href="https://tv.naver.com/v/31791233"/>
-        <updated>2022-12-21T12:23:07.858Z</updated>
-        <content type="html"><![CDATA[1:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂동해＂ 트와이스의 ＂CHEER UP＂인데 ＂TT＂ 가 갑자기?!]]></title>
-        <id>https://tv.naver.com/v/31791231</id>
-        <link href="https://tv.naver.com/v/31791231"/>
-        <updated>2022-12-21T12:23:07.860Z</updated>
-        <content type="html"><![CDATA[2:38]]></content>
     </entry>
 </feed>
