@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-01-12T10:16:25.502Z</updated>
+    <updated>2023-01-12T11:15:27.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] WayV - Phantom (English Ver.) (웨이비 - 팬텀) l EP.595]]></title>
+        <id>https://tv.naver.com/v/32315458</id>
+        <link href="https://tv.naver.com/v/32315458"/>
+        <updated>2023-01-12T11:15:20.204Z</updated>
+        <content type="html"><![CDATA[3:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음ver.] WayV - Phantom (English Ver.) (웨이비 - 팬텀) l EP.595]]></title>
+        <id>https://tv.naver.com/v/32301496</id>
+        <link href="https://tv.naver.com/v/32301496"/>
+        <updated>2023-01-12T11:15:20.204Z</updated>
+        <content type="html"><![CDATA[3:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
         <id>https://tv.naver.com/v/32298252</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32115051"/>
         <updated>2023-01-04T12:23:51.768Z</updated>
         <content type="html"><![CDATA[3:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[★MSG 없는 충격 실화★ 끊임없이 나오는 노쪽이의 또 다른 만행..]]></title>
-        <id>https://tv.naver.com/v/32114922</id>
-        <link href="https://tv.naver.com/v/32114922"/>
-        <updated>2023-01-04T12:23:51.769Z</updated>
-        <content type="html"><![CDATA[2:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가끔 나를 핑핑 돌아버리게 만드는 스키즈 멤버는?!]]></title>
-        <id>https://tv.naver.com/v/32114881</id>
-        <link href="https://tv.naver.com/v/32114881"/>
-        <updated>2023-01-04T12:23:51.769Z</updated>
-        <content type="html"><![CDATA[2:59]]></content>
     </entry>
 </feed>
