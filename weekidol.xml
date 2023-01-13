@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-01-13T04:25:07.910Z</updated>
+    <updated>2023-01-13T12:25:02.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 596회 트라이비&Lapillus 편 예고]]></title>
+        <id>https://tv.naver.com/v/32358496</id>
+        <link href="https://tv.naver.com/v/32358496"/>
+        <updated>2023-01-13T12:24:57.581Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] WayV - Phantom (English Ver.) (웨이비 - 팬텀) l EP.595]]></title>
         <id>https://tv.naver.com/v/32315458</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32115053"/>
         <updated>2023-01-04T12:23:51.768Z</updated>
         <content type="html"><![CDATA[0:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨랜플 요정 MC한✨과 함께하는 SKZ 2022 랜덤 플레이 댄스]]></title>
-        <id>https://tv.naver.com/v/32115051</id>
-        <link href="https://tv.naver.com/v/32115051"/>
-        <updated>2023-01-04T12:23:51.768Z</updated>
-        <content type="html"><![CDATA[3:38]]></content>
     </entry>
 </feed>
