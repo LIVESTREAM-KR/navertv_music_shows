@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-01-16T09:16:44.950Z</updated>
+    <updated>2023-01-16T10:14:21.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 미방] ✨쿤 매직쇼에 오신 걸 환영합니다✨ 제작진들과 MC들을 깜짝 놀라게 한 쿤의 카드마술🃏 l EP.595]]></title>
+        <id>https://tv.naver.com/v/32420749</id>
+        <link href="https://tv.naver.com/v/32420749"/>
+        <updated>2023-01-16T10:14:16.152Z</updated>
+        <content type="html"><![CDATA[4:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 596회 트라이비&Lapillus 편 예고]]></title>
         <id>https://tv.naver.com/v/32358496</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32115232"/>
         <updated>2023-01-04T12:23:51.768Z</updated>
         <content type="html"><![CDATA[2:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
-        <id>https://tv.naver.com/v/32115053</id>
-        <link href="https://tv.naver.com/v/32115053"/>
-        <updated>2023-01-04T12:23:51.768Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
     </entry>
 </feed>
