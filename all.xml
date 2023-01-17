@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-16T23:12:47.889Z</updated>
+    <updated>2023-01-17T01:01:37.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[주간아 미방] ✨쿤 매직쇼에 오신 걸 환영합니다✨ 제작진들과 MC들을 깜짝 놀라게 한 쿤의 카드마술🃏 l EP.595 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -10,6 +10,20 @@
         <link href="https://tv.naver.com/v/32420749"/>
         <updated>2023-01-16T10:14:16.152Z</updated>
         <content type="html"><![CDATA[4:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 트라이비 메댄 현빈이가 추는 ITZY ＜Cheshire＞ 보자마자 냅다 소리지름... (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/32418780</id>
+        <link href="https://tv.naver.com/v/32418780"/>
+        <updated>2023-01-17T01:01:30.807Z</updated>
+        <content type="html"><![CDATA[1:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 필리핀의 국민 여동생 샨티가 보여주는신박한 개인기! 궁금하면 드루왕 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/32418431</id>
+        <link href="https://tv.naver.com/v/32418431"/>
+        <updated>2023-01-17T01:01:30.807Z</updated>
+        <content type="html"><![CDATA[1:14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 596회 트라이비&Lapillus 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/32177083"/>
         <updated>2023-01-06T10:13:38.169Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콘서트 버전은 NO! 스키즈 랜플댄 마지막 3차시도 결과는..? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/32115233</id>
-        <link href="https://tv.naver.com/v/32115233"/>
-        <updated>2023-01-04T12:23:51.768Z</updated>
-        <content type="html"><![CDATA[3:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일단 즐겨~🕺 랜플댄 최초로 콘서트 버전을 보여주는 스키즈?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/32115232</id>
-        <link href="https://tv.naver.com/v/32115232"/>
-        <updated>2023-01-04T12:23:51.768Z</updated>
-        <content type="html"><![CDATA[2:15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>

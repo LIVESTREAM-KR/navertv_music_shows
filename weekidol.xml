@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-01-16T23:12:47.912Z</updated>
+    <updated>2023-01-17T01:01:37.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://tv.naver.com/v/32420749"/>
         <updated>2023-01-16T10:14:16.152Z</updated>
         <content type="html"><![CDATA[4:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 트라이비 메댄 현빈이가 추는 ITZY ＜Cheshire＞ 보자마자 냅다 소리지름...]]></title>
+        <id>https://tv.naver.com/v/32418780</id>
+        <link href="https://tv.naver.com/v/32418780"/>
+        <updated>2023-01-17T01:01:30.807Z</updated>
+        <content type="html"><![CDATA[1:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 필리핀의 국민 여동생 샨티가 보여주는신박한 개인기! 궁금하면 드루왕]]></title>
+        <id>https://tv.naver.com/v/32418431</id>
+        <link href="https://tv.naver.com/v/32418431"/>
+        <updated>2023-01-17T01:01:30.807Z</updated>
+        <content type="html"><![CDATA[1:14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 596회 트라이비&Lapillus 편 예고]]></title>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32177083"/>
         <updated>2023-01-06T10:13:38.169Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콘서트 버전은 NO! 스키즈 랜플댄 마지막 3차시도 결과는..?]]></title>
-        <id>https://tv.naver.com/v/32115233</id>
-        <link href="https://tv.naver.com/v/32115233"/>
-        <updated>2023-01-04T12:23:51.768Z</updated>
-        <content type="html"><![CDATA[3:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일단 즐겨~🕺 랜플댄 최초로 콘서트 버전을 보여주는 스키즈?!]]></title>
-        <id>https://tv.naver.com/v/32115232</id>
-        <link href="https://tv.naver.com/v/32115232"/>
-        <updated>2023-01-04T12:23:51.768Z</updated>
-        <content type="html"><![CDATA[2:15]]></content>
     </entry>
 </feed>
