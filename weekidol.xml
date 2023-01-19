@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-01-19T11:14:35.298Z</updated>
+    <updated>2023-01-19T12:25:08.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
     <entry>
@@ -81,6 +81,20 @@
         <link href="https://tv.naver.com/v/32472448"/>
         <updated>2023-01-18T12:24:12.979Z</updated>
         <content type="html"><![CDATA[1:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] TRI.BE - ANTIFRAGILE (원곡 : LE SSERAFIM) (트라이비 - 안티프래자일) l EP.596]]></title>
+        <id>https://tv.naver.com/v/32463953</id>
+        <link href="https://tv.naver.com/v/32463953"/>
+        <updated>2023-01-19T12:25:02.811Z</updated>
+        <content type="html"><![CDATA[2:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] Lapillus - DALLA DALLA (원곡 : ITZY) (라필루스 - 달라달라) l EP.596]]></title>
+        <id>https://tv.naver.com/v/32463860</id>
+        <link href="https://tv.naver.com/v/32463860"/>
+        <updated>2023-01-19T12:25:02.812Z</updated>
+        <content type="html"><![CDATA[2:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist] Lapillus는 매력이 달라달라.. 다채로운 무대를 준비한 Lapillus가 커버하는 ITZY의 ＜달라달라＞♬ l EP.596]]></title>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32296515"/>
         <updated>2023-01-11T12:24:57.848Z</updated>
         <content type="html"><![CDATA[1:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NO 상의를 즐긴다는 K-POP 아이돌 패알못 ✨헨드리의 매력발산✨]]></title>
-        <id>https://tv.naver.com/v/32296513</id>
-        <link href="https://tv.naver.com/v/32296513"/>
-        <updated>2023-01-11T12:24:57.848Z</updated>
-        <content type="html"><![CDATA[1:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뉴월드를 만났드리✨새로운 샤워볼로 샤워시간이 길어졌다는 헨드리!]]></title>
-        <id>https://tv.naver.com/v/32296306</id>
-        <link href="https://tv.naver.com/v/32296306"/>
-        <updated>2023-01-11T12:24:57.853Z</updated>
-        <content type="html"><![CDATA[2:21]]></content>
     </entry>
 </feed>
