@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-01-20T08:16:46.872Z</updated>
+    <updated>2023-01-20T09:16:26.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] TRI.BE - ANTIFRAGILE  (원곡 : LE SSERAFIM) (트라이비 - 안티프래자일) l EP.596]]></title>
+        <id>https://tv.naver.com/v/32494133</id>
+        <link href="https://tv.naver.com/v/32494133"/>
+        <updated>2023-01-20T09:13:22.678Z</updated>
+        <content type="html"><![CDATA[2:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] Lapillus - DALLA DALLA  (원곡 : ITZY) (라필루스 - 달라달라) l EP.596]]></title>
+        <id>https://tv.naver.com/v/32493934</id>
+        <link href="https://tv.naver.com/v/32493934"/>
+        <updated>2023-01-20T09:13:22.697Z</updated>
+        <content type="html"><![CDATA[2:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[❤귀여움 폭발❤ 셀프로 정답 공개해버린 하은이]]></title>
         <id>https://tv.naver.com/v/32473555</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32297862"/>
         <updated>2023-01-11T12:24:57.841Z</updated>
         <content type="html"><![CDATA[4:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헨드리의 희노애락 다 담긴 인생 네 컷~📸 왜 이렇게 잘해..?!]]></title>
-        <id>https://tv.naver.com/v/32296897</id>
-        <link href="https://tv.naver.com/v/32296897"/>
-        <updated>2023-01-11T12:24:57.843Z</updated>
-        <content type="html"><![CDATA[1:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양양의 극한 TMI! 멤버들도 놀란 🔥화려한 속옷 컬러🔥]]></title>
-        <id>https://tv.naver.com/v/32296515</id>
-        <link href="https://tv.naver.com/v/32296515"/>
-        <updated>2023-01-11T12:24:57.848Z</updated>
-        <content type="html"><![CDATA[1:07]]></content>
     </entry>
 </feed>
