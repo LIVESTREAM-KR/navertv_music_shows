@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-27T09:12:45.976Z</updated>
+    <updated>2023-01-27T10:16:39.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 598회 VIVIZ 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/32673356</id>
+        <link href="https://tv.naver.com/v/32673356"/>
+        <updated>2023-01-27T10:13:35.560Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] KINGDOM - CASE 143 (원곡 : Stray Kids) (킹덤 - 케이스 143) l EP.597 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/32672050</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/32472823"/>
         <updated>2023-01-18T12:24:12.979Z</updated>
         <content type="html"><![CDATA[2:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[★주간아 최초 선공개★ 트라이비의 ＂WITCH＂ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/32472634</id>
-        <link href="https://tv.naver.com/v/32472634"/>
-        <updated>2023-01-18T12:24:12.979Z</updated>
-        <content type="html"><![CDATA[1:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
