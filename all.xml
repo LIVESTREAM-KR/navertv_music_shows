@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-27T08:16:56.264Z</updated>
+    <updated>2023-01-27T09:12:45.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] KINGDOM - CASE 143 (원곡 : Stray Kids) (킹덤 - 케이스 143) l EP.597 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/32672050</id>
+        <link href="https://tv.naver.com/v/32672050"/>
+        <updated>2023-01-27T09:12:39.954Z</updated>
+        <content type="html"><![CDATA[2:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] MIRAE - Cherry Bomb (원곡 : NCT 127) (미래소년 - 체리 밤) l EP.597 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/32671279</id>
+        <link href="https://tv.naver.com/v/32671279"/>
+        <updated>2023-01-27T09:12:39.955Z</updated>
+        <content type="html"><![CDATA[2:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음 ver.] MIRAE - Cherry Bomb (원곡 : NCT 127) (미래소년 - 체리 밤) l EP.597 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/32635681</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/32472634"/>
         <updated>2023-01-18T12:24:12.979Z</updated>
         <content type="html"><![CDATA[1:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂송선＂ 체지방률이 3%라고?! 포징 자세까지 완벽하네~✨ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/32472448</id>
-        <link href="https://tv.naver.com/v/32472448"/>
-        <updated>2023-01-18T12:24:12.979Z</updated>
-        <content type="html"><![CDATA[1:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] TRI.BE - ANTIFRAGILE (원곡 : LE SSERAFIM) (트라이비 - 안티프래자일) l EP.596 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/32463953</id>
-        <link href="https://tv.naver.com/v/32463953"/>
-        <updated>2023-01-19T12:25:02.811Z</updated>
-        <content type="html"><![CDATA[2:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
