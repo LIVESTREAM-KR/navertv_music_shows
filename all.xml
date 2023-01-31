@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-30T23:13:46.472Z</updated>
+    <updated>2023-01-31T01:08:44.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 멎은 심장도 다시 살려낼 80세 은하의 애교! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/32732513</id>
+        <link href="https://tv.naver.com/v/32732513"/>
+        <updated>2023-01-31T01:05:40.146Z</updated>
+        <content type="html"><![CDATA[1:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 나비 소원 성취! ※신비표 랜덤 플레이 여든 댄스※ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/32732512</id>
+        <link href="https://tv.naver.com/v/32732512"/>
+        <updated>2023-01-31T01:05:40.149Z</updated>
+        <content type="html"><![CDATA[1:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 598회 VIVIZ 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/32673356</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/32472979"/>
         <updated>2023-01-18T12:24:12.968Z</updated>
         <content type="html"><![CDATA[1:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온갖 공격에도 끄떡하지 않는 08년생 하은의 파워🔥 (Feat. 송선의 틈새 헬스) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/32472825</id>
-        <link href="https://tv.naver.com/v/32472825"/>
-        <updated>2023-01-18T12:24:12.969Z</updated>
-        <content type="html"><![CDATA[2:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예능 능력 검증 체크🔍 ＂Lapillus & TRI.BE＂의 Only One 방석 쟁탈전~ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/32472823</id>
-        <link href="https://tv.naver.com/v/32472823"/>
-        <updated>2023-01-18T12:24:12.979Z</updated>
-        <content type="html"><![CDATA[2:25]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
