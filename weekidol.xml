@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-02-01T10:14:31.119Z</updated>
+    <updated>2023-02-01T11:14:19.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] ✨시크 카리스마 VIVIZ 컴백✨ 비비지(VIVIZ)의 ‘PULL UP’♬ l EP.598]]></title>
+        <id>https://tv.naver.com/v/32782310</id>
+        <link href="https://tv.naver.com/v/32782310"/>
+        <updated>2023-02-01T11:11:14.943Z</updated>
+        <content type="html"><![CDATA[2:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 멎은 심장도 다시 살려낼 80세 은하의 애교!]]></title>
         <id>https://tv.naver.com/v/32732513</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32473379"/>
         <updated>2023-01-18T12:24:12.965Z</updated>
         <content type="html"><![CDATA[2:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임하다가 결국 야채튀김이 된 트라필루스🍤]]></title>
-        <id>https://tv.naver.com/v/32472979</id>
-        <link href="https://tv.naver.com/v/32472979"/>
-        <updated>2023-01-18T12:24:12.968Z</updated>
-        <content type="html"><![CDATA[1:36]]></content>
     </entry>
 </feed>
