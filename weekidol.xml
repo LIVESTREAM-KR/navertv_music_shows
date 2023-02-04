@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-02-04T05:11:36.784Z</updated>
+    <updated>2023-02-04T06:18:29.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 하드털이] 고막 공유 기능이 아직 발명이 안돼서 주간아 하드 털어왔습니다.. VIVIZ의 I Tried (FULL ver) (원곡 : 원더걸스) l EP.598]]></title>
+        <id>https://tv.naver.com/v/32855644</id>
+        <link href="https://tv.naver.com/v/32855644"/>
+        <updated>2023-02-04T06:15:25.768Z</updated>
+        <content type="html"><![CDATA[3:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 599회 발렌타인데이 특집 편 예고]]></title>
         <id>https://tv.naver.com/v/32853268</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32615972"/>
         <updated>2023-01-25T12:25:53.104Z</updated>
         <content type="html"><![CDATA[0:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KINGDOM & 미래소년의 상상력과 연기력을 볼 수 있는 주간아 상상한컷📸]]></title>
-        <id>https://tv.naver.com/v/32615630</id>
-        <link href="https://tv.naver.com/v/32615630"/>
-        <updated>2023-01-25T12:25:53.113Z</updated>
-        <content type="html"><![CDATA[7:49]]></content>
     </entry>
 </feed>
