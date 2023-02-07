@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-02-06T23:15:50.549Z</updated>
+    <updated>2023-02-07T01:05:48.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 프로미스나인 하영&지원의 만보기 노래방! 다같이 SHAKE IT SHAKE IT!]]></title>
+        <id>https://tv.naver.com/v/32919130</id>
+        <link href="https://tv.naver.com/v/32919130"/>
+        <updated>2023-02-07T01:02:43.814Z</updated>
+        <content type="html"><![CDATA[1:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] ＂HEY~!＂ 수아가 다짜고짜 다가가 인사를 건넨 사람은?]]></title>
+        <id>https://tv.naver.com/v/32918817</id>
+        <link href="https://tv.naver.com/v/32918817"/>
+        <updated>2023-02-07T01:02:43.819Z</updated>
+        <content type="html"><![CDATA[0:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 하드털이] 고막 공유 기능이 아직 발명이 안돼서 주간아 하드 털어왔습니다.. VIVIZ의 I Tried (FULL ver) (원곡 : 원더걸스) l EP.598]]></title>
         <id>https://tv.naver.com/v/32855644</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32635681"/>
         <updated>2023-01-26T12:26:31.584Z</updated>
         <content type="html"><![CDATA[2:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음 ver.] KINGDOM - CASE 143 (원곡 : Stray Kids) (킹덤 - 케이스 143) l EP.597]]></title>
-        <id>https://tv.naver.com/v/32635540</id>
-        <link href="https://tv.naver.com/v/32635540"/>
-        <updated>2023-01-26T12:26:31.586Z</updated>
-        <content type="html"><![CDATA[2:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
-        <id>https://tv.naver.com/v/32615972</id>
-        <link href="https://tv.naver.com/v/32615972"/>
-        <updated>2023-01-25T12:25:53.104Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
     </entry>
 </feed>
