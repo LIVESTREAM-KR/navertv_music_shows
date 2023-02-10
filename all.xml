@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-10T09:13:39.926Z</updated>
+    <updated>2023-02-10T10:17:50.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[주간아 하드털이] 거지가 꿈이야? 아니🙅🏻‍ 짜냥이는 부자가 꿈이야🤑 야망girl🔥 은하가 복권에 당첨된다면? l EP.598 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/33042034</id>
+        <link href="https://tv.naver.com/v/33042034"/>
+        <updated>2023-02-10T10:14:46.794Z</updated>
+        <content type="html"><![CDATA[2:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 600회 STAYC편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/33040203</id>
+        <link href="https://tv.naver.com/v/33040203"/>
+        <updated>2023-02-10T10:14:46.801Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/32993196</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/32789773"/>
         <updated>2023-02-01T12:25:35.891Z</updated>
         <content type="html"><![CDATA[1:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간 신곡] ✨시크 카리스마 VIVIZ 컴백✨ 비비지(VIVIZ)의 ‘PULL UP’♬ l EP.598 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/32782310</id>
-        <link href="https://tv.naver.com/v/32782310"/>
-        <updated>2023-02-01T11:11:14.943Z</updated>
-        <content type="html"><![CDATA[2:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist+] 풀코스로 준비한 비비지의 위플플 무대! VIVIZ＜LOVEADE＞ + VIVIZ＜So Special＞ + 원더걸스＜I Tried＞ l EP.59 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/32782023</id>
-        <link href="https://tv.naver.com/v/32782023"/>
-        <updated>2023-02-01T12:25:35.895Z</updated>
-        <content type="html"><![CDATA[6:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
