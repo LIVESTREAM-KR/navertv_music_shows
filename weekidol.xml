@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-02-13T23:16:58.163Z</updated>
+    <updated>2023-02-14T01:08:48.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 이사님만의 탄탄한 복근을 위한 운동법은????? 내공 100드립니다...]]></title>
+        <id>https://tv.naver.com/v/33093002</id>
+        <link href="https://tv.naver.com/v/33093002"/>
+        <updated>2023-02-14T01:05:44.838Z</updated>
+        <content type="html"><![CDATA[1:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 시은이의 공기팟 잃어버린 썰..다들 일어나면 한 쪽씩 없어진 경험 있으시잖아요...]]></title>
+        <id>https://tv.naver.com/v/33092881</id>
+        <link href="https://tv.naver.com/v/33092881"/>
+        <updated>2023-02-14T01:05:44.847Z</updated>
+        <content type="html"><![CDATA[1:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 하드털이] 거지가 꿈이야? 아니🙅🏻‍ 짜냥이는 부자가 꿈이야🤑 야망girl🔥 은하가 복권에 당첨된다면? l EP.598]]></title>
         <id>https://tv.naver.com/v/33042034</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32789943"/>
         <updated>2023-02-01T12:25:35.876Z</updated>
         <content type="html"><![CDATA[1:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂VIVIZ＂ 시크 도도 1인자 찾기🔍]]></title>
-        <id>https://tv.naver.com/v/32789942</id>
-        <link href="https://tv.naver.com/v/32789942"/>
-        <updated>2023-02-01T12:25:35.877Z</updated>
-        <content type="html"><![CDATA[2:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음주가 의심되는 은하의 걸음걸이🏃‍]]></title>
-        <id>https://tv.naver.com/v/32789773</id>
-        <link href="https://tv.naver.com/v/32789773"/>
-        <updated>2023-02-01T12:25:35.891Z</updated>
-        <content type="html"><![CDATA[1:17]]></content>
     </entry>
 </feed>
