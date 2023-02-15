@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-15T10:17:51.694Z</updated>
+    <updated>2023-02-15T11:11:45.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] (주섬주섬) 주머니에 넣고 다니고 싶잖아＞_＜ 스테이씨(STAYC)의 ‘Teddy Bear’♬ l EP.600 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/33150720</id>
+        <link href="https://tv.naver.com/v/33150720"/>
+        <updated>2023-02-15T11:11:39.758Z</updated>
+        <content type="html"><![CDATA[3:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 이사님만의 탄탄한 복근을 위한 운동법은????? 내공 100드립니다... (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/33093002</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/32789945"/>
         <updated>2023-02-01T12:25:35.867Z</updated>
         <content type="html"><![CDATA[1:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소통에 진심인 엄지의 투머치 소통📢 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/32789943</id>
-        <link href="https://tv.naver.com/v/32789943"/>
-        <updated>2023-02-01T12:25:35.876Z</updated>
-        <content type="html"><![CDATA[1:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
