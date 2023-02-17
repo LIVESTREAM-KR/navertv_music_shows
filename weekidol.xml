@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-02-17T10:15:12.628Z</updated>
+    <updated>2023-02-17T11:14:16.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist+ l 세로캠] STAYC - ＜BEAUTIFUL MONSTER (Reggae Ver.)+Poppy (Korean Ver.)＞ ♬ l EP.600]]></title>
+        <id>https://tv.naver.com/v/33213142</id>
+        <link href="https://tv.naver.com/v/33213142"/>
+        <updated>2023-02-17T11:11:12.697Z</updated>
+        <content type="html"><![CDATA[3:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist+ l 세로캠] STAYC 시은 - ＜사건의 지평선＞ ♬ (원곡: 윤하) l EP.600]]></title>
+        <id>https://tv.naver.com/v/33213093</id>
+        <link href="https://tv.naver.com/v/33213093"/>
+        <updated>2023-02-17T11:11:12.697Z</updated>
+        <content type="html"><![CDATA[1:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 601회 TNX 편 예고]]></title>
         <id>https://tv.naver.com/v/33225270</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32993195"/>
         <updated>2023-02-08T12:24:33.962Z</updated>
         <content type="html"><![CDATA[4:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂권은비&수아&지유&하영&지원＂ 달달달~ 달달달~ TV를 보면📺]]></title>
-        <id>https://tv.naver.com/v/32993192</id>
-        <link href="https://tv.naver.com/v/32993192"/>
-        <updated>2023-02-08T12:24:33.962Z</updated>
-        <content type="html"><![CDATA[3:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂권은비&수아&지유&하영&지원＂ 다양한 커플 컨셉이 있는 주간아 상상한컷📸]]></title>
-        <id>https://tv.naver.com/v/32993191</id>
-        <link href="https://tv.naver.com/v/32993191"/>
-        <updated>2023-02-08T12:24:33.962Z</updated>
-        <content type="html"><![CDATA[9:43]]></content>
     </entry>
 </feed>
