@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-02-17T09:16:29.577Z</updated>
+    <updated>2023-02-17T10:15:12.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 601회 TNX 편 예고]]></title>
+        <id>https://tv.naver.com/v/33225270</id>
+        <link href="https://tv.naver.com/v/33225270"/>
+        <updated>2023-02-17T10:15:05.619Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] STAYC - Teddy Bear (스테이씨 - 테디 베어) l EP.600]]></title>
         <id>https://tv.naver.com/v/33119126</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32993191"/>
         <updated>2023-02-08T12:24:33.962Z</updated>
         <content type="html"><![CDATA[9:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[막냇집 재벌아들은 몇 살이고? 어이없는 은비의 오답에 빵~🤣]]></title>
-        <id>https://tv.naver.com/v/32993078</id>
-        <link href="https://tv.naver.com/v/32993078"/>
-        <updated>2023-02-08T12:24:33.962Z</updated>
-        <content type="html"><![CDATA[2:32]]></content>
     </entry>
 </feed>
