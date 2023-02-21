@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-20T23:13:13.807Z</updated>
+    <updated>2023-02-21T01:07:05.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 잠 잘 자거나 못 자거나 땡쓰들 어서 모여! 태훈이가 자장가 불러준대~! 어머어머 웬일이야~♡ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/33299632</id>
+        <link href="https://tv.naver.com/v/33299632"/>
+        <updated>2023-02-21T01:07:00.246Z</updated>
+        <content type="html"><![CDATA[1:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 소원을 말해봐♬ 땡스들이 원한 그 VIBE! 해 뜰 때까지 무한재생 가보자구~! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/33299631</id>
+        <link href="https://tv.naver.com/v/33299631"/>
+        <updated>2023-02-21T01:07:00.249Z</updated>
+        <content type="html"><![CDATA[1:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist+ l 세로캠] STAYC - ＜BEAUTIFUL MONSTER (Reggae Ver.)+Poppy (Korean Ver.)＞ ♬ l EP.600 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/33213142</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/33040203"/>
         <updated>2023-02-10T10:14:46.801Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/32993196</id>
-        <link href="https://tv.naver.com/v/32993196"/>
-        <updated>2023-02-08T12:24:33.961Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저세상 퀄리티 보여주는 수아의 동물 모사✨ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/32993195</id>
-        <link href="https://tv.naver.com/v/32993195"/>
-        <updated>2023-02-08T12:24:33.962Z</updated>
-        <content type="html"><![CDATA[4:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
