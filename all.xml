@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-22T10:15:15.756Z</updated>
+    <updated>2023-02-22T11:11:39.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] ✨청춘 감성 TNX 컴백✨ 티엔엑스(TNX)의 ‘Love or Die’♬ l EP.601 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/33361170</id>
+        <link href="https://tv.naver.com/v/33361170"/>
+        <updated>2023-02-22T11:11:34.065Z</updated>
+        <content type="html"><![CDATA[3:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 잠 잘 자거나 못 자거나 땡쓰들 어서 모여! 태훈이가 자장가 불러준대~! 어머어머 웬일이야~♡ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/33299632</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/33042034"/>
         <updated>2023-02-10T10:14:46.794Z</updated>
         <content type="html"><![CDATA[2:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 600회 STAYC편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/33040203</id>
-        <link href="https://tv.naver.com/v/33040203"/>
-        <updated>2023-02-10T10:14:46.801Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
