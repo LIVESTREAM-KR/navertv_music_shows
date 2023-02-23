@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-02-23T10:15:17.701Z</updated>
+    <updated>2023-02-23T11:12:02.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] TNX - Pretty U (원곡 : 세븐틴) (티엔엑스 - 예쁘다) l EP.601]]></title>
+        <id>https://tv.naver.com/v/33390628</id>
+        <link href="https://tv.naver.com/v/33390628"/>
+        <updated>2023-02-23T11:11:56.154Z</updated>
+        <content type="html"><![CDATA[3:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] TNX - Pretty U (원곡 : 세븐틴) (티엔엑스 - 예쁘다) l EP.601]]></title>
+        <id>https://tv.naver.com/v/33390503</id>
+        <link href="https://tv.naver.com/v/33390503"/>
+        <updated>2023-02-23T11:11:56.159Z</updated>
+        <content type="html"><![CDATA[3:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] TNX - Love or Die (티엔엑스 - 러브 오어 다이) l EP.601]]></title>
         <id>https://tv.naver.com/v/33369513</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/33118983"/>
         <updated>2023-02-15T12:25:55.630Z</updated>
         <content type="html"><![CDATA[3:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] STAYC J- Teddy Bear (스테이씨 재이 - 테디 베어) l EP.600]]></title>
-        <id>https://tv.naver.com/v/33152570</id>
-        <link href="https://tv.naver.com/v/33152570"/>
-        <updated>2023-02-15T12:25:55.630Z</updated>
-        <content type="html"><![CDATA[3:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] STAYC YOON- Teddy Bear (스테이씨 윤 - 테디 베어) l EP.600]]></title>
-        <id>https://tv.naver.com/v/33152322</id>
-        <link href="https://tv.naver.com/v/33152322"/>
-        <updated>2023-02-15T12:25:55.631Z</updated>
-        <content type="html"><![CDATA[3:14]]></content>
     </entry>
 </feed>
