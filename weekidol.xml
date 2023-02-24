@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-02-24T09:14:02.617Z</updated>
+    <updated>2023-02-24T10:15:01.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 602회 LUCY편 예고]]></title>
+        <id>https://tv.naver.com/v/33440075</id>
+        <link href="https://tv.naver.com/v/33440075"/>
+        <updated>2023-02-24T10:14:55.972Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] TNX - Pretty U (원곡 : 세븐틴) (티엔엑스 - 예쁘다) l EP.601]]></title>
         <id>https://tv.naver.com/v/33390628</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/33119126</id>
         <link href="https://tv.naver.com/v/33119126"/>
         <updated>2023-02-15T12:25:55.609Z</updated>
-        <content type="html"><![CDATA[3:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 짐벌캠] STAYC - Teddy Bear (스테이씨 - 테디 베어) l EP.600]]></title>
-        <id>https://tv.naver.com/v/33118983</id>
-        <link href="https://tv.naver.com/v/33118983"/>
-        <updated>2023-02-15T12:25:55.630Z</updated>
         <content type="html"><![CDATA[3:22]]></content>
     </entry>
 </feed>
