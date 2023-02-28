@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-02-27T23:14:21.173Z</updated>
+    <updated>2023-02-28T01:05:07.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 삑- 루시는 댄스 욕심 과다입니다! 루시가 커버한 뉴진스 ＜OMG＞]]></title>
+        <id>https://tv.naver.com/v/33505587</id>
+        <link href="https://tv.naver.com/v/33505587"/>
+        <updated>2023-02-28T01:05:02.440Z</updated>
+        <content type="html"><![CDATA[1:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 영타로 쓴 한글 빨리읽기?! 이거 다들 가능해..?]]></title>
+        <id>https://tv.naver.com/v/33505584</id>
+        <link href="https://tv.naver.com/v/33505584"/>
+        <updated>2023-02-28T01:05:02.443Z</updated>
+        <content type="html"><![CDATA[1:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 602회 LUCY편 예고]]></title>
         <id>https://tv.naver.com/v/33440075</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/33213093"/>
         <updated>2023-02-17T11:11:12.697Z</updated>
         <content type="html"><![CDATA[1:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 601회 TNX 편 예고]]></title>
-        <id>https://tv.naver.com/v/33225270</id>
-        <link href="https://tv.naver.com/v/33225270"/>
-        <updated>2023-02-17T10:15:05.619Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] STAYC - Teddy Bear (스테이씨 - 테디 베어) l EP.600]]></title>
-        <id>https://tv.naver.com/v/33119126</id>
-        <link href="https://tv.naver.com/v/33119126"/>
-        <updated>2023-02-15T12:25:55.609Z</updated>
-        <content type="html"><![CDATA[3:22]]></content>
     </entry>
 </feed>
