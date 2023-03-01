@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-03-01T10:15:07.765Z</updated>
+    <updated>2023-03-01T11:12:11.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] LUCY ‘아니 근데 진짜’♬]]></title>
+        <id>https://tv.naver.com/v/33560031</id>
+        <link href="https://tv.naver.com/v/33560031"/>
+        <updated>2023-03-01T11:12:05.297Z</updated>
+        <content type="html"><![CDATA[4:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 삑- 루시는 댄스 욕심 과다입니다! 루시가 커버한 뉴진스 ＜OMG＞]]></title>
         <id>https://tv.naver.com/v/33505587</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33213142"/>
         <updated>2023-02-17T11:11:12.697Z</updated>
         <content type="html"><![CDATA[3:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist+ l 세로캠] STAYC 시은 - ＜사건의 지평선＞ ♬ (원곡: 윤하) l EP.600]]></title>
-        <id>https://tv.naver.com/v/33213093</id>
-        <link href="https://tv.naver.com/v/33213093"/>
-        <updated>2023-02-17T11:11:12.697Z</updated>
-        <content type="html"><![CDATA[1:55]]></content>
     </entry>
 </feed>
