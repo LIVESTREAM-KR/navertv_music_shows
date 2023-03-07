@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-03-06T23:14:10.983Z</updated>
+    <updated>2023-03-07T01:10:58.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방선공개] 민희야 어디가?! 이른 아침부터 풀착장에 기타까지 들고 밖으로 나간 민희?]]></title>
+        <id>https://tv.naver.com/v/33709132</id>
+        <link href="https://tv.naver.com/v/33709132"/>
+        <updated>2023-03-07T01:10:51.490Z</updated>
+        <content type="html"><![CDATA[1:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] ＂러비티! 내 짝이 되어줘♡＂ 러비티의 옆자리를 차지하기 위한 클깅이들 장점 어필 시간!]]></title>
+        <id>https://tv.naver.com/v/33708982</id>
+        <link href="https://tv.naver.com/v/33708982"/>
+        <updated>2023-03-07T01:10:51.491Z</updated>
+        <content type="html"><![CDATA[1:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 603회 CRAVITY 편 예고]]></title>
         <id>https://tv.naver.com/v/33629148</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/33357525"/>
         <updated>2023-02-22T12:26:11.219Z</updated>
         <content type="html"><![CDATA[3:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] TNX TAEHUN - Love or Die (티엔엑스 최태훈 - 러브 오어 다이) l EP.601]]></title>
-        <id>https://tv.naver.com/v/33357399</id>
-        <link href="https://tv.naver.com/v/33357399"/>
-        <updated>2023-02-22T12:26:11.220Z</updated>
-        <content type="html"><![CDATA[3:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
-        <id>https://tv.naver.com/v/33371191</id>
-        <link href="https://tv.naver.com/v/33371191"/>
-        <updated>2023-02-22T12:26:11.222Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
     </entry>
 </feed>
