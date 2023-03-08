@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-08T10:15:10.547Z</updated>
+    <updated>2023-03-08T11:11:41.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] ✨청춘 에너지 긍정 희망 CRAVITY 컴백✨ 크래비티(CRAVITY)의 ‘Groovy’♬ l EP.603 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/33760536</id>
+        <link href="https://tv.naver.com/v/33760536"/>
+        <updated>2023-03-08T11:11:36.052Z</updated>
+        <content type="html"><![CDATA[3:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미방선공개] 민희야 어디가?! 이른 아침부터 풀착장에 기타까지 들고 밖으로 나간 민희? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/33709132</id>
@@ -205,13 +212,6 @@
         <id>https://tv.naver.com/v/33357646</id>
         <link href="https://tv.naver.com/v/33357646"/>
         <updated>2023-02-22T12:26:11.218Z</updated>
-        <content type="html"><![CDATA[3:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] TNX SUNGJUN - Love or Die (티엔엑스 오성준 - 러브 오어 다이) l EP.601 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/33357525</id>
-        <link href="https://tv.naver.com/v/33357525"/>
-        <updated>2023-02-22T12:26:11.219Z</updated>
         <content type="html"><![CDATA[3:10]]></content>
     </entry>
     <entry>
