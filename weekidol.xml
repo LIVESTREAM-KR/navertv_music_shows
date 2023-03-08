@@ -2,9 +2,170 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-03-08T11:11:41.216Z</updated>
+    <updated>2023-03-08T12:25:55.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] CRAVITY - Groovy (크래비티 - 그루비) l EP.603]]></title>
+        <id>https://tv.naver.com/v/33742061</id>
+        <link href="https://tv.naver.com/v/33742061"/>
+        <updated>2023-03-08T12:25:49.175Z</updated>
+        <content type="html"><![CDATA[3:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] CRAVITY - Groovy (크래비티 - 그루비) l EP.603]]></title>
+        <id>https://tv.naver.com/v/33742018</id>
+        <link href="https://tv.naver.com/v/33742018"/>
+        <updated>2023-03-08T12:25:49.182Z</updated>
+        <content type="html"><![CDATA[3:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist] 천국의 데자뷔 같은 크래비티표 세븐틴 ＜_WORLD＞ 이제부터 크래비티가 내 월드임 l EP.603]]></title>
+        <id>https://tv.naver.com/v/33767828</id>
+        <link href="https://tv.naver.com/v/33767828"/>
+        <updated>2023-03-08T12:25:49.184Z</updated>
+        <content type="html"><![CDATA[3:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY SEONGMIN - Groovy (크래비티 성민 - 그루비) l EP.603]]></title>
+        <id>https://tv.naver.com/v/33767827</id>
+        <link href="https://tv.naver.com/v/33767827"/>
+        <updated>2023-03-08T12:25:49.187Z</updated>
+        <content type="html"><![CDATA[3:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY TAEYOUNG - Groovy (크래비티 태영 - 그루비) l EP.603]]></title>
+        <id>https://tv.naver.com/v/33762935</id>
+        <link href="https://tv.naver.com/v/33762935"/>
+        <updated>2023-03-08T12:25:49.188Z</updated>
+        <content type="html"><![CDATA[3:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY HYEONGJUN - Groovy (크래비티 형준 - 그루비) l EP.603]]></title>
+        <id>https://tv.naver.com/v/33762688</id>
+        <link href="https://tv.naver.com/v/33762688"/>
+        <updated>2023-03-08T12:25:49.196Z</updated>
+        <content type="html"><![CDATA[3:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY WOOBIN - Groovy (크래비티 우빈 - 그루비) l EP.603]]></title>
+        <id>https://tv.naver.com/v/33762687</id>
+        <link href="https://tv.naver.com/v/33762687"/>
+        <updated>2023-03-08T12:25:49.196Z</updated>
+        <content type="html"><![CDATA[3:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY MINHEE - Groovy (크래비티 민희 - 그루비) l EP.603]]></title>
+        <id>https://tv.naver.com/v/33762333</id>
+        <link href="https://tv.naver.com/v/33762333"/>
+        <updated>2023-03-08T12:25:49.196Z</updated>
+        <content type="html"><![CDATA[3:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY JUNGMO - Groovy (크래비티 정모 - 그루비) l EP.603]]></title>
+        <id>https://tv.naver.com/v/33762083</id>
+        <link href="https://tv.naver.com/v/33762083"/>
+        <updated>2023-03-08T12:25:49.197Z</updated>
+        <content type="html"><![CDATA[3:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY ALLEN - Groovy (크래비티 앨런 - 그루비) l EP.603]]></title>
+        <id>https://tv.naver.com/v/33761929</id>
+        <link href="https://tv.naver.com/v/33761929"/>
+        <updated>2023-03-08T12:25:49.197Z</updated>
+        <content type="html"><![CDATA[3:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY SERIM - Groovy (크래비티 세림 - 그루비) l EP.603]]></title>
+        <id>https://tv.naver.com/v/33761756</id>
+        <link href="https://tv.naver.com/v/33761756"/>
+        <updated>2023-03-08T12:25:49.197Z</updated>
+        <content type="html"><![CDATA[3:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
+        <id>https://tv.naver.com/v/33778683</id>
+        <link href="https://tv.naver.com/v/33778683"/>
+        <updated>2023-03-08T12:25:49.198Z</updated>
+        <content type="html"><![CDATA[0:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크래비티 멤버들의 바라본 세림이의 첫인상!]]></title>
+        <id>https://tv.naver.com/v/33779125</id>
+        <link href="https://tv.naver.com/v/33779125"/>
+        <updated>2023-03-08T12:25:49.201Z</updated>
+        <content type="html"><![CDATA[3:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[학창시절에 다 주인공 서사였던 크래비티 남주들✨]]></title>
+        <id>https://tv.naver.com/v/33779123</id>
+        <link href="https://tv.naver.com/v/33779123"/>
+        <updated>2023-03-08T12:25:49.203Z</updated>
+        <content type="html"><![CDATA[2:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크래비티의 랜플 마지막 시도! 과연 성공할까?!]]></title>
+        <id>https://tv.naver.com/v/33779121</id>
+        <link href="https://tv.naver.com/v/33779121"/>
+        <updated>2023-03-08T12:25:49.208Z</updated>
+        <content type="html"><![CDATA[2:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스페셜 MC ＂원진＂과 함께하는 ＂크래비티＂ 2023 랜덤 플레이 댄스🕺]]></title>
+        <id>https://tv.naver.com/v/33779117</id>
+        <link href="https://tv.naver.com/v/33779117"/>
+        <updated>2023-03-08T12:25:49.208Z</updated>
+        <content type="html"><![CDATA[4:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[숫자에 약한 송스타?! 읽으면 부자가 되는 잔고 마법✨]]></title>
+        <id>https://tv.naver.com/v/33779080</id>
+        <link href="https://tv.naver.com/v/33779080"/>
+        <updated>2023-03-08T12:25:49.208Z</updated>
+        <content type="html"><![CDATA[3:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[랜플 걸작 가보자고🔥 크래비티 랜플댄 2차시도!]]></title>
+        <id>https://tv.naver.com/v/33778891</id>
+        <link href="https://tv.naver.com/v/33778891"/>
+        <updated>2023-03-08T12:25:49.210Z</updated>
+        <content type="html"><![CDATA[2:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구과장이 선택한 비서 멤버는?!👀]]></title>
+        <id>https://tv.naver.com/v/33778886</id>
+        <link href="https://tv.naver.com/v/33778886"/>
+        <updated>2023-03-08T12:25:49.212Z</updated>
+        <content type="html"><![CDATA[3:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[＂어쩜 이런 달란트를 받았을까?!＂ 성민이의 ＂더 글로리＂ 성대모사]]></title>
+        <id>https://tv.naver.com/v/33778884</id>
+        <link href="https://tv.naver.com/v/33778884"/>
+        <updated>2023-03-08T12:25:49.222Z</updated>
+        <content type="html"><![CDATA[3:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정모&태영 너네 이 바이브 뭐야..?! ( ͡° ͜ʖ ͡°)]]></title>
+        <id>https://tv.naver.com/v/33778007</id>
+        <link href="https://tv.naver.com/v/33778007"/>
+        <updated>2023-03-08T12:25:49.224Z</updated>
+        <content type="html"><![CDATA[2:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러비티들 질투 금지✋ 원진이의 유치원 시절 첫사랑 에피소드♥]]></title>
+        <id>https://tv.naver.com/v/33777791</id>
+        <link href="https://tv.naver.com/v/33777791"/>
+        <updated>2023-03-08T12:25:49.233Z</updated>
+        <content type="html"><![CDATA[1:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우빈's 고해성ㅅ..가 아닌 스탠딩 코미디 Show🎤]]></title>
+        <id>https://tv.naver.com/v/33775309</id>
+        <link href="https://tv.naver.com/v/33775309"/>
+        <updated>2023-03-08T12:25:49.235Z</updated>
+        <content type="html"><![CDATA[2:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간 신곡] ✨청춘 에너지 긍정 희망 CRAVITY 컴백✨ 크래비티(CRAVITY)의 ‘Groovy’♬ l EP.603]]></title>
         <id>https://tv.naver.com/v/33760536</id>
@@ -53,166 +214,5 @@
         <link href="https://tv.naver.com/v/33570376"/>
         <updated>2023-03-01T12:27:13.336Z</updated>
         <content type="html"><![CDATA[1:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맏막즈의 대결🔥 ＂예찬 VS 광일＂ 과연 최종 승리자는?!]]></title>
-        <id>https://tv.naver.com/v/33570221</id>
-        <link href="https://tv.naver.com/v/33570221"/>
-        <updated>2023-03-01T12:27:13.338Z</updated>
-        <content type="html"><![CDATA[3:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂상엽 VS 광일＂ 평균대 위에서 화려한 댄스 퍼포먼스★]]></title>
-        <id>https://tv.naver.com/v/33570016</id>
-        <link href="https://tv.naver.com/v/33570016"/>
-        <updated>2023-03-01T12:27:13.339Z</updated>
-        <content type="html"><![CDATA[2:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂LUCY＂ 한우가 걸려있는 킹손 받는 평균대 참참참!]]></title>
-        <id>https://tv.naver.com/v/33570015</id>
-        <link href="https://tv.naver.com/v/33570015"/>
-        <updated>2023-03-01T12:27:13.340Z</updated>
-        <content type="html"><![CDATA[2:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광일의 오또케송♥ (스페인.VER)]]></title>
-        <id>https://tv.naver.com/v/33569895</id>
-        <link href="https://tv.naver.com/v/33569895"/>
-        <updated>2023-03-01T12:27:13.341Z</updated>
-        <content type="html"><![CDATA[1:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광일 ＂난.. 심심할 땐 간판을 읽어..★＂]]></title>
-        <id>https://tv.naver.com/v/33569894</id>
-        <link href="https://tv.naver.com/v/33569894"/>
-        <updated>2023-03-01T12:27:13.349Z</updated>
-        <content type="html"><![CDATA[2:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂LUCY＂ 내 최고의 비주얼 멤버는?!]]></title>
-        <id>https://tv.naver.com/v/33569892</id>
-        <link href="https://tv.naver.com/v/33569892"/>
-        <updated>2023-03-01T12:27:13.350Z</updated>
-        <content type="html"><![CDATA[2:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂LUCY＂ 밸런스보드 대결🔥 (feat. 귤 까먹기)]]></title>
-        <id>https://tv.naver.com/v/33569891</id>
-        <link href="https://tv.naver.com/v/33569891"/>
-        <updated>2023-03-01T12:27:13.353Z</updated>
-        <content type="html"><![CDATA[1:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보드계의 신국진 탄생✨ 예찬의 밸런스보드 타임-!]]></title>
-        <id>https://tv.naver.com/v/33569791</id>
-        <link href="https://tv.naver.com/v/33569791"/>
-        <updated>2023-03-01T12:27:13.355Z</updated>
-        <content type="html"><![CDATA[1:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[입만 벌리면 거짓말이 자동으로 나오는 광일이?!]]></title>
-        <id>https://tv.naver.com/v/33569672</id>
-        <link href="https://tv.naver.com/v/33569672"/>
-        <updated>2023-03-01T12:27:13.357Z</updated>
-        <content type="html"><![CDATA[2:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂LUCY＂ 화장실에서 잠깐 만났는데 괜찮아요! 뭐가..?!( ͡° ͜ʖ ͡°)]]></title>
-        <id>https://tv.naver.com/v/33569186</id>
-        <link href="https://tv.naver.com/v/33569186"/>
-        <updated>2023-03-01T12:27:13.357Z</updated>
-        <content type="html"><![CDATA[1:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예찬의 후덜덜한 바이올린 가격을 듣고 급등한 호감지수♥]]></title>
-        <id>https://tv.naver.com/v/33569184</id>
-        <link href="https://tv.naver.com/v/33569184"/>
-        <updated>2023-03-01T12:27:13.358Z</updated>
-        <content type="html"><![CDATA[1:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간 신곡] LUCY ‘아니 근데 진짜’♬ l EP.602]]></title>
-        <id>https://tv.naver.com/v/33560031</id>
-        <link href="https://tv.naver.com/v/33560031"/>
-        <updated>2023-03-01T11:12:05.297Z</updated>
-        <content type="html"><![CDATA[4:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 삑- 루시는 댄스 욕심 과다입니다! 루시가 커버한 뉴진스 ＜OMG＞]]></title>
-        <id>https://tv.naver.com/v/33505587</id>
-        <link href="https://tv.naver.com/v/33505587"/>
-        <updated>2023-02-28T01:05:02.440Z</updated>
-        <content type="html"><![CDATA[1:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 영타로 쓴 한글 빨리읽기?! 이거 다들 가능해..?]]></title>
-        <id>https://tv.naver.com/v/33505584</id>
-        <link href="https://tv.naver.com/v/33505584"/>
-        <updated>2023-02-28T01:05:02.443Z</updated>
-        <content type="html"><![CDATA[1:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 602회 LUCY편 예고]]></title>
-        <id>https://tv.naver.com/v/33440075</id>
-        <link href="https://tv.naver.com/v/33440075"/>
-        <updated>2023-02-24T10:14:55.972Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] TNX - Pretty U (원곡 : 세븐틴) (티엔엑스 - 예쁘다) l EP.601]]></title>
-        <id>https://tv.naver.com/v/33390628</id>
-        <link href="https://tv.naver.com/v/33390628"/>
-        <updated>2023-02-23T11:11:56.154Z</updated>
-        <content type="html"><![CDATA[3:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] TNX - Pretty U (원곡 : 세븐틴) (티엔엑스 - 예쁘다) l EP.601]]></title>
-        <id>https://tv.naver.com/v/33390503</id>
-        <link href="https://tv.naver.com/v/33390503"/>
-        <updated>2023-02-23T11:11:56.159Z</updated>
-        <content type="html"><![CDATA[3:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] TNX - Love or Die (티엔엑스 - 러브 오어 다이) l EP.601]]></title>
-        <id>https://tv.naver.com/v/33369513</id>
-        <link href="https://tv.naver.com/v/33369513"/>
-        <updated>2023-02-22T12:26:11.206Z</updated>
-        <content type="html"><![CDATA[3:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] TNX - Love or Die (티엔엑스 - 러브 오어 다이) l EP.601]]></title>
-        <id>https://tv.naver.com/v/33369511</id>
-        <link href="https://tv.naver.com/v/33369511"/>
-        <updated>2023-02-22T12:26:11.209Z</updated>
-        <content type="html"><![CDATA[3:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist] 제목만 들어도 벌써 이쁜 TNX의 ＜예쁘다＞ 내가 설레지 왜..? l EP.601]]></title>
-        <id>https://tv.naver.com/v/33361700</id>
-        <link href="https://tv.naver.com/v/33361700"/>
-        <updated>2023-02-22T12:26:11.212Z</updated>
-        <content type="html"><![CDATA[3:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] TNX KYUNGJUN - Love or Die (티엔엑스 우경준 - 러브 오어 다이) l EP.601]]></title>
-        <id>https://tv.naver.com/v/33358569</id>
-        <link href="https://tv.naver.com/v/33358569"/>
-        <updated>2023-02-22T12:26:11.215Z</updated>
-        <content type="html"><![CDATA[3:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] TNX HYUNSOO - Love or Die (티엔엑스 장현수 - 러브 오어 다이) l EP.601]]></title>
-        <id>https://tv.naver.com/v/33357768</id>
-        <link href="https://tv.naver.com/v/33357768"/>
-        <updated>2023-02-22T12:26:11.217Z</updated>
-        <content type="html"><![CDATA[3:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] TNX HWI - Love or Die (티엔엑스 은휘 - 러브 오어 다이) l EP.601]]></title>
-        <id>https://tv.naver.com/v/33357646</id>
-        <link href="https://tv.naver.com/v/33357646"/>
-        <updated>2023-02-22T12:26:11.218Z</updated>
-        <content type="html"><![CDATA[3:10]]></content>
     </entry>
 </feed>
