@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-03-10T09:15:01.414Z</updated>
+    <updated>2023-03-10T10:14:59.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 604회 체리블렛 편 예고]]></title>
+        <id>https://tv.naver.com/v/33855251</id>
+        <link href="https://tv.naver.com/v/33855251"/>
+        <updated>2023-03-10T10:14:54.043Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] CRAVITY - Groovy (크래비티 - 그루비) l EP.603]]></title>
         <id>https://tv.naver.com/v/33742061</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33569993"/>
         <updated>2023-03-01T12:27:13.335Z</updated>
         <content type="html"><![CDATA[0:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂OMG＂ 커버하면 ＂LUCY＂도 아이돌이다-!]]></title>
-        <id>https://tv.naver.com/v/33570376</id>
-        <link href="https://tv.naver.com/v/33570376"/>
-        <updated>2023-03-01T12:27:13.336Z</updated>
-        <content type="html"><![CDATA[1:50]]></content>
     </entry>
 </feed>
