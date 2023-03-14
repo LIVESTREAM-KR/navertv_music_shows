@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-03-13T23:13:57.790Z</updated>
+    <updated>2023-03-14T00:55:27.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 지원씨 어디 가세요? 저는 주간아의 랜덤 플레이 댄스요]]></title>
+        <id>https://tv.naver.com/v/33925807</id>
+        <link href="https://tv.naver.com/v/33925807"/>
+        <updated>2023-03-14T00:55:21.551Z</updated>
+        <content type="html"><![CDATA[1:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 라라라라! 유주 좋아~한다고~ 유주가 평소 눈여겨본 CF 제품 청량 이온 음료 CF 레디~ 액션~!]]></title>
+        <id>https://tv.naver.com/v/33925517</id>
+        <link href="https://tv.naver.com/v/33925517"/>
+        <updated>2023-03-14T00:55:21.552Z</updated>
+        <content type="html"><![CDATA[1:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 604회 체리블렛 편 예고]]></title>
         <id>https://tv.naver.com/v/33855251</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/33629148"/>
         <updated>2023-03-03T10:14:26.678Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist] 삐걱대는 LUCY는 잊어주세요! 이번에는 제대로 보여드릴게요! 뉴진스 ＜OMG＞ l EP.602]]></title>
-        <id>https://tv.naver.com/v/33560133</id>
-        <link href="https://tv.naver.com/v/33560133"/>
-        <updated>2023-03-01T12:27:13.334Z</updated>
-        <content type="html"><![CDATA[3:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
-        <id>https://tv.naver.com/v/33569993</id>
-        <link href="https://tv.naver.com/v/33569993"/>
-        <updated>2023-03-01T12:27:13.335Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
     </entry>
 </feed>
