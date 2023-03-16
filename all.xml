@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-16T11:11:52.531Z</updated>
+    <updated>2023-03-16T12:25:03.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] Cherry Bullet - P.O.W! (Play On the World) (체리블렛 - 파우) l EP.604 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/33993761</id>
+        <link href="https://tv.naver.com/v/33993761"/>
+        <updated>2023-03-16T12:24:56.324Z</updated>
+        <content type="html"><![CDATA[3:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] Cherry Bullet -  P.O.W! (Play On the World) (체리블렛 - 파우) l EP.604 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/33993442</id>
+        <link href="https://tv.naver.com/v/33993442"/>
+        <updated>2023-03-16T12:24:56.332Z</updated>
+        <content type="html"><![CDATA[3:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] Cherry Bullet - Talk that Talk (원곡 : TWICE) (체리블렛 - 톡댓톡) l EP.604 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/33990536</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/33742018"/>
         <updated>2023-03-08T12:25:49.182Z</updated>
         <content type="html"><![CDATA[3:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist] 천국의 데자뷔 같은 크래비티표 세븐틴 ＜_WORLD＞ 이제부터 크래비티가 내 월드임 l EP.603 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/33767828</id>
-        <link href="https://tv.naver.com/v/33767828"/>
-        <updated>2023-03-08T12:25:49.184Z</updated>
-        <content type="html"><![CDATA[3:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY SEONGMIN - Groovy (크래비티 성민 - 그루비) l EP.603 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/33767827</id>
-        <link href="https://tv.naver.com/v/33767827"/>
-        <updated>2023-03-08T12:25:49.187Z</updated>
-        <content type="html"><![CDATA[3:27]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
