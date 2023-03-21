@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-03-20T23:12:24.934Z</updated>
+    <updated>2023-03-21T00:59:35.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 짱믹스의 소원성취 시간! 근데 소원이 신곡 배속 댄스라고요...??]]></title>
+        <id>https://tv.naver.com/v/34148350</id>
+        <link href="https://tv.naver.com/v/34148350"/>
+        <updated>2023-03-21T00:59:30.024Z</updated>
+        <content type="html"><![CDATA[2:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 규진공주의 특별 강의! ＜MZ셀카 찍는 방법＞ 공주들아~ 수업 시작한다 얼른와!]]></title>
+        <id>https://tv.naver.com/v/34148089</id>
+        <link href="https://tv.naver.com/v/34148089"/>
+        <updated>2023-03-21T00:59:30.026Z</updated>
+        <content type="html"><![CDATA[1:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 605회 NMIXX 편 예고]]></title>
         <id>https://tv.naver.com/v/34076029</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/33925517"/>
         <updated>2023-03-14T02:02:13.621Z</updated>
         <content type="html"><![CDATA[1:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 604회 체리블렛 편 예고]]></title>
-        <id>https://tv.naver.com/v/33855251</id>
-        <link href="https://tv.naver.com/v/33855251"/>
-        <updated>2023-03-10T10:14:54.043Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] CRAVITY - Groovy (크래비티 - 그루비) l EP.603]]></title>
-        <id>https://tv.naver.com/v/33742061</id>
-        <link href="https://tv.naver.com/v/33742061"/>
-        <updated>2023-03-08T12:25:49.175Z</updated>
-        <content type="html"><![CDATA[3:32]]></content>
     </entry>
 </feed>
