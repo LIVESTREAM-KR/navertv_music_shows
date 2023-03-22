@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-22T10:13:47.702Z</updated>
+    <updated>2023-03-22T11:10:50.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] ✨모든 감각이 깨어난 NMIXX 컴백✨ NMIXX(엔믹스)의 ‘Love Me Like This’♬ l EP.605 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/34210171</id>
+        <link href="https://tv.naver.com/v/34210171"/>
+        <updated>2023-03-22T11:10:45.211Z</updated>
+        <content type="html"><![CDATA[3:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 짱믹스의 소원성취 시간! 근데 소원이 신곡 배속 댄스라고요...?? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/34148350</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/33925807"/>
         <updated>2023-03-14T02:02:13.620Z</updated>
         <content type="html"><![CDATA[1:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 라라라라! 유주 좋아~한다고~ 유주가 평소 눈여겨본 CF 제품 청량 이온 음료 CF 레디~ 액션~! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/33925517</id>
-        <link href="https://tv.naver.com/v/33925517"/>
-        <updated>2023-03-14T02:02:13.621Z</updated>
-        <content type="html"><![CDATA[1:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
