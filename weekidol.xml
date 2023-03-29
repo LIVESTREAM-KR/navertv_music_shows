@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-03-29T10:14:01.022Z</updated>
+    <updated>2023-03-29T11:11:03.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] ✨청량미 장착! 봄과 함께 돌아온 Billlie✨ Billlie(빌리)의 ‘EUNOIA’♬ l EP.606]]></title>
+        <id>https://tv.naver.com/v/34431413</id>
+        <link href="https://tv.naver.com/v/34431413"/>
+        <updated>2023-03-29T11:10:57.881Z</updated>
+        <content type="html"><![CDATA[3:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 다들 들어는 봤나..? 하루나 쟁탈전.. 쉽지 않은 루나의 삶.. 그 끝은?]]></title>
         <id>https://tv.naver.com/v/34372339</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34148350"/>
         <updated>2023-03-21T00:59:30.024Z</updated>
         <content type="html"><![CDATA[2:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 규진공주의 특별 강의! ＜MZ셀카 찍는 방법＞ 공주들아~ 수업 시작한다 얼른와!]]></title>
-        <id>https://tv.naver.com/v/34148089</id>
-        <link href="https://tv.naver.com/v/34148089"/>
-        <updated>2023-03-21T00:59:30.026Z</updated>
-        <content type="html"><![CDATA[1:12]]></content>
     </entry>
 </feed>
