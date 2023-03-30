@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-03-30T11:11:05.033Z</updated>
+    <updated>2023-03-30T12:24:21.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] Billlie - Ay-Yo (원곡 : NCT 127) (빌리 - 에이요) l EP.606]]></title>
+        <id>https://tv.naver.com/v/34411834</id>
+        <link href="https://tv.naver.com/v/34411834"/>
+        <updated>2023-03-30T12:24:15.451Z</updated>
+        <content type="html"><![CDATA[3:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] Billlie - Ay-Yo (원곡 : NCT 127) (빌리 - 에이요) l EP.606]]></title>
+        <id>https://tv.naver.com/v/34411617</id>
+        <link href="https://tv.naver.com/v/34411617"/>
+        <updated>2023-03-30T12:24:15.460Z</updated>
+        <content type="html"><![CDATA[3:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 짐벌캠 l 4K] Billlie - EUNOIA (빌리 - 유노이아) l EP.606]]></title>
         <id>https://tv.naver.com/v/34435154</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/34248418"/>
         <updated>2023-03-23T12:24:40.394Z</updated>
         <content type="html"><![CDATA[3:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] NMIXX - Love Me Like This (엔믹스 - 러브 미 라이크 디스) l EP.605]]></title>
-        <id>https://tv.naver.com/v/34222786</id>
-        <link href="https://tv.naver.com/v/34222786"/>
-        <updated>2023-03-22T12:23:18.497Z</updated>
-        <content type="html"><![CDATA[3:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] NMIXX - Love Me Like This (엔믹스 - 러브 미 라이크 디스) l EP.605]]></title>
-        <id>https://tv.naver.com/v/34222146</id>
-        <link href="https://tv.naver.com/v/34222146"/>
-        <updated>2023-03-22T12:23:18.498Z</updated>
-        <content type="html"><![CDATA[3:17]]></content>
     </entry>
 </feed>
