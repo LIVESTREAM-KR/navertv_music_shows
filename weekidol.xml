@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-03-31T09:13:37.006Z</updated>
+    <updated>2023-03-31T10:13:32.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 607회 첫사랑&xikers 편 예고]]></title>
+        <id>https://tv.naver.com/v/34514170</id>
+        <link href="https://tv.naver.com/v/34514170"/>
+        <updated>2023-03-31T10:13:27.372Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] Billlie - Ay-Yo (원곡 : NCT 127) (빌리 - 에이요) l EP.606]]></title>
         <id>https://tv.naver.com/v/34411834</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/34248580</id>
         <link href="https://tv.naver.com/v/34248580"/>
         <updated>2023-03-23T12:24:40.387Z</updated>
-        <content type="html"><![CDATA[3:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] NMIXX - CASE 143 (원곡 : Stray Kids) (엔믹스 - 케이스 143) l EP.605]]></title>
-        <id>https://tv.naver.com/v/34248418</id>
-        <link href="https://tv.naver.com/v/34248418"/>
-        <updated>2023-03-23T12:24:40.394Z</updated>
         <content type="html"><![CDATA[3:20]]></content>
     </entry>
 </feed>
