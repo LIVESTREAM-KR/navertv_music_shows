@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-05T10:14:46.376Z</updated>
+    <updated>2023-04-05T11:11:23.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] ✨4세대 대표 청량돌 첫사랑 컴백✨ CSR(첫사랑)의 ‘빛을 따라서(Shining Bright)’♬ l EP.607 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/34640366</id>
+        <link href="https://tv.naver.com/v/34640366"/>
+        <updated>2023-04-05T11:11:17.768Z</updated>
+        <content type="html"><![CDATA[3:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] 😈문을 열면 시작돼 우리만의 TRICKY HOUSE😈 xikers(싸이커스)의 ‘도깨비집(TRICKY HOUSE)’♬ l EP.607 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/34638488</id>
+        <link href="https://tv.naver.com/v/34638488"/>
+        <updated>2023-04-05T11:11:17.770Z</updated>
+        <content type="html"><![CDATA[3:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 에엥...? 이렇게 보는데 맞춘다고? 돌아온 주간아 상하체 분리 댄스! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/34581187</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/34431413"/>
         <updated>2023-03-29T11:10:57.881Z</updated>
         <content type="html"><![CDATA[3:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 다들 들어는 봤나..? 하루나 쟁탈전.. 쉽지 않은 루나의 삶.. 그 끝은? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/34372339</id>
-        <link href="https://tv.naver.com/v/34372339"/>
-        <updated>2023-03-28T01:02:25.754Z</updated>
-        <content type="html"><![CDATA[1:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 쉴 새 없이 얼굴 비추는 달츠~! 쇼챔부터 주간아까지 바쁘다 바빠 현대사회 인간화 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/34372335</id>
-        <link href="https://tv.naver.com/v/34372335"/>
-        <updated>2023-03-28T01:02:25.755Z</updated>
-        <content type="html"><![CDATA[1:38]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
