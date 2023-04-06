@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-04-06T10:13:24.664Z</updated>
+    <updated>2023-04-06T11:10:21.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] CSR - Shining Bright (첫사랑 - 빛을 따라서) l EP.607]]></title>
+        <id>https://tv.naver.com/v/34644465</id>
+        <link href="https://tv.naver.com/v/34644465"/>
+        <updated>2023-04-06T11:10:16.202Z</updated>
+        <content type="html"><![CDATA[3:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] xikers -  TRICKY HOUSE (싸이커스 - 도깨비집) l EP.607]]></title>
+        <id>https://tv.naver.com/v/34644270</id>
+        <link href="https://tv.naver.com/v/34644270"/>
+        <updated>2023-04-06T11:10:16.203Z</updated>
+        <content type="html"><![CDATA[3:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] xikers - TRICKY HOUSE (싸이커스 - 도깨비집) l EP.607]]></title>
+        <id>https://tv.naver.com/v/34644098</id>
+        <link href="https://tv.naver.com/v/34644098"/>
+        <updated>2023-04-06T11:10:16.204Z</updated>
+        <content type="html"><![CDATA[3:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] CSR -  Shining Bright (첫사랑 - 빛을 따라서) l EP.607]]></title>
+        <id>https://tv.naver.com/v/34643772</id>
+        <link href="https://tv.naver.com/v/34643772"/>
+        <updated>2023-04-06T11:10:16.207Z</updated>
+        <content type="html"><![CDATA[3:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 직캠 4K] CSR YUNA - Shining Bright (첫사랑 유나 - 빛을 따라서) l EP.607]]></title>
         <id>https://tv.naver.com/v/34640365</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/34646976"/>
         <updated>2023-04-05T12:28:10.801Z</updated>
         <content type="html"><![CDATA[1:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂당팡망통찡빵＂ 받침은 1도 신경 안 쓰는 서연이..★]]></title>
-        <id>https://tv.naver.com/v/34646975</id>
-        <link href="https://tv.naver.com/v/34646975"/>
-        <updated>2023-04-05T12:28:10.804Z</updated>
-        <content type="html"><![CDATA[3:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엉망진창 어쩜 좋아.. 쉽지 않은 ＂xikers＂ 절대음감 게임-♪]]></title>
-        <id>https://tv.naver.com/v/34646716</id>
-        <link href="https://tv.naver.com/v/34646716"/>
-        <updated>2023-04-05T12:28:10.806Z</updated>
-        <content type="html"><![CDATA[2:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂첫사랑 & xikers＂ 댄스의 왕좌는 누구?! 💃랜덤 플레이 댄스🕺]]></title>
-        <id>https://tv.naver.com/v/34646502</id>
-        <link href="https://tv.naver.com/v/34646502"/>
-        <updated>2023-04-05T12:28:10.807Z</updated>
-        <content type="html"><![CDATA[4:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂하나를 물어봐도 장황한 대답!＂ xikers 마을 김민재 이장님★]]></title>
-        <id>https://tv.naver.com/v/34646501</id>
-        <link href="https://tv.naver.com/v/34646501"/>
-        <updated>2023-04-05T12:28:10.808Z</updated>
-        <content type="html"><![CDATA[2:17]]></content>
     </entry>
 </feed>
