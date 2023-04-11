@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-04-10T23:12:37.056Z</updated>
+    <updated>2023-04-11T00:58:10.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 에너제틱 춤짱 다연이가 추는 역주행 픽 권은비의 ＜Underwater＞]]></title>
+        <id>https://tv.naver.com/v/34802469</id>
+        <link href="https://tv.naver.com/v/34802469"/>
+        <updated>2023-04-11T00:58:03.992Z</updated>
+        <content type="html"><![CDATA[1:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 휴닝카이오빠와 동업 계획중인 히에?! 어서오세요 휴닝家 카페 입니다 ~!]]></title>
+        <id>https://tv.naver.com/v/34802467</id>
+        <link href="https://tv.naver.com/v/34802467"/>
+        <updated>2023-04-11T00:58:03.993Z</updated>
+        <content type="html"><![CDATA[1:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 608회 Kep1er 편 예고]]></title>
         <id>https://tv.naver.com/v/34732130</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/34647203"/>
         <updated>2023-04-05T12:28:10.792Z</updated>
         <content type="html"><![CDATA[3:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광기 그 잡채! 정훈의 눈 부룹 공격에 피식~]]></title>
-        <id>https://tv.naver.com/v/34647202</id>
-        <link href="https://tv.naver.com/v/34647202"/>
-        <updated>2023-04-05T12:28:10.793Z</updated>
-        <content type="html"><![CDATA[3:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수민이 발목엔 뼈가 없나요?!! ＂중요한 건 꺾이는 발목-!＂]]></title>
-        <id>https://tv.naver.com/v/34646980</id>
-        <link href="https://tv.naver.com/v/34646980"/>
-        <updated>2023-04-05T12:28:10.794Z</updated>
-        <content type="html"><![CDATA[2:22]]></content>
     </entry>
 </feed>
