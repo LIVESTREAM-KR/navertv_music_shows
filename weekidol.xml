@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-04-12T10:13:05.193Z</updated>
+    <updated>2023-04-12T11:10:18.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] Kep1er - Giddy (케플러 - 기디) l EP.608]]></title>
+        <id>https://tv.naver.com/v/34878746</id>
+        <link href="https://tv.naver.com/v/34878746"/>
+        <updated>2023-04-12T11:10:12.729Z</updated>
+        <content type="html"><![CDATA[3:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] Kep1er -   Giddy (케플러 - 기디) l EP.608]]></title>
+        <id>https://tv.naver.com/v/34878077</id>
+        <link href="https://tv.naver.com/v/34878077"/>
+        <updated>2023-04-12T11:10:12.732Z</updated>
+        <content type="html"><![CDATA[3:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] 😻사랑스러운 고양이의 의인화 케냥이들 컴백😻 Kep1er(케플러)의 ‘Giddy(기디)’♬ l EP.608]]></title>
+        <id>https://tv.naver.com/v/34868109</id>
+        <link href="https://tv.naver.com/v/34868109"/>
+        <updated>2023-04-12T11:10:12.741Z</updated>
+        <content type="html"><![CDATA[3:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 에너제틱 춤짱 다연이가 추는 역주행 픽 권은비의 ＜Underwater＞]]></title>
         <id>https://tv.naver.com/v/34802469</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/34647442"/>
         <updated>2023-04-05T12:28:10.789Z</updated>
         <content type="html"><![CDATA[2:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군무 척척-! 유현숨 등장이요~ ＜파이팅 해야지＞]]></title>
-        <id>https://tv.naver.com/v/34647206</id>
-        <link href="https://tv.naver.com/v/34647206"/>
-        <updated>2023-04-05T12:28:10.791Z</updated>
-        <content type="html"><![CDATA[1:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂첫사랑 & xikers＂의 무대력 뽐낼 수 있는 ＜상하체 분리 댄스 퀴즈＞]]></title>
-        <id>https://tv.naver.com/v/34647205</id>
-        <link href="https://tv.naver.com/v/34647205"/>
-        <updated>2023-04-05T12:28:10.791Z</updated>
-        <content type="html"><![CDATA[3:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커플 림보 대결🔥 ＜수민&진식＞ VS ＜시현&유나＞]]></title>
-        <id>https://tv.naver.com/v/34647203</id>
-        <link href="https://tv.naver.com/v/34647203"/>
-        <updated>2023-04-05T12:28:10.792Z</updated>
-        <content type="html"><![CDATA[3:37]]></content>
     </entry>
 </feed>
