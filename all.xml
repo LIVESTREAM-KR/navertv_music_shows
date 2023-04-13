@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-13T09:12:33.066Z</updated>
+    <updated>2023-04-13T10:12:50.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] kep1er - Girl Group Medley (케플러 - 걸 그룹 메들리) l EP.608 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/34906520</id>
+        <link href="https://tv.naver.com/v/34906520"/>
+        <updated>2023-04-13T10:12:44.677Z</updated>
+        <content type="html"><![CDATA[2:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] kep1er - Girl Group Medley (케플러 - 걸 그룹 메들리) l EP.608 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/34906305</id>
+        <link href="https://tv.naver.com/v/34906305"/>
+        <updated>2023-04-13T10:12:44.678Z</updated>
+        <content type="html"><![CDATA[2:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist] 주간아 밀리언즈 본상 수상의 위엄을 보여주기 위해 돌아온 케플러! 소녀시대＜Gee＞ + 원더걸스＜Nobody＞ + 카라＜미스터＞ l EP.608 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/34869685</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/34644465"/>
         <updated>2023-04-06T11:10:16.202Z</updated>
         <content type="html"><![CDATA[3:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] xikers -  TRICKY HOUSE (싸이커스 - 도깨비집) l EP.607 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/34644270</id>
-        <link href="https://tv.naver.com/v/34644270"/>
-        <updated>2023-04-06T11:10:16.203Z</updated>
-        <content type="html"><![CDATA[3:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] xikers - TRICKY HOUSE (싸이커스 - 도깨비집) l EP.607 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/34644098</id>
-        <link href="https://tv.naver.com/v/34644098"/>
-        <updated>2023-04-06T11:10:16.204Z</updated>
-        <content type="html"><![CDATA[3:14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
