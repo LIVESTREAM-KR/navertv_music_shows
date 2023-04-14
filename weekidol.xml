@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-04-14T09:12:05.465Z</updated>
+    <updated>2023-04-14T10:12:41.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그래서 주간아이돌 새 MC가 누구라고..?]]></title>
+        <id>https://tv.naver.com/v/34959345</id>
+        <link href="https://tv.naver.com/v/34959345"/>
+        <updated>2023-04-14T10:12:36.092Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 609회 NEW MC 신고식 편 예고]]></title>
+        <id>https://tv.naver.com/v/34959341</id>
+        <link href="https://tv.naver.com/v/34959341"/>
+        <updated>2023-04-14T10:12:36.092Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] kep1er - Girl Group Medley (케플러 - 걸 그룹 메들리) l EP.608]]></title>
         <id>https://tv.naver.com/v/34906520</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/34802467"/>
         <updated>2023-04-11T00:58:03.993Z</updated>
         <content type="html"><![CDATA[1:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 608회 Kep1er 편 예고]]></title>
-        <id>https://tv.naver.com/v/34732130</id>
-        <link href="https://tv.naver.com/v/34732130"/>
-        <updated>2023-04-10T00:57:30.431Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] CSR - Shining Bright (첫사랑 - 빛을 따라서) l EP.607]]></title>
-        <id>https://tv.naver.com/v/34644465</id>
-        <link href="https://tv.naver.com/v/34644465"/>
-        <updated>2023-04-06T11:10:16.202Z</updated>
-        <content type="html"><![CDATA[3:38]]></content>
     </entry>
 </feed>
