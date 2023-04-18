@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-17T23:12:21.772Z</updated>
+    <updated>2023-04-18T00:57:09.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 드디어!! 주간아 유느님 출연?! 주간아 NEW MC들의 공약 배틀! 이거이거 피바람이 불겠어... (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/35028495</id>
+        <link href="https://tv.naver.com/v/35028495"/>
+        <updated>2023-04-18T00:57:04.827Z</updated>
+        <content type="html"><![CDATA[1:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그래서 주간아이돌 새 MC가 누구라고..? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/34959345</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/34802469"/>
         <updated>2023-04-11T00:58:03.992Z</updated>
         <content type="html"><![CDATA[1:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 휴닝카이오빠와 동업 계획중인 히에?! 어서오세요 휴닝家 카페 입니다 ~! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/34802467</id>
-        <link href="https://tv.naver.com/v/34802467"/>
-        <updated>2023-04-11T00:58:03.993Z</updated>
-        <content type="html"><![CDATA[1:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
