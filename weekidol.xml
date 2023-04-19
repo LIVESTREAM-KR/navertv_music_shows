@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-04-19T10:13:28.849Z</updated>
+    <updated>2023-04-19T11:11:23.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Special Stage] NEW MC 은광&미주 ＜어머님이 누구니＞♬ l EP.609]]></title>
+        <id>https://tv.naver.com/v/35097049</id>
+        <link href="https://tv.naver.com/v/35097049"/>
+        <updated>2023-04-19T11:11:16.482Z</updated>
+        <content type="html"><![CDATA[2:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 드디어!! 주간아 유느님 출연?! 주간아 NEW MC들의 공약 배틀! 이거이거 피바람이 불겠어...]]></title>
         <id>https://tv.naver.com/v/35028495</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34868109"/>
         <updated>2023-04-12T11:10:12.741Z</updated>
         <content type="html"><![CDATA[3:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 에너제틱 춤짱 다연이가 추는 역주행 픽 권은비의 ＜Underwater＞]]></title>
-        <id>https://tv.naver.com/v/34802469</id>
-        <link href="https://tv.naver.com/v/34802469"/>
-        <updated>2023-04-11T00:58:03.992Z</updated>
-        <content type="html"><![CDATA[1:04]]></content>
     </entry>
 </feed>
