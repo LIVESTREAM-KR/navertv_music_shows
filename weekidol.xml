@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-04-24T23:12:26.815Z</updated>
+    <updated>2023-04-25T01:01:50.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 엑디즈 힘짱 주연! 한 힘 자랑하는 MC은광에게 팔씨름 도전장을 내밀다!]]></title>
+        <id>https://tv.naver.com/v/35264525</id>
+        <link href="https://tv.naver.com/v/35264525"/>
+        <updated>2023-04-25T01:01:43.681Z</updated>
+        <content type="html"><![CDATA[1:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 주간아 최초 공개! 빌런즈도 본 적 없는 정수의 특기...어머! 이건 소장각이야...☆]]></title>
+        <id>https://tv.naver.com/v/35264524</id>
+        <link href="https://tv.naver.com/v/35264524"/>
+        <updated>2023-04-25T01:01:43.682Z</updated>
+        <content type="html"><![CDATA[1:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MZ 왜이제와.. 보고싶어 죽는줄..엠지세대를 저격할 뉴 주간아이돌!]]></title>
         <id>https://tv.naver.com/v/35195441</id>
@@ -199,20 +213,6 @@
         <id>https://tv.naver.com/v/34867323</id>
         <link href="https://tv.naver.com/v/34867323"/>
         <updated>2023-04-12T12:22:30.363Z</updated>
-        <content type="html"><![CDATA[3:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] Kep1er XIAOTING - Giddy (케플러 샤오팅 - 기디) l EP.608]]></title>
-        <id>https://tv.naver.com/v/34867176</id>
-        <link href="https://tv.naver.com/v/34867176"/>
-        <updated>2023-04-12T12:22:30.363Z</updated>
-        <content type="html"><![CDATA[3:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] Kep1er MASHIRO - Giddy (케플러 마시로 - 기디) l EP.608]]></title>
-        <id>https://tv.naver.com/v/34867028</id>
-        <link href="https://tv.naver.com/v/34867028"/>
-        <updated>2023-04-12T12:22:30.371Z</updated>
         <content type="html"><![CDATA[3:09]]></content>
     </entry>
 </feed>
