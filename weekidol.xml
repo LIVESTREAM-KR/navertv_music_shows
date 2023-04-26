@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-04-26T10:13:17.067Z</updated>
+    <updated>2023-04-26T11:10:36.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] 😈내 안에 숨어 사는 괴짜 같은 Devil😈 Xdinary Heroes(엑스디너리 히어로즈)의 ＂Freakin' Bad＂♬ l EP.610]]></title>
+        <id>https://tv.naver.com/v/35330523</id>
+        <link href="https://tv.naver.com/v/35330523"/>
+        <updated>2023-04-26T11:10:30.766Z</updated>
+        <content type="html"><![CDATA[3:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 엑디즈 힘짱 주연! 한 힘 자랑하는 MC은광에게 팔씨름 도전장을 내밀다!]]></title>
         <id>https://tv.naver.com/v/35264525</id>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[[주간아 직캠 4K] Kep1er YUJIN - Giddy (케플러 최유진 - 기디) l EP.608]]></title>
         <id>https://tv.naver.com/v/34867469</id>
         <link href="https://tv.naver.com/v/34867469"/>
-        <updated>2023-04-12T12:22:30.363Z</updated>
-        <content type="html"><![CDATA[3:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] Kep1er YOUNGEUN - Giddy (케플러 서영은 - 기디) l EP.608]]></title>
-        <id>https://tv.naver.com/v/34867323</id>
-        <link href="https://tv.naver.com/v/34867323"/>
         <updated>2023-04-12T12:22:30.363Z</updated>
         <content type="html"><![CDATA[3:09]]></content>
     </entry>
