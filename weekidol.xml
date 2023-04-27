@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-04-27T08:15:08.762Z</updated>
+    <updated>2023-04-27T09:11:59.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠] Xdinary Heroes - Dynamite (원곡 : BTS) (엑스디너리 히어로즈 - 다이너마이트) l EP.610]]></title>
+        <id>https://tv.naver.com/v/35342422</id>
+        <link href="https://tv.naver.com/v/35342422"/>
+        <updated>2023-04-27T09:11:53.058Z</updated>
+        <content type="html"><![CDATA[3:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 4K캠] Xdinary Heroes -  Freakin’ Bad (엑스디너리 히어로즈 - 프리킹 배드) l EP.610]]></title>
         <id>https://tv.naver.com/v/35304790</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35120181"/>
         <updated>2023-04-19T12:22:31.402Z</updated>
         <content type="html"><![CDATA[2:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[숨참고 LOVE DIVE💖 싕이와 광이의 댄스교실💃]]></title>
-        <id>https://tv.naver.com/v/35120017</id>
-        <link href="https://tv.naver.com/v/35120017"/>
-        <updated>2023-04-19T12:22:31.402Z</updated>
-        <content type="html"><![CDATA[1:13]]></content>
     </entry>
 </feed>
