@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-04-28T09:12:08.971Z</updated>
+    <updated>2023-04-28T10:12:41.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 611회 iKON 편 예고]]></title>
+        <id>https://tv.naver.com/v/35419216</id>
+        <link href="https://tv.naver.com/v/35419216"/>
+        <updated>2023-04-28T10:12:36.140Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 4K캠] Xdinary Heroes - Dynamite (원곡 : BTS) (엑스디너리 히어로즈 - 다이너마이트) l EP.610]]></title>
         <id>https://tv.naver.com/v/35342422</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35120183"/>
         <updated>2023-04-19T12:22:31.402Z</updated>
         <content type="html"><![CDATA[1:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초면인 두MC를 위해 열린 감당불가?! 아찔한 상견례🌹]]></title>
-        <id>https://tv.naver.com/v/35120181</id>
-        <link href="https://tv.naver.com/v/35120181"/>
-        <updated>2023-04-19T12:22:31.402Z</updated>
-        <content type="html"><![CDATA[2:19]]></content>
     </entry>
 </feed>
