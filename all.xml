@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-01T23:13:52.445Z</updated>
+    <updated>2023-05-02T00:59:26.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 한 번도 안 불러본 사람은 있어도 한 번만 부른 사람은 없는 레전드 명곡♬ iKON ＜사랑을 했다＞ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/35493757</id>
+        <link href="https://tv.naver.com/v/35493757"/>
+        <updated>2023-05-02T00:59:21.007Z</updated>
+        <content type="html"><![CDATA[1:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 엄청난 동안의 소유자 진환 때문에 생긴 에피소드?! (Feat. 울컥한 준회) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/35493611</id>
+        <link href="https://tv.naver.com/v/35493611"/>
+        <updated>2023-05-02T00:59:21.014Z</updated>
+        <content type="html"><![CDATA[1:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 611회 iKON 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/35419216</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/35120187"/>
         <updated>2023-04-19T12:22:31.399Z</updated>
         <content type="html"><![CDATA[1:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미주 옆에 앉으면 귀가 잘 안들려요{{{(＞_＜)}}} 안테나 멤버들이 말하는 미주! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/35120184</id>
-        <link href="https://tv.naver.com/v/35120184"/>
-        <updated>2023-04-19T12:22:31.401Z</updated>
-        <content type="html"><![CDATA[1:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 은광이는요... 방귀를 많이 껴요...★ 비투비 멤버들이 말하는 은광이는? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/35120183</id>
-        <link href="https://tv.naver.com/v/35120183"/>
-        <updated>2023-04-19T12:22:31.402Z</updated>
-        <content type="html"><![CDATA[1:20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
