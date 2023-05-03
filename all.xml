@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-03T10:12:25.015Z</updated>
+    <updated>2023-05-03T11:10:39.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] 🎧우린 노느라 좀 바빠라 찰칵 빵야!🎧 iKON(아이콘)의 '딴따라'♬ l EP.611 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/35550935</id>
+        <link href="https://tv.naver.com/v/35550935"/>
+        <updated>2023-05-03T11:10:31.892Z</updated>
+        <content type="html"><![CDATA[2:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 한 번도 안 불러본 사람은 있어도 한 번만 부른 사람은 없는 레전드 명곡♬ iKON ＜사랑을 했다＞ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/35493757</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/35120336"/>
         <updated>2023-04-19T12:22:31.397Z</updated>
         <content type="html"><![CDATA[2:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유느님 보다 은광MC..? 놀면 뭐하니..✨ 잠깐 눈 좀 감아 봐(¬‿¬) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/35120187</id>
-        <link href="https://tv.naver.com/v/35120187"/>
-        <updated>2023-04-19T12:22:31.399Z</updated>
-        <content type="html"><![CDATA[1:35]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
