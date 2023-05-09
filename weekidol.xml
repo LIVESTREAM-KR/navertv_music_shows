@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-05-08T23:13:10.226Z</updated>
+    <updated>2023-05-09T00:59:39.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 우리는 메댄만 믿고 간다!! 환웅아 알지? 너만 믿는다..]]></title>
+        <id>https://tv.naver.com/v/35705666</id>
+        <link href="https://tv.naver.com/v/35705666"/>
+        <updated>2023-05-09T00:59:33.906Z</updated>
+        <content type="html"><![CDATA[1:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 말만 들어도 총체적 난국인 원어스의 접촉사고 상황극!]]></title>
+        <id>https://tv.naver.com/v/35705663</id>
+        <link href="https://tv.naver.com/v/35705663"/>
+        <updated>2023-05-09T00:59:33.907Z</updated>
+        <content type="html"><![CDATA[1:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 612회 원어스편 예고]]></title>
         <id>https://tv.naver.com/v/35693226</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/35349302"/>
         <updated>2023-04-26T12:22:42.541Z</updated>
         <content type="html"><![CDATA[1:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겉바속촉 멋쟁이 락스타🎸 Jun Han의 반전 매력 모먼트✨]]></title>
-        <id>https://tv.naver.com/v/35349299</id>
-        <link href="https://tv.naver.com/v/35349299"/>
-        <updated>2023-04-26T12:22:42.544Z</updated>
-        <content type="html"><![CDATA[1:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15초면 눈물이 주르륵😢 지기 싫은 기타히어로 Jun Han이 얼떨결에 개인기를 찾게 된 사연?]]></title>
-        <id>https://tv.naver.com/v/35349297</id>
-        <link href="https://tv.naver.com/v/35349297"/>
-        <updated>2023-04-26T12:22:42.545Z</updated>
-        <content type="html"><![CDATA[1:14]]></content>
     </entry>
 </feed>
