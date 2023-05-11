@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-05-11T10:13:22.913Z</updated>
+    <updated>2023-05-11T11:09:58.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] ONEUS(원어스) - MIC Drop (원곡 : BTS) l EP.612]]></title>
+        <id>https://tv.naver.com/v/35743796</id>
+        <link href="https://tv.naver.com/v/35743796"/>
+        <updated>2023-05-11T11:09:52.903Z</updated>
+        <content type="html"><![CDATA[4:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] ONEUS(원어스) - MIC Drop (원곡 : BTS) l EP.612]]></title>
+        <id>https://tv.naver.com/v/35742921</id>
+        <link href="https://tv.naver.com/v/35742921"/>
+        <updated>2023-05-11T11:09:52.909Z</updated>
+        <content type="html"><![CDATA[4:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 짐벌캠] ONEUS (원어스) - ERASE ME l EP.612]]></title>
         <id>https://tv.naver.com/v/35773074</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/35555363"/>
         <updated>2023-05-03T12:22:52.890Z</updated>
         <content type="html"><![CDATA[0:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찬우가 본 수영하는 윤형의 진실? ✨송셀럽의✨ 인★그램 사진 특강📸]]></title>
-        <id>https://tv.naver.com/v/35563536</id>
-        <link href="https://tv.naver.com/v/35563536"/>
-        <updated>2023-05-03T12:22:52.890Z</updated>
-        <content type="html"><![CDATA[1:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이콘의 탁구왕은🏓 과연 누구? 이변 없는 결과 or 황태포의 반란?]]></title>
-        <id>https://tv.naver.com/v/35564682</id>
-        <link href="https://tv.naver.com/v/35564682"/>
-        <updated>2023-05-03T12:22:52.891Z</updated>
-        <content type="html"><![CDATA[3:36]]></content>
     </entry>
 </feed>
