@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-05-12T08:14:19.347Z</updated>
+    <updated>2023-05-12T09:12:16.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist+ l 세로캠] Xdinary Heroes - ＜Dynamite＞ ♬ (원곡: BTS) l EP.610]]></title>
+        <id>https://tv.naver.com/v/35838888</id>
+        <link href="https://tv.naver.com/v/35838888"/>
+        <updated>2023-05-12T09:12:10.030Z</updated>
+        <content type="html"><![CDATA[3:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] ONEUS(원어스) - MIC Drop (원곡 : BTS) l EP.612]]></title>
         <id>https://tv.naver.com/v/35743796</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35552274"/>
         <updated>2023-05-03T12:22:52.889Z</updated>
         <content type="html"><![CDATA[7:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
-        <id>https://tv.naver.com/v/35555363</id>
-        <link href="https://tv.naver.com/v/35555363"/>
-        <updated>2023-05-03T12:22:52.890Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
     </entry>
 </feed>

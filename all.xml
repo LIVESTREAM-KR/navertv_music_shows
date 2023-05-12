@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-12T08:14:19.349Z</updated>
+    <updated>2023-05-12T09:12:16.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist+ l 세로캠] Xdinary Heroes - ＜Dynamite＞ ♬ (원곡: BTS) l EP.610 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/35838888</id>
+        <link href="https://tv.naver.com/v/35838888"/>
+        <updated>2023-05-12T09:12:10.030Z</updated>
+        <content type="html"><![CDATA[3:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] ONEUS(원어스) - MIC Drop (원곡 : BTS) l EP.612 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/35743796</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/35552274"/>
         <updated>2023-05-03T12:22:52.889Z</updated>
         <content type="html"><![CDATA[7:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/35555363</id>
-        <link href="https://tv.naver.com/v/35555363"/>
-        <updated>2023-05-03T12:22:52.890Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
