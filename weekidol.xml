@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-05-12T09:12:16.852Z</updated>
+    <updated>2023-05-12T10:12:55.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NEW MC 그리고 NEW코너까지! 새로운 주간아이돌에는 축복이 끝이 없네]]></title>
+        <id>https://tv.naver.com/v/35868596</id>
+        <link href="https://tv.naver.com/v/35868596"/>
+        <updated>2023-05-12T10:12:49.104Z</updated>
+        <content type="html"><![CDATA[0:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 613회 VERIVERY 편 예고]]></title>
+        <id>https://tv.naver.com/v/35868314</id>
+        <link href="https://tv.naver.com/v/35868314"/>
+        <updated>2023-05-12T10:12:49.105Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist+ l 세로캠] Xdinary Heroes - ＜Dynamite＞ ♬ (원곡: BTS) l EP.610]]></title>
         <id>https://tv.naver.com/v/35838888</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/35528537"/>
         <updated>2023-05-03T12:22:52.855Z</updated>
         <content type="html"><![CDATA[2:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] iKON(아이콘) - 딴따라 l EP.611]]></title>
-        <id>https://tv.naver.com/v/35528534</id>
-        <link href="https://tv.naver.com/v/35528534"/>
-        <updated>2023-05-03T12:22:52.875Z</updated>
-        <content type="html"><![CDATA[2:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist+] 오직 아이콘만이 들려줄 수 있는 환상의 Music Scenario iKON ＜사랑을 했다 + 바람 + 그대 이름＞ l EP.611]]></title>
-        <id>https://tv.naver.com/v/35552274</id>
-        <link href="https://tv.naver.com/v/35552274"/>
-        <updated>2023-05-03T12:22:52.889Z</updated>
-        <content type="html"><![CDATA[7:55]]></content>
     </entry>
 </feed>
