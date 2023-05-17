@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-17T10:13:02.966Z</updated>
+    <updated>2023-05-17T11:10:10.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] 몽환베리가 왔어요😍 꿈을 향한 독기 가득한 열정을 담은 VERIVERY(베리베리)의 ‘Crazy Like That’♬ l EP.613 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/36008683</id>
+        <link href="https://tv.naver.com/v/36008683"/>
+        <updated>2023-05-17T11:10:04.446Z</updated>
+        <content type="html"><![CDATA[3:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist+ l 세로캠] iKON - ＜사랑을 했다 + 바람 + 그대 이름＞ ♬ l EP.611 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/35941753</id>
@@ -205,13 +212,6 @@
         <id>https://tv.naver.com/v/35705666</id>
         <link href="https://tv.naver.com/v/35705666"/>
         <updated>2023-05-09T00:59:33.906Z</updated>
-        <content type="html"><![CDATA[1:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 말만 들어도 총체적 난국인 원어스의 접촉사고 상황극! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/35705663</id>
-        <link href="https://tv.naver.com/v/35705663"/>
-        <updated>2023-05-09T00:59:33.907Z</updated>
         <content type="html"><![CDATA[1:16]]></content>
     </entry>
     <entry>
