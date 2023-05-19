@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-19T09:11:59.495Z</updated>
+    <updated>2023-05-19T10:12:54.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 614회 드림캐쳐편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/36100762</id>
+        <link href="https://tv.naver.com/v/36100762"/>
+        <updated>2023-05-19T10:12:47.569Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] VERIVERY (베리베리) -  Crazy Like That l EP.613 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/35982665</id>
@@ -205,13 +212,6 @@
         <id>https://tv.naver.com/v/35743796</id>
         <link href="https://tv.naver.com/v/35743796"/>
         <updated>2023-05-11T11:09:52.903Z</updated>
-        <content type="html"><![CDATA[4:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] ONEUS(원어스) - MIC Drop (원곡 : BTS) l EP.612 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/35742921</id>
-        <link href="https://tv.naver.com/v/35742921"/>
-        <updated>2023-05-11T11:09:52.909Z</updated>
         <content type="html"><![CDATA[4:05]]></content>
     </entry>
     <entry>
