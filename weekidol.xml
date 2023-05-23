@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-05-22T23:12:36.263Z</updated>
+    <updated>2023-05-23T01:02:13.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 요즘 미주광이가 밀고 있는 게임 ＜좀비가 몸으로 말해요＞ 근데 여기서 + 유잼캐쳐가 만난다? 게임 OVER...]]></title>
+        <id>https://tv.naver.com/v/36178636</id>
+        <link href="https://tv.naver.com/v/36178636"/>
+        <updated>2023-05-23T01:02:08.587Z</updated>
+        <content type="html"><![CDATA[1:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 시연언니 대기실에서 그만 웃겨주세요..ㅋㅋㅋㅋ 난 기분이 안 좋을 때 시연이를 봐...]]></title>
+        <id>https://tv.naver.com/v/36178367</id>
+        <link href="https://tv.naver.com/v/36178367"/>
+        <updated>2023-05-23T01:02:08.591Z</updated>
+        <content type="html"><![CDATA[1:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 614회 드림캐쳐편 예고]]></title>
         <id>https://tv.naver.com/v/36100762</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/35868314"/>
         <updated>2023-05-12T10:12:49.105Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist+ l 세로캠] Xdinary Heroes - ＜Dynamite＞ ♬ (원곡: BTS) l EP.610]]></title>
-        <id>https://tv.naver.com/v/35838888</id>
-        <link href="https://tv.naver.com/v/35838888"/>
-        <updated>2023-05-12T09:12:10.030Z</updated>
-        <content type="html"><![CDATA[3:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] ONEUS(원어스) - MIC Drop (원곡 : BTS) l EP.612]]></title>
-        <id>https://tv.naver.com/v/35743796</id>
-        <link href="https://tv.naver.com/v/35743796"/>
-        <updated>2023-05-11T11:09:52.903Z</updated>
-        <content type="html"><![CDATA[4:05]]></content>
     </entry>
 </feed>
