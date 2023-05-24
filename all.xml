@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-24T10:12:48.012Z</updated>
+    <updated>2023-05-24T11:10:13.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] 꿈둥이들이 말아주는 청량 락 한 번 잡솨봐!🤘🏻 본때를 보여줄 Dreamcatcher(드림캐쳐)의 ‘BONVOYAGE’♬ l EP.614 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/36249606</id>
+        <link href="https://tv.naver.com/v/36249606"/>
+        <updated>2023-05-24T11:10:08.399Z</updated>
+        <content type="html"><![CDATA[3:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 요즘 미주광이가 밀고 있는 게임 ＜좀비가 몸으로 말해요＞ 근데 여기서 + 유잼캐쳐가 만난다? 게임 OVER... (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/36178636</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/35868596"/>
         <updated>2023-05-12T10:12:49.104Z</updated>
         <content type="html"><![CDATA[0:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 613회 VERIVERY 편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/35868314</id>
-        <link href="https://tv.naver.com/v/35868314"/>
-        <updated>2023-05-12T10:12:49.105Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
