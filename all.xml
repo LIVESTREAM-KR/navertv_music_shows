@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-26T09:12:02.481Z</updated>
+    <updated>2023-05-26T10:13:15.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 615회 SECRET NUMBER편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/36347950</id>
+        <link href="https://tv.naver.com/v/36347950"/>
+        <updated>2023-05-26T10:13:09.838Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] Dreamcatcher (드림캐쳐) -  BONVOYAGE l EP.614 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/36254629</id>
@@ -205,13 +212,6 @@
         <id>https://tv.naver.com/v/36005106</id>
         <link href="https://tv.naver.com/v/36005106"/>
         <updated>2023-05-17T12:23:03.069Z</updated>
-        <content type="html"><![CDATA[3:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] VERIVERY YEONHO- Crazy Like That (베리베리 연호 - 크레이지 라이크 댓) l EP.613 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/36004984</id>
-        <link href="https://tv.naver.com/v/36004984"/>
-        <updated>2023-05-17T12:23:03.071Z</updated>
         <content type="html"><![CDATA[3:17]]></content>
     </entry>
     <entry>
