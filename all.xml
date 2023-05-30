@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-29T23:12:10.458Z</updated>
+    <updated>2023-05-30T01:01:59.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 디타 공주님의 랜덤플레이댄스! 아름다운 춤 선에 빠져든다! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/36425982</id>
+        <link href="https://tv.naver.com/v/36425982"/>
+        <updated>2023-05-30T01:01:53.022Z</updated>
+        <content type="html"><![CDATA[1:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] [주간아 못생긴 춤 오디션] 못생긴 춤의 제왕 MC은광의 수제자를 찾아라! 과연 비번이들의 오디션 결과는?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/36425954</id>
+        <link href="https://tv.naver.com/v/36425954"/>
+        <updated>2023-05-30T01:01:53.028Z</updated>
+        <content type="html"><![CDATA[1:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 615회 SECRET NUMBER편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/36347950</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/35981373"/>
         <updated>2023-05-17T12:23:03.065Z</updated>
         <content type="html"><![CDATA[3:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] VERIVERY YONGSEUNG- Crazy Like That (베리베리 용승 - 크레이지 라이크 댓) l EP.613 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/36005126</id>
-        <link href="https://tv.naver.com/v/36005126"/>
-        <updated>2023-05-17T12:23:03.067Z</updated>
-        <content type="html"><![CDATA[3:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] VERIVERY HOYOUNG- Crazy Like That (베리베리 호영 - 크레이지 라이크 댓) l EP.613 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/36005106</id>
-        <link href="https://tv.naver.com/v/36005106"/>
-        <updated>2023-05-17T12:23:03.069Z</updated>
-        <content type="html"><![CDATA[3:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
