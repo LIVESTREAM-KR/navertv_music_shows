@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-06-02T10:12:37.089Z</updated>
+    <updated>2023-06-02T11:10:05.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] 시크릿넘버(SECRET NUMBER)의 커버 댄스 (직캠Ver.) l #손오공 #Spicy #UNFORGIVEN 등 l EP.615]]></title>
+        <id>https://tv.naver.com/v/36497860</id>
+        <link href="https://tv.naver.com/v/36497860"/>
+        <updated>2023-06-02T11:09:59.999Z</updated>
+        <content type="html"><![CDATA[2:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 616회 CIX편 예고]]></title>
         <id>https://tv.naver.com/v/36580254</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/36251679</id>
         <link href="https://tv.naver.com/v/36251679"/>
         <updated>2023-05-24T12:22:16.188Z</updated>
-        <content type="html"><![CDATA[3:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] Dreamcatcher JIU- BONVOYAGE (드림캐쳐 지유 - 본보야지) l EP.614]]></title>
-        <id>https://tv.naver.com/v/36251676</id>
-        <link href="https://tv.naver.com/v/36251676"/>
-        <updated>2023-05-24T12:22:16.189Z</updated>
         <content type="html"><![CDATA[3:38]]></content>
     </entry>
 </feed>
