@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-06-02T09:11:55.444Z</updated>
+    <updated>2023-06-02T10:12:37.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 616회 CIX편 예고]]></title>
+        <id>https://tv.naver.com/v/36580254</id>
+        <link href="https://tv.naver.com/v/36580254"/>
+        <updated>2023-06-02T10:12:30.607Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 짐벌캠] SECRET NUMBER (시크릿넘버) -  DOXA l EP.615]]></title>
         <id>https://tv.naver.com/v/36461186</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/36251676</id>
         <link href="https://tv.naver.com/v/36251676"/>
         <updated>2023-05-24T12:22:16.189Z</updated>
-        <content type="html"><![CDATA[3:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] Dreamcatcher YOOHYEON - BONVOYAGE (드림캐쳐 유현 - 본보야지) l EP.614]]></title>
-        <id>https://tv.naver.com/v/36251369</id>
-        <link href="https://tv.naver.com/v/36251369"/>
-        <updated>2023-05-24T12:22:16.192Z</updated>
         <content type="html"><![CDATA[3:38]]></content>
     </entry>
 </feed>
