@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-06-05T23:12:12.827Z</updated>
+    <updated>2023-06-06T01:10:57.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 짱아엑은 피지컬로 승부한다! 준비된 인재 가득한 CIX♥ 과연 승자는!?]]></title>
+        <id>https://tv.naver.com/v/36665034</id>
+        <link href="https://tv.naver.com/v/36665034"/>
+        <updated>2023-06-06T01:10:50.838Z</updated>
+        <content type="html"><![CDATA[1:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 뽀냥이 입이 댓 발 나온 이유는!?]]></title>
+        <id>https://tv.naver.com/v/36665031</id>
+        <link href="https://tv.naver.com/v/36665031"/>
+        <updated>2023-06-06T01:10:50.838Z</updated>
+        <content type="html"><![CDATA[1:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 직캠] 시크릿넘버(SECRET NUMBER)의 커버 댄스 (직캠Ver.) l #손오공 #Spicy #UNFORGIVEN 등 l EP.615]]></title>
         <id>https://tv.naver.com/v/36497860</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/36254429"/>
         <updated>2023-05-24T12:22:16.187Z</updated>
         <content type="html"><![CDATA[3:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂속토위가 뭔데!!!!＂ 이걸 이렇게 맞히다니.. 리스펙 우유부단팀의 좀비가🧟‍♀️ 몸으로 말해요]]></title>
-        <id>https://tv.naver.com/v/36275177</id>
-        <link href="https://tv.naver.com/v/36275177"/>
-        <updated>2023-05-24T12:22:16.188Z</updated>
-        <content type="html"><![CDATA[3:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] Dreamcatcher HANDONG- BONVOYAGE (드림캐쳐 한동 - 본보야지) l EP.614]]></title>
-        <id>https://tv.naver.com/v/36251679</id>
-        <link href="https://tv.naver.com/v/36251679"/>
-        <updated>2023-05-24T12:22:16.188Z</updated>
-        <content type="html"><![CDATA[3:38]]></content>
     </entry>
 </feed>
