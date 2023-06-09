@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-09T09:11:45.777Z</updated>
+    <updated>2023-06-09T10:12:51.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 617회 P1Harmony편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/36821009</id>
+        <link href="https://tv.naver.com/v/36821009"/>
+        <updated>2023-06-09T10:12:44.844Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] CIX (씨아이엑스) - Save me, Kill me l EP.616 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/36724497</id>
@@ -204,13 +211,6 @@
         <title type="html"><![CDATA[[주간아 직캠 4K] SECRET NUMBER MINJI - DOXA (시크릿넘버 민지 - 독사) l EP.615 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/36486396</id>
         <link href="https://tv.naver.com/v/36486396"/>
-        <updated>2023-05-31T12:25:01.888Z</updated>
-        <content type="html"><![CDATA[3:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] SECRET NUMBER SOODAM - DOXA (시크릿넘버 수담 - 독사) l EP.615 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/36486191</id>
-        <link href="https://tv.naver.com/v/36486191"/>
         <updated>2023-05-31T12:25:01.888Z</updated>
         <content type="html"><![CDATA[3:11]]></content>
     </entry>
