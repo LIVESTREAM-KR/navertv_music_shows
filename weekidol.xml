@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-06-14T10:12:27.536Z</updated>
+    <updated>2023-06-14T11:10:23.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] 피모니만의 느낌과 리듬으로 가득 채운 무대💙 P1Harmony(피원하모니)의 ‘JUMP’♬ l EP.617]]></title>
+        <id>https://tv.naver.com/v/36967564</id>
+        <link href="https://tv.naver.com/v/36967564"/>
+        <updated>2023-06-14T11:10:14.960Z</updated>
+        <content type="html"><![CDATA[2:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] Welcome to ZOO.간.아]]></title>
         <id>https://tv.naver.com/v/36902479</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36460894"/>
         <updated>2023-05-31T12:25:01.868Z</updated>
         <content type="html"><![CDATA[3:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] SECRET NUMBER JINNY- DOXA (시크릿넘버 진희 - 독사) l EP.615]]></title>
-        <id>https://tv.naver.com/v/36486641</id>
-        <link href="https://tv.naver.com/v/36486641"/>
-        <updated>2023-05-31T12:25:01.878Z</updated>
-        <content type="html"><![CDATA[3:11]]></content>
     </entry>
 </feed>
