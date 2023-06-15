@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-15T08:14:50.105Z</updated>
+    <updated>2023-06-15T09:12:30.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist+ l 세로캠] P1Harmony - ＜Cupid＞♬ (원곡: FIFTY FIFTY)  l EP.617 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/36977366</id>
+        <link href="https://tv.naver.com/v/36977366"/>
+        <updated>2023-06-15T09:12:25.797Z</updated>
+        <content type="html"><![CDATA[3:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 짐벌캠] P1Harmony (피원하모니) -  JUMP l EP.616 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/36944352</id>
@@ -205,13 +212,6 @@
         <id>https://tv.naver.com/v/36723422</id>
         <link href="https://tv.naver.com/v/36723422"/>
         <updated>2023-06-07T12:23:19.556Z</updated>
-        <content type="html"><![CDATA[3:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] CIX SEUNGHUN - Save me, Kill me (씨아이엑스 승훈 - 세이브 미, 킬 미) l EP.616 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/36723155</id>
-        <link href="https://tv.naver.com/v/36723155"/>
-        <updated>2023-06-07T12:23:19.558Z</updated>
         <content type="html"><![CDATA[3:43]]></content>
     </entry>
     <entry>
