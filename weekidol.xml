@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-06-16T09:12:22.620Z</updated>
+    <updated>2023-06-16T10:13:28.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 618회 ATBO & 8TURN편 예고]]></title>
+        <id>https://tv.naver.com/v/37066840</id>
+        <link href="https://tv.naver.com/v/37066840"/>
+        <updated>2023-06-16T10:13:23.372Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist+ l 세로캠] P1Harmony - ＜Cupid＞♬ (원곡: FIFTY FIFTY)  l EP.617]]></title>
         <id>https://tv.naver.com/v/36977366</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/36723576</id>
         <link href="https://tv.naver.com/v/36723576"/>
         <updated>2023-06-07T12:23:19.549Z</updated>
-        <content type="html"><![CDATA[3:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] CIX HYUNSUK - Save me, Kill me (씨아이엑스 현석 - 세이브 미, 킬 미) l EP.616]]></title>
-        <id>https://tv.naver.com/v/36723422</id>
-        <link href="https://tv.naver.com/v/36723422"/>
-        <updated>2023-06-07T12:23:19.556Z</updated>
         <content type="html"><![CDATA[3:43]]></content>
     </entry>
 </feed>
