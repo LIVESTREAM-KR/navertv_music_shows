@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-06-21T11:12:53.976Z</updated>
+    <updated>2023-06-21T12:23:44.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
+        <id>https://tv.naver.com/v/37215774</id>
+        <link href="https://tv.naver.com/v/37215774"/>
+        <updated>2023-06-21T12:23:37.578Z</updated>
+        <content type="html"><![CDATA[0:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＂호박 고구마하~🍠＂ 힘 없는 호박고구마? ATBO&8TURN이 보여주는 명대사!]]></title>
         <id>https://tv.naver.com/v/37226490</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36989679"/>
         <updated>2023-06-14T12:23:20.219Z</updated>
         <content type="html"><![CDATA[1:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피원하모니 연습실에 나타난 의문의 발자국? 벽타는 외계인👽 4차원 소울]]></title>
-        <id>https://tv.naver.com/v/36989677</id>
-        <link href="https://tv.naver.com/v/36989677"/>
-        <updated>2023-06-14T12:23:20.220Z</updated>
-        <content type="html"><![CDATA[2:11]]></content>
     </entry>
 </feed>
