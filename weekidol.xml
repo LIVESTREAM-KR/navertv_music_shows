@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-06-23T09:13:38.158Z</updated>
+    <updated>2023-06-23T10:15:05.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 619회 WEi편 예고]]></title>
+        <id>https://tv.naver.com/v/37306669</id>
+        <link href="https://tv.naver.com/v/37306669"/>
+        <updated>2023-06-23T10:14:59.114Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
         <id>https://tv.naver.com/v/37215774</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36989718"/>
         <updated>2023-06-14T12:23:20.218Z</updated>
         <content type="html"><![CDATA[2:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂피스들 우리 잘 모르는 거 같아＂ 피스들이 뽑은 함께 여행가고 싶은 멤버✈]]></title>
-        <id>https://tv.naver.com/v/36989679</id>
-        <link href="https://tv.naver.com/v/36989679"/>
-        <updated>2023-06-14T12:23:20.219Z</updated>
-        <content type="html"><![CDATA[1:43]]></content>
     </entry>
 </feed>
