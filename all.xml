@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-26T23:13:21.526Z</updated>
+    <updated>2023-06-27T01:24:11.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] WEi 신곡 ★최초공개★ 킬링 포인트 안무 이름도 정하고~ 함께 배워도 보고~ 이 얼마나 알찬(?) 영상이냐고여~ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/37384252</id>
+        <link href="https://tv.naver.com/v/37384252"/>
+        <updated>2023-06-27T01:24:06.510Z</updated>
+        <content type="html"><![CDATA[1:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 작은하니에게 버림 받은 멤버가 있다고!?  ??? : 나는 그냥 생각나서 전화한 것 뿌닌데.....(⸝⸝⋅⃘᷄﹏⋅⃘᷅⸝⸝) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/37384247</id>
+        <link href="https://tv.naver.com/v/37384247"/>
+        <updated>2023-06-27T01:24:06.516Z</updated>
+        <content type="html"><![CDATA[1:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 619회 WEi편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/37306669</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/36989723"/>
         <updated>2023-06-14T12:23:20.217Z</updated>
         <content type="html"><![CDATA[3:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원숭이🐵 완벽 변신? 원숭이로 변한 피원하모니 파랑팀의 동물이 몸으로 말해요 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/36989721</id>
-        <link href="https://tv.naver.com/v/36989721"/>
-        <updated>2023-06-14T12:23:20.218Z</updated>
-        <content type="html"><![CDATA[2:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[억울함에 비례하는 눈크기👀 피원하모니가 뽑은 꼰대 멤버🤣 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/36989718</id>
-        <link href="https://tv.naver.com/v/36989718"/>
-        <updated>2023-06-14T12:23:20.218Z</updated>
-        <content type="html"><![CDATA[2:06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
