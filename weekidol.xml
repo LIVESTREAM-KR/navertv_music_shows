@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-06-28T11:11:37.034Z</updated>
+    <updated>2023-06-28T12:27:37.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
+        <id>https://tv.naver.com/v/37452523</id>
+        <link href="https://tv.naver.com/v/37452523"/>
+        <updated>2023-06-28T12:27:30.664Z</updated>
+        <content type="html"><![CDATA[0:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[＂왜 영어로 해!!＂ 의외의 복병 용하와 함께하는 바보는 아니에요 팀의 릴레이 초성 퀴즈]]></title>
         <id>https://tv.naver.com/v/37462721</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37066840"/>
         <updated>2023-06-16T10:13:23.372Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist+ l 세로캠] P1Harmony - ＜Cupid＞♬ (원곡: FIFTY FIFTY)  l EP.617]]></title>
-        <id>https://tv.naver.com/v/36977366</id>
-        <link href="https://tv.naver.com/v/36977366"/>
-        <updated>2023-06-15T09:12:25.797Z</updated>
-        <content type="html"><![CDATA[3:08]]></content>
     </entry>
 </feed>
