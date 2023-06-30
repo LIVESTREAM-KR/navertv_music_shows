@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-06-30T09:13:15.302Z</updated>
+    <updated>2023-06-30T10:13:37.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 620회 TREASURE편 예고]]></title>
+        <id>https://tv.naver.com/v/37545277</id>
+        <link href="https://tv.naver.com/v/37545277"/>
+        <updated>2023-06-30T10:13:32.045Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 짐벌캠] WEi(위아이) -  OVERDRIVE(질주) l EP.619]]></title>
         <id>https://tv.naver.com/v/37427110</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37226021"/>
         <updated>2023-06-21T11:12:48.727Z</updated>
         <content type="html"><![CDATA[1:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[턴오공으로 완벽 체인지! 8TURN이 추는 ＜세븐틴 -손오공＞]]></title>
-        <id>https://tv.naver.com/v/37226020</id>
-        <link href="https://tv.naver.com/v/37226020"/>
-        <updated>2023-06-21T11:12:48.728Z</updated>
-        <content type="html"><![CDATA[1:43]]></content>
     </entry>
 </feed>
