@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-07-03T23:14:06.038Z</updated>
+    <updated>2023-07-04T01:14:41.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 지훈이 핸드폰 연락처에는 준규가 4명이 있다?!]]></title>
+        <id>https://tv.naver.com/v/37625856</id>
+        <link href="https://tv.naver.com/v/37625856"/>
+        <updated>2023-07-04T01:14:36.014Z</updated>
+        <content type="html"><![CDATA[1:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] ☆두 운동광의 명예를 건 승부☆ MC 은광 VS 뜨거운 심장 도영!]]></title>
+        <id>https://tv.naver.com/v/37624530</id>
+        <link href="https://tv.naver.com/v/37624530"/>
+        <updated>2023-07-04T01:14:36.020Z</updated>
+        <content type="html"><![CDATA[2:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 620회 TREASURE편 예고]]></title>
         <id>https://tv.naver.com/v/37545277</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/37226243"/>
         <updated>2023-06-21T11:12:48.727Z</updated>
         <content type="html"><![CDATA[2:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갑자기 큰절을 한다고? 사람은 8명 고깔은 5개! '고깔 스타⭐ 2라운드']]></title>
-        <id>https://tv.naver.com/v/37226073</id>
-        <link href="https://tv.naver.com/v/37226073"/>
-        <updated>2023-06-21T11:12:48.727Z</updated>
-        <content type="html"><![CDATA[2:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔딩 왕관은 못 참지 ATBO가 추는 ＜(여자)아이들 - 퀸카(Queencard)＞]]></title>
-        <id>https://tv.naver.com/v/37226021</id>
-        <link href="https://tv.naver.com/v/37226021"/>
-        <updated>2023-06-21T11:12:48.727Z</updated>
-        <content type="html"><![CDATA[1:41]]></content>
     </entry>
 </feed>
