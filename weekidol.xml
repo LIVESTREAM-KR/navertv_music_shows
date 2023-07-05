@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-07-05T11:11:51.958Z</updated>
+    <updated>2023-07-05T12:29:32.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] TREASURE(트레저) - MOVE (T5) l EP.620]]></title>
+        <id>https://tv.naver.com/v/37667422</id>
+        <link href="https://tv.naver.com/v/37667422"/>
+        <updated>2023-07-05T12:29:27.210Z</updated>
+        <content type="html"><![CDATA[3:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] TREASURE(트레저) -  MOVE (T5) l EP.620]]></title>
+        <id>https://tv.naver.com/v/37665737</id>
+        <link href="https://tv.naver.com/v/37665737"/>
+        <updated>2023-07-05T12:29:27.215Z</updated>
+        <content type="html"><![CDATA[40:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] TREASURE SO JUNG HWAN - MOVE (T5) (트레저 소정환 - 무브 (T5)) l EP.620]]></title>
+        <id>https://tv.naver.com/v/37691448</id>
+        <link href="https://tv.naver.com/v/37691448"/>
+        <updated>2023-07-05T12:29:27.215Z</updated>
+        <content type="html"><![CDATA[3:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] TREASURE YOON JAE HYUK - MOVE (T5) (트레저 윤재혁 - 무브 (T5)) l EP.620]]></title>
+        <id>https://tv.naver.com/v/37689279</id>
+        <link href="https://tv.naver.com/v/37689279"/>
+        <updated>2023-07-05T12:29:27.217Z</updated>
+        <content type="html"><![CDATA[3:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] TREASURE JIHOON - MOVE (T5) (트레저 지훈 - 무브 (T5)) l EP.620]]></title>
+        <id>https://tv.naver.com/v/37689081</id>
+        <link href="https://tv.naver.com/v/37689081"/>
+        <updated>2023-07-05T12:29:27.218Z</updated>
+        <content type="html"><![CDATA[3:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] TREASURE DOYOUNG - MOVE (T5) (트레저 도영 - 무브 (T5)) l EP.620]]></title>
+        <id>https://tv.naver.com/v/37688950</id>
+        <link href="https://tv.naver.com/v/37688950"/>
+        <updated>2023-07-05T12:29:27.222Z</updated>
+        <content type="html"><![CDATA[3:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] TREASURE JUNKYU - MOVE (T5) (트레저 준규 - 무브 (T5)) l EP.620]]></title>
+        <id>https://tv.naver.com/v/37688800</id>
+        <link href="https://tv.naver.com/v/37688800"/>
+        <updated>2023-07-05T12:29:27.223Z</updated>
+        <content type="html"><![CDATA[3:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
+        <id>https://tv.naver.com/v/37693609</id>
+        <link href="https://tv.naver.com/v/37693609"/>
+        <updated>2023-07-05T12:29:27.224Z</updated>
+        <content type="html"><![CDATA[0:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[열정 가득 오리발짓🦆 T격태격! 복불복 탁구의 우승팀은?]]></title>
         <id>https://tv.naver.com/v/37703785</id>
@@ -158,61 +214,5 @@
         <link href="https://tv.naver.com/v/37448351"/>
         <updated>2023-06-29T09:14:35.924Z</updated>
         <content type="html"><![CDATA[3:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] WEi KIM DONGHAN - OVERDRIVE (위아이 김동한 - 질주) l EP.619]]></title>
-        <id>https://tv.naver.com/v/37448231</id>
-        <link href="https://tv.naver.com/v/37448231"/>
-        <updated>2023-06-29T09:14:35.924Z</updated>
-        <content type="html"><![CDATA[3:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] WEi KANG SEOKHWA - OVERDRIVE (위아이 강석화 - 질주) l EP.619]]></title>
-        <id>https://tv.naver.com/v/37447984</id>
-        <link href="https://tv.naver.com/v/37447984"/>
-        <updated>2023-06-29T09:14:35.924Z</updated>
-        <content type="html"><![CDATA[3:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간 신곡] RUi들 준비 됐나?! 청량아이💙와 함께라면 뭐든 할 수 있어✨ WEi(위아이)의 ‘질주(OVERDRIVE)’♬ l EP.619]]></title>
-        <id>https://tv.naver.com/v/37447411</id>
-        <link href="https://tv.naver.com/v/37447411"/>
-        <updated>2023-06-29T09:14:35.935Z</updated>
-        <content type="html"><![CDATA[3:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
-        <id>https://tv.naver.com/v/37452523</id>
-        <link href="https://tv.naver.com/v/37452523"/>
-        <updated>2023-06-28T12:27:30.664Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂왜 영어로 해!!＂ 의외의 복병 용하와 함께하는 바보는 아니에요 팀의 릴레이 초성 퀴즈]]></title>
-        <id>https://tv.naver.com/v/37462721</id>
-        <link href="https://tv.naver.com/v/37462721"/>
-        <updated>2023-06-28T11:11:31.019Z</updated>
-        <content type="html"><![CDATA[4:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂우리 아이돌이야~!＂ 첫 초성 부터 멘붕! 태극기 팀의 몸으로 말해요 릴레이 초성 퀴즈]]></title>
-        <id>https://tv.naver.com/v/37462449</id>
-        <link href="https://tv.naver.com/v/37462449"/>
-        <updated>2023-06-28T11:11:31.037Z</updated>
-        <content type="html"><![CDATA[4:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노래를🎤 기가 막히게 하셨을 거 같은 택시아저씨 등장?! 대현의 택시 상황극🚖]]></title>
-        <id>https://tv.naver.com/v/37461981</id>
-        <link href="https://tv.naver.com/v/37461981"/>
-        <updated>2023-06-28T11:11:31.038Z</updated>
-        <content type="html"><![CDATA[1:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨낭살낭죽 막내와✨ ＂전 항상 잔소리를 들어서..😥＂ 잔소리가 싫은 용하]]></title>
-        <id>https://tv.naver.com/v/37461980</id>
-        <link href="https://tv.naver.com/v/37461980"/>
-        <updated>2023-06-28T11:11:31.039Z</updated>
-        <content type="html"><![CDATA[1:50]]></content>
     </entry>
 </feed>
