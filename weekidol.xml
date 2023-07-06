@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-07-06T08:18:20.011Z</updated>
+    <updated>2023-07-06T09:14:11.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 미방] 지훈이가 쏘아 올린 애교TIME💘 간식을 향한 준규&정환&재혁의 큐T5 애교 l EP.620]]></title>
+        <id>https://tv.naver.com/v/37749106</id>
+        <link href="https://tv.naver.com/v/37749106"/>
+        <updated>2023-07-06T09:14:05.993Z</updated>
+        <content type="html"><![CDATA[1:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] TREASURE(트레저) - MOVE (T5) l EP.620]]></title>
         <id>https://tv.naver.com/v/37667422</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/37448500</id>
         <link href="https://tv.naver.com/v/37448500"/>
         <updated>2023-06-29T09:14:35.922Z</updated>
-        <content type="html"><![CDATA[3:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] WEi KIM YOHAN - OVERDRIVE (위아이 김요한 - 질주) l EP.619]]></title>
-        <id>https://tv.naver.com/v/37448351</id>
-        <link href="https://tv.naver.com/v/37448351"/>
-        <updated>2023-06-29T09:14:35.924Z</updated>
         <content type="html"><![CDATA[3:20]]></content>
     </entry>
 </feed>
