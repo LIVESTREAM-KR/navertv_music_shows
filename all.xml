@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-07T09:13:21.701Z</updated>
+    <updated>2023-07-07T10:13:56.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 621회 NMIXX편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/37788096</id>
+        <link href="https://tv.naver.com/v/37788096"/>
+        <updated>2023-07-07T10:13:50.941Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 미방] 지훈이가 쏘아 올린 애교TIME💘 간식을 향한 준규&정환&재혁의 큐T5 애교 l EP.620 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/37749106</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/37448630"/>
         <updated>2023-06-29T09:14:35.922Z</updated>
         <content type="html"><![CDATA[21:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] WEi KIM JUNSEO - OVERDRIVE (위아이 김준서 - 질주) l EP.619 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/37448500</id>
-        <link href="https://tv.naver.com/v/37448500"/>
-        <updated>2023-06-29T09:14:35.922Z</updated>
-        <content type="html"><![CDATA[3:20]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
