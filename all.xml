@@ -2,8 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-12T11:11:29.940Z</updated>
+    <updated>2023-07-12T12:27:46.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] NMIXX (엔믹스) - Party O'Clock l EP.621 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/37909024</id>
+        <link href="https://tv.naver.com/v/37909024"/>
+        <updated>2023-07-12T12:27:40.545Z</updated>
+        <content type="html"><![CDATA[3:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] NMIXX (엔믹스) - Party O'Clock l EP.621 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/37908591</id>
+        <link href="https://tv.naver.com/v/37908591"/>
+        <updated>2023-07-12T12:27:40.548Z</updated>
+        <content type="html"><![CDATA[3:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] NMIXX JIWOO - Party O'Clock (엔믹스 지우 - 파티 어 클락) l EP.621 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/37943662</id>
+        <link href="https://tv.naver.com/v/37943662"/>
+        <updated>2023-07-12T12:27:40.551Z</updated>
+        <content type="html"><![CDATA[3:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] NMIXX SULLYOON - Party O'Clock (엔믹스 설윤 - 파티 어 클락) l EP.621 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/37943465</id>
+        <link href="https://tv.naver.com/v/37943465"/>
+        <updated>2023-07-12T12:27:40.553Z</updated>
+        <content type="html"><![CDATA[3:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] NMIXX HAEWON - Party O'Clock (엔믹스 해원 - 파티 어 클락) l EP.621 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/37943109</id>
+        <link href="https://tv.naver.com/v/37943109"/>
+        <updated>2023-07-12T12:27:40.580Z</updated>
+        <content type="html"><![CDATA[3:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] NMIXX KYUJIN - Party O'Clock (엔믹스 규진 - 파티 어 클락) l EP.621 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/37943056</id>
+        <link href="https://tv.naver.com/v/37943056"/>
+        <updated>2023-07-12T12:27:40.582Z</updated>
+        <content type="html"><![CDATA[3:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] NMIXX LILY - Party O'Clock (엔믹스 릴리 - 파티 어 클락) l EP.621 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/37942851</id>
+        <link href="https://tv.naver.com/v/37942851"/>
+        <updated>2023-07-12T12:27:40.582Z</updated>
+        <content type="html"><![CDATA[3:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] NMIXX BAE - Party O'Clock (엔믹스 배이 - 파티 어 클락) l EP.621 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/37942469</id>
+        <link href="https://tv.naver.com/v/37942469"/>
+        <updated>2023-07-12T12:27:40.583Z</updated>
+        <content type="html"><![CDATA[3:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/37946486</id>
+        <link href="https://tv.naver.com/v/37946486"/>
+        <updated>2023-07-12T12:27:40.585Z</updated>
+        <content type="html"><![CDATA[0:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[짱믹스 너무 잘하잖아..✨ 엔믹스의 랜플댄 2차 도전💃 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/37959059</id>
@@ -82,7 +145,7 @@
         <content type="html"><![CDATA[1:14]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[주간 신곡] ✨공주들의 파티✨에 초대합니징글링밍글링🎵 NMIXX (엔믹스)의 ‘Party O'Clcok’♬ l EP.621 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <title type="html"><![CDATA[[주간 신곡] ✨공주들의 파티✨에 초대합니징글링밍글링🎵 NMIXX (엔믹스)의 ‘Party O'Clock’♬ l EP.621 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/37941745</id>
         <link href="https://tv.naver.com/v/37941745"/>
         <updated>2023-07-12T11:11:22.381Z</updated>
@@ -150,69 +213,6 @@
         <link href="https://tv.naver.com/v/37689081"/>
         <updated>2023-07-05T12:29:27.218Z</updated>
         <content type="html"><![CDATA[3:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] TREASURE DOYOUNG - MOVE (T5) (트레저 도영 - 무브 (T5)) l EP.620 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/37688950</id>
-        <link href="https://tv.naver.com/v/37688950"/>
-        <updated>2023-07-05T12:29:27.222Z</updated>
-        <content type="html"><![CDATA[3:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] TREASURE JUNKYU - MOVE (T5) (트레저 준규 - 무브 (T5)) l EP.620 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/37688800</id>
-        <link href="https://tv.naver.com/v/37688800"/>
-        <updated>2023-07-05T12:29:27.223Z</updated>
-        <content type="html"><![CDATA[3:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/37693609</id>
-        <link href="https://tv.naver.com/v/37693609"/>
-        <updated>2023-07-05T12:29:27.224Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[열정 가득 오리발짓🦆 T격태격! 복불복 탁구의 우승팀은? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/37703785</id>
-        <link href="https://tv.naver.com/v/37703785"/>
-        <updated>2023-07-05T11:11:46.106Z</updated>
-        <content type="html"><![CDATA[3:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스페셜 심판과 함께하는 T5의 T격태격! 복불복 탁구🏓 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/37703782</id>
-        <link href="https://tv.naver.com/v/37703782"/>
-        <updated>2023-07-05T11:11:46.110Z</updated>
-        <content type="html"><![CDATA[3:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂형 봐야지 도영아🔥＂ 엔티제즈의 고요 속의 외침 머니?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/37703584</id>
-        <link href="https://tv.naver.com/v/37703584"/>
-        <updated>2023-07-05T11:11:46.116Z</updated>
-        <content type="html"><![CDATA[3:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[루토가 유도가 되는 매직? 믕냥즈팀의 고요 속의 외침 머니?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/37703538</id>
-        <link href="https://tv.naver.com/v/37703538"/>
-        <updated>2023-07-05T11:11:46.133Z</updated>
-        <content type="html"><![CDATA[3:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T5가 뮤비 나오면 하는 것 = 목욕🛁?  채소즈의 고요 속의 외침 머니?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/37703535</id>
-        <link href="https://tv.naver.com/v/37703535"/>
-        <updated>2023-07-05T11:11:46.134Z</updated>
-        <content type="html"><![CDATA[3:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂왜? 왜? 왜??＂ 트레저 너 T야..? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/37703305</id>
-        <link href="https://tv.naver.com/v/37703305"/>
-        <updated>2023-07-05T11:11:46.134Z</updated>
-        <content type="html"><![CDATA[1:53]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
