@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-14T09:13:19.210Z</updated>
+    <updated>2023-07-14T10:14:40.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 622회 &TEAM편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/38047597</id>
+        <link href="https://tv.naver.com/v/38047597"/>
+        <updated>2023-07-14T10:14:33.549Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] NMIXX (엔믹스) - Party O'Clock l EP.621 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/37909024</id>
@@ -205,13 +212,6 @@
         <id>https://tv.naver.com/v/37689279</id>
         <link href="https://tv.naver.com/v/37689279"/>
         <updated>2023-07-05T12:29:27.217Z</updated>
-        <content type="html"><![CDATA[3:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] TREASURE JIHOON - MOVE (T5) (트레저 지훈 - 무브 (T5)) l EP.620 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/37689081</id>
-        <link href="https://tv.naver.com/v/37689081"/>
-        <updated>2023-07-05T12:29:27.218Z</updated>
         <content type="html"><![CDATA[3:33]]></content>
     </entry>
     <entry>
