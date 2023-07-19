@@ -2,9 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-07-19T11:10:31.929Z</updated>
+    <updated>2023-07-19T12:22:42.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] &TEAM - Butter (원곡 : BTS) (앤팀 - 버터) l EP.622]]></title>
+        <id>https://tv.naver.com/v/38200307</id>
+        <link href="https://tv.naver.com/v/38200307"/>
+        <updated>2023-07-19T12:22:37.227Z</updated>
+        <content type="html"><![CDATA[2:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] &TEAM - Butter (원곡 : BTS) (앤팀 - 버터) l EP.622]]></title>
+        <id>https://tv.naver.com/v/38199774</id>
+        <link href="https://tv.naver.com/v/38199774"/>
+        <updated>2023-07-19T12:22:37.230Z</updated>
+        <content type="html"><![CDATA[2:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] &TEAM FUMA - FIREWORK (Korean ver.) (앤팀 후마 - 파이어워크) l EP.622]]></title>
+        <id>https://tv.naver.com/v/38192431</id>
+        <link href="https://tv.naver.com/v/38192431"/>
+        <updated>2023-07-19T12:22:37.230Z</updated>
+        <content type="html"><![CDATA[3:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] &TEAM HARUA - FIREWORK (Korean ver.) (앤팀 하루아 - 파이어워크) l EP.622]]></title>
+        <id>https://tv.naver.com/v/38192282</id>
+        <link href="https://tv.naver.com/v/38192282"/>
+        <updated>2023-07-19T12:22:37.230Z</updated>
+        <content type="html"><![CDATA[3:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] &TEAM TAKI - FIREWORK (Korean ver.) (앤팀 타키 - 파이어워크) l EP.622]]></title>
+        <id>https://tv.naver.com/v/38192087</id>
+        <link href="https://tv.naver.com/v/38192087"/>
+        <updated>2023-07-19T12:22:37.230Z</updated>
+        <content type="html"><![CDATA[3:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] &TEAM K - FIREWORK (Korean ver.) (앤팀 케이 - 파이어워크) l EP.622]]></title>
+        <id>https://tv.naver.com/v/38191939</id>
+        <link href="https://tv.naver.com/v/38191939"/>
+        <updated>2023-07-19T12:22:37.230Z</updated>
+        <content type="html"><![CDATA[3:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] &TEAM JO - FIREWORK (Korean ver.) (앤팀 조 - 파이어워크) l EP.622]]></title>
+        <id>https://tv.naver.com/v/38191550</id>
+        <link href="https://tv.naver.com/v/38191550"/>
+        <updated>2023-07-19T12:22:37.235Z</updated>
+        <content type="html"><![CDATA[3:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] &TEAM EJ - FIREWORK (Korean ver.) (앤팀 의주 - 파이어워크) l EP.622]]></title>
+        <id>https://tv.naver.com/v/38191242</id>
+        <link href="https://tv.naver.com/v/38191242"/>
+        <updated>2023-07-19T12:22:37.235Z</updated>
+        <content type="html"><![CDATA[3:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] &TEAM YUMA - FIREWORK (Korean ver.) (앤팀 유마 - 파이어워크) l EP.622]]></title>
+        <id>https://tv.naver.com/v/38191211</id>
+        <link href="https://tv.naver.com/v/38191211"/>
+        <updated>2023-07-19T12:22:37.239Z</updated>
+        <content type="html"><![CDATA[3:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] &TEAM MAKI - FIREWORK (Korean ver.) (앤팀 마키 - 파이어워크) l EP.622]]></title>
+        <id>https://tv.naver.com/v/38190718</id>
+        <link href="https://tv.naver.com/v/38190718"/>
+        <updated>2023-07-19T12:22:37.239Z</updated>
+        <content type="html"><![CDATA[3:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] &TEAM NICHOLAS - FIREWORK (Korean ver.) (앤팀 니콜라스 - 파이어워크) l EP.622]]></title>
+        <id>https://tv.naver.com/v/38190683</id>
+        <link href="https://tv.naver.com/v/38190683"/>
+        <updated>2023-07-19T12:22:37.239Z</updated>
+        <content type="html"><![CDATA[3:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist] &TEAM이 그렇게나 춤 잘 춘다면서? ㅇㅇ당연함! 루네들의 심장을 녹여버릴 아주 강렬한 무대♥ BTS ＜Butter＞ l EP.622]]></title>
+        <id>https://tv.naver.com/v/38190185</id>
+        <link href="https://tv.naver.com/v/38190185"/>
+        <updated>2023-07-19T12:22:37.242Z</updated>
+        <content type="html"><![CDATA[2:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
+        <id>https://tv.naver.com/v/38193954</id>
+        <link href="https://tv.naver.com/v/38193954"/>
+        <updated>2023-07-19T12:22:37.245Z</updated>
+        <content type="html"><![CDATA[0:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 돌아온 메아리모드🤣 M자 팀의 K-스피드 퀴즈]]></title>
         <id>https://tv.naver.com/v/38212223</id>
@@ -123,96 +214,5 @@
         <link href="https://tv.naver.com/v/37909024"/>
         <updated>2023-07-12T12:27:40.545Z</updated>
         <content type="html"><![CDATA[3:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] NMIXX (엔믹스) - Party O'Clock l EP.621]]></title>
-        <id>https://tv.naver.com/v/37908591</id>
-        <link href="https://tv.naver.com/v/37908591"/>
-        <updated>2023-07-12T12:27:40.548Z</updated>
-        <content type="html"><![CDATA[3:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] NMIXX JIWOO - Party O'Clock (엔믹스 지우 - 파티 어 클락) l EP.621]]></title>
-        <id>https://tv.naver.com/v/37943662</id>
-        <link href="https://tv.naver.com/v/37943662"/>
-        <updated>2023-07-12T12:27:40.551Z</updated>
-        <content type="html"><![CDATA[3:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] NMIXX SULLYOON - Party O'Clock (엔믹스 설윤 - 파티 어 클락) l EP.621]]></title>
-        <id>https://tv.naver.com/v/37943465</id>
-        <link href="https://tv.naver.com/v/37943465"/>
-        <updated>2023-07-12T12:27:40.553Z</updated>
-        <content type="html"><![CDATA[3:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] NMIXX HAEWON - Party O'Clock (엔믹스 해원 - 파티 어 클락) l EP.621]]></title>
-        <id>https://tv.naver.com/v/37943109</id>
-        <link href="https://tv.naver.com/v/37943109"/>
-        <updated>2023-07-12T12:27:40.580Z</updated>
-        <content type="html"><![CDATA[3:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] NMIXX KYUJIN - Party O'Clock (엔믹스 규진 - 파티 어 클락) l EP.621]]></title>
-        <id>https://tv.naver.com/v/37943056</id>
-        <link href="https://tv.naver.com/v/37943056"/>
-        <updated>2023-07-12T12:27:40.582Z</updated>
-        <content type="html"><![CDATA[3:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] NMIXX LILY - Party O'Clock (엔믹스 릴리 - 파티 어 클락) l EP.621]]></title>
-        <id>https://tv.naver.com/v/37942851</id>
-        <link href="https://tv.naver.com/v/37942851"/>
-        <updated>2023-07-12T12:27:40.582Z</updated>
-        <content type="html"><![CDATA[3:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] NMIXX BAE - Party O'Clock (엔믹스 배이 - 파티 어 클락) l EP.621]]></title>
-        <id>https://tv.naver.com/v/37942469</id>
-        <link href="https://tv.naver.com/v/37942469"/>
-        <updated>2023-07-12T12:27:40.583Z</updated>
-        <content type="html"><![CDATA[3:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
-        <id>https://tv.naver.com/v/37946486</id>
-        <link href="https://tv.naver.com/v/37946486"/>
-        <updated>2023-07-12T12:27:40.585Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[짱믹스 너무 잘하잖아..✨ 엔믹스의 랜플댄 2차 도전💃]]></title>
-        <id>https://tv.naver.com/v/37959059</id>
-        <link href="https://tv.naver.com/v/37959059"/>
-        <updated>2023-07-12T11:11:22.356Z</updated>
-        <content type="html"><![CDATA[1:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[랜플댄 첫 도전에 명예의 전당까지 성공!? 엔믹스의 203 랜플 더 넥스트 레벨]]></title>
-        <id>https://tv.naver.com/v/37959246</id>
-        <link href="https://tv.naver.com/v/37959246"/>
-        <updated>2023-07-12T11:11:22.363Z</updated>
-        <content type="html"><![CDATA[2:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂왜 네가 맞히고 있어🔥＂ 출제자가 바뀐 동갑즈 설윤, 배이의 고요 속의 외침]]></title>
-        <id>https://tv.naver.com/v/37959057</id>
-        <link href="https://tv.naver.com/v/37959057"/>
-        <updated>2023-07-12T11:11:22.363Z</updated>
-        <content type="html"><![CDATA[3:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그건 너라서 그래 단호박이 된 해원? 부은 얼굴 VS 핸드폰 엔믹스의 선택은?]]></title>
-        <id>https://tv.naver.com/v/37959056</id>
-        <link href="https://tv.naver.com/v/37959056"/>
-        <updated>2023-07-12T11:11:22.364Z</updated>
-        <content type="html"><![CDATA[3:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이게... 되네..? 연속 정답행진! 언니즈 릴리, 해원의 고요 속의 외침]]></title>
-        <id>https://tv.naver.com/v/37959020</id>
-        <link href="https://tv.naver.com/v/37959020"/>
-        <updated>2023-07-12T11:11:22.364Z</updated>
-        <content type="html"><![CDATA[3:10]]></content>
     </entry>
 </feed>
