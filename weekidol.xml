@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-07-20T11:10:43.263Z</updated>
+    <updated>2023-07-20T12:24:30.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] &TEAM -FIREWORK (Korean ver.) (앤팀 - 파이어워크) l EP.622]]></title>
+        <id>https://tv.naver.com/v/38201595</id>
+        <link href="https://tv.naver.com/v/38201595"/>
+        <updated>2023-07-20T12:24:22.425Z</updated>
+        <content type="html"><![CDATA[3:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] &TEAM - FIREWORK (Korean ver.) (앤팀 - 파이어워크) l EP.622]]></title>
+        <id>https://tv.naver.com/v/38201328</id>
+        <link href="https://tv.naver.com/v/38201328"/>
+        <updated>2023-07-20T12:24:22.425Z</updated>
+        <content type="html"><![CDATA[3:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] &TEAM - Butter (원곡 : BTS) (앤팀 - 버터) l EP.622]]></title>
         <id>https://tv.naver.com/v/38200307</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/38122863"/>
         <updated>2023-07-18T01:29:03.865Z</updated>
         <content type="html"><![CDATA[1:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 622회 &TEAM편 예고]]></title>
-        <id>https://tv.naver.com/v/38047597</id>
-        <link href="https://tv.naver.com/v/38047597"/>
-        <updated>2023-07-14T10:14:33.549Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] NMIXX (엔믹스) - Party O'Clock l EP.621]]></title>
-        <id>https://tv.naver.com/v/37909024</id>
-        <link href="https://tv.naver.com/v/37909024"/>
-        <updated>2023-07-12T12:27:40.545Z</updated>
-        <content type="html"><![CDATA[3:16]]></content>
     </entry>
 </feed>
