@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-24T23:12:12.277Z</updated>
+    <updated>2023-07-25T01:08:23.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 소듕한 우리 짱구리 생일♥ 주간아가 일등으로다가 챙겨줄게(っ'-')╮=͟͟͞♡ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/38353618</id>
+        <link href="https://tv.naver.com/v/38353618"/>
+        <updated>2023-07-25T01:08:16.885Z</updated>
+        <content type="html"><![CDATA[1:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 아니 이런 소원까지 가능하다고?! 오직 제로즈를 위한 이.프.푸 챌린지 제로즈 볼 준비됐어!? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/38353561</id>
+        <link href="https://tv.naver.com/v/38353561"/>
+        <updated>2023-07-25T01:08:16.889Z</updated>
+        <content type="html"><![CDATA[1:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 623회 ZEROBASEONE편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/38285821</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/38210652"/>
         <updated>2023-07-19T11:10:25.160Z</updated>
         <content type="html"><![CDATA[1:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간 신곡] 루네들을 위한 앤둥이들의 불꽃같은 무대🔥 &TEAM (앤팀)의 ‘FIREWORK (Korean ver.)'♬ l EP.622 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/38190148</id>
-        <link href="https://tv.naver.com/v/38190148"/>
-        <updated>2023-07-19T11:10:25.174Z</updated>
-        <content type="html"><![CDATA[3:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 모이세요~모이세요~ 여기가 앤팀의 ‘FIREWORK (Korean ver.)' 2배속 댄스를 볼 수 있는 1열 자리입니다~! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/38122914</id>
-        <link href="https://tv.naver.com/v/38122914"/>
-        <updated>2023-07-18T01:29:03.865Z</updated>
-        <content type="html"><![CDATA[2:23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
