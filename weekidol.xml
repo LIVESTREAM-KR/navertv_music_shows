@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-07-30T08:13:34.960Z</updated>
+    <updated>2023-07-30T09:10:48.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 미방] 오또케송💗 제로베이스원 Full ver. l EP.623]]></title>
+        <id>https://tv.naver.com/v/38504712</id>
+        <link href="https://tv.naver.com/v/38504712"/>
+        <updated>2023-07-30T09:10:41.600Z</updated>
+        <content type="html"><![CDATA[2:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 미방] 개인기 시간에 벌어진 타키가 MC은광이랑 어색해질 뻔한 사건★ l EP.622]]></title>
         <id>https://tv.naver.com/v/38508706</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38418817"/>
         <updated>2023-07-26T11:10:30.348Z</updated>
         <content type="html"><![CDATA[3:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 소듕한 우리 짱구리 생일♥ 주간아가 일등으로다가 챙겨줄게(っ'-')╮=͟͟͞♡]]></title>
-        <id>https://tv.naver.com/v/38353618</id>
-        <link href="https://tv.naver.com/v/38353618"/>
-        <updated>2023-07-25T01:08:16.885Z</updated>
-        <content type="html"><![CDATA[1:01]]></content>
     </entry>
 </feed>
