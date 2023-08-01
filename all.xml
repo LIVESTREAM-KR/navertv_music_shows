@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-31T23:12:05.104Z</updated>
+    <updated>2023-08-01T01:26:35.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] P와 J의 여행계획! 유정과 유나 중 같이 여행을 가고 싶은 멤버는??(ㆁᴗㆁ✿)b (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/38581450</id>
+        <link href="https://tv.naver.com/v/38581450"/>
+        <updated>2023-08-01T01:26:27.368Z</updated>
+        <content type="html"><![CDATA[1:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 쁘걸 데뷔해야하는데 이거 맞아...? 언니들이 질색하는 유나의 조금 이상한(?) TMI! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/38581449</id>
+        <link href="https://tv.naver.com/v/38581449"/>
+        <updated>2023-08-01T01:26:27.372Z</updated>
+        <content type="html"><![CDATA[1:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 미방] 오또케송💗 제로베이스원 Full ver. l EP.623 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/38504712</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/38439082"/>
         <updated>2023-07-26T11:10:30.339Z</updated>
         <content type="html"><![CDATA[1:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂샤워하면서 왜 그러는 거야?＂ 제베원 숙소에서 벌어지는 일 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/38438825</id>
-        <link href="https://tv.naver.com/v/38438825"/>
-        <updated>2023-07-26T11:10:30.339Z</updated>
-        <content type="html"><![CDATA[1:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간 신곡] My day 시작과 끝은 제로즈🌹 찬란한 빛으로 세상을 물들일 ZEROBASEONE (제로베이스원)의 'In Bloom'♬ l EP.623 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/38418817</id>
-        <link href="https://tv.naver.com/v/38418817"/>
-        <updated>2023-07-26T11:10:30.348Z</updated>
-        <content type="html"><![CDATA[3:04]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
