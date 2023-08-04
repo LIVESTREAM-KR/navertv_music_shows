@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-08-04T09:11:33.565Z</updated>
+    <updated>2023-08-04T10:12:24.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 625회 TREASURE편 예고]]></title>
+        <id>https://tv.naver.com/v/38729178</id>
+        <link href="https://tv.naver.com/v/38729178"/>
+        <updated>2023-08-04T10:12:17.805Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 직캠 4K] BBGIRLS EUNJI - ONE MORE TIME (브브걸 은지 - 원 모어 타임) l EP.624]]></title>
         <id>https://tv.naver.com/v/38636627</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38393792"/>
         <updated>2023-07-26T12:25:04.796Z</updated>
         <content type="html"><![CDATA[3:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] ZEROBASEONE (제로베이스원) - In Bloom l EP.623]]></title>
-        <id>https://tv.naver.com/v/38393167</id>
-        <link href="https://tv.naver.com/v/38393167"/>
-        <updated>2023-07-26T12:25:04.796Z</updated>
-        <content type="html"><![CDATA[3:08]]></content>
     </entry>
 </feed>
