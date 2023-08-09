@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-08-09T10:13:16.297Z</updated>
+    <updated>2023-08-09T11:10:25.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[＂귀엽고 잘생기고 착하고 다하는 형?＂ 멤버들이 생각하는 요시]]></title>
+        <id>https://tv.naver.com/v/38886838</id>
+        <link href="https://tv.naver.com/v/38886838"/>
+        <updated>2023-08-09T11:10:19.717Z</updated>
+        <content type="html"><![CDATA[1:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도영이가 그렇다면 앞으로 우린 달간아야..🥰 아재개그 장인 도영]]></title>
+        <id>https://tv.naver.com/v/38886832</id>
+        <link href="https://tv.naver.com/v/38886832"/>
+        <updated>2023-08-09T11:10:19.717Z</updated>
+        <content type="html"><![CDATA[1:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한달만에 다시 온 짱레저💖 뜨거운 심장이 불러온 40시간 녹화?]]></title>
+        <id>https://tv.naver.com/v/38886779</id>
+        <link href="https://tv.naver.com/v/38886779"/>
+        <updated>2023-08-09T11:10:19.717Z</updated>
+        <content type="html"><![CDATA[1:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] 이유 모를 폭룡적 이끌림😍 이리 BONA 저리 BONA 빠질 수 밖에 없는 TREASURE (트레저)의 ‘BONA BONA' ♬ l EP.625]]></title>
+        <id>https://tv.naver.com/v/38864803</id>
+        <link href="https://tv.naver.com/v/38864803"/>
+        <updated>2023-08-09T11:10:19.719Z</updated>
+        <content type="html"><![CDATA[3:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 게임 좋아하는 짱레저! 하루 종일 게임하느냐 해가 지고 뜨는 걸 못 봤다?! 그 와중에 킹 받는 썰까지!?]]></title>
         <id>https://tv.naver.com/v/38805593</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/38581449"/>
         <updated>2023-08-01T01:26:27.372Z</updated>
         <content type="html"><![CDATA[1:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 미방] 오또케송💗 제로베이스원 Full ver. l EP.623]]></title>
-        <id>https://tv.naver.com/v/38504712</id>
-        <link href="https://tv.naver.com/v/38504712"/>
-        <updated>2023-07-30T09:10:41.600Z</updated>
-        <content type="html"><![CDATA[2:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 미방] 개인기 시간에 벌어진 타키가 MC은광이랑 어색해질 뻔한 사건★ l EP.622]]></title>
-        <id>https://tv.naver.com/v/38508706</id>
-        <link href="https://tv.naver.com/v/38508706"/>
-        <updated>2023-07-30T07:10:22.523Z</updated>
-        <content type="html"><![CDATA[1:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 미방 l 4K] 제로베이스원(ZB1)의 ＜누난 너무 예뻐 (Replay)＞ + ＜이브, 프시케 그리고 푸른 수염의 아내＞ 커버댄스 Full ver. l EP.623]]></title>
-        <id>https://tv.naver.com/v/38504707</id>
-        <link href="https://tv.naver.com/v/38504707"/>
-        <updated>2023-07-29T10:11:36.931Z</updated>
-        <content type="html"><![CDATA[1:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 미방] 안녕 올더케이팝이야... 한빈이 알랔댓과 유진이 무브 직캠을 가져왔어 (내 맘 알지?) l EP.623]]></title>
-        <id>https://tv.naver.com/v/38504710</id>
-        <link href="https://tv.naver.com/v/38504710"/>
-        <updated>2023-07-28T10:12:40.155Z</updated>
-        <content type="html"><![CDATA[1:52]]></content>
     </entry>
 </feed>
