@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-08-11T09:11:08.532Z</updated>
+    <updated>2023-08-11T10:11:55.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 626회 TAN편 예고]]></title>
+        <id>https://tv.naver.com/v/38968392</id>
+        <link href="https://tv.naver.com/v/38968392"/>
+        <updated>2023-08-11T10:11:50.004Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] TREASURE (트레저) - BONA BONA l EP.625]]></title>
         <id>https://tv.naver.com/v/38845183</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/38636627</id>
         <link href="https://tv.naver.com/v/38636627"/>
         <updated>2023-08-03T11:10:15.729Z</updated>
-        <content type="html"><![CDATA[3:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] BBGIRLS YOUJOUNG - ONE MORE TIME (브브걸 유정 - 원 모어 타임) l EP.624]]></title>
-        <id>https://tv.naver.com/v/38636450</id>
-        <link href="https://tv.naver.com/v/38636450"/>
-        <updated>2023-08-03T11:10:15.731Z</updated>
         <content type="html"><![CDATA[3:13]]></content>
     </entry>
 </feed>
