@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-08-16T10:12:23.404Z</updated>
+    <updated>2023-08-16T11:09:43.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] ONLY 소다들을 위한 티깅이들의 심쿵 유발 무대😍 TAN (티에이엔)의 ‘HEARTBEAT'♬ l EP.626]]></title>
+        <id>https://tv.naver.com/v/39103412</id>
+        <link href="https://tv.naver.com/v/39103412"/>
+        <updated>2023-08-16T11:09:37.070Z</updated>
+        <content type="html"><![CDATA[3:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 햇살 재준의 치명적인 귀여움 가득한 오또케송! 근데 이제 헬륨 과다인...]]></title>
         <id>https://tv.naver.com/v/39049343</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38805593"/>
         <updated>2023-08-08T00:58:48.935Z</updated>
         <content type="html"><![CDATA[1:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 나 진짜 ○○에게 너무 서운해! 어떻게 내가 준 핫도그를 거절할 수가 있어....? 상처받은 정환이의 사연은!?]]></title>
-        <id>https://tv.naver.com/v/38805385</id>
-        <link href="https://tv.naver.com/v/38805385"/>
-        <updated>2023-08-08T00:58:48.937Z</updated>
-        <content type="html"><![CDATA[1:16]]></content>
     </entry>
 </feed>
