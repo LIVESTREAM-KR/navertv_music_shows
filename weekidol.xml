@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-08-17T08:14:01.194Z</updated>
+    <updated>2023-08-17T09:11:56.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] TAN - S-Class (원곡 : Stray Kids) (티에이엔 - 특) l EP.626]]></title>
+        <id>https://tv.naver.com/v/39113157</id>
+        <link href="https://tv.naver.com/v/39113157"/>
+        <updated>2023-08-17T09:11:49.684Z</updated>
+        <content type="html"><![CDATA[3:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] TAN - S-Class (원곡 : Stray Kids) (티에이엔 - 특) l EP.626]]></title>
+        <id>https://tv.naver.com/v/39112916</id>
+        <link href="https://tv.naver.com/v/39112916"/>
+        <updated>2023-08-17T09:11:49.686Z</updated>
+        <content type="html"><![CDATA[3:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] TAN(티에이엔) - HEARTBEAT l EP.626]]></title>
         <id>https://tv.naver.com/v/39121115</id>
@@ -199,20 +213,6 @@
         <id>https://tv.naver.com/v/38866379</id>
         <link href="https://tv.naver.com/v/38866379"/>
         <updated>2023-08-09T12:24:19.306Z</updated>
-        <content type="html"><![CDATA[3:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] TREASURE CHOI HYUN SUK - BONA BONA (트레저 최현석 - 보나 보나) l EP.625]]></title>
-        <id>https://tv.naver.com/v/38866258</id>
-        <link href="https://tv.naver.com/v/38866258"/>
-        <updated>2023-08-09T12:24:19.306Z</updated>
-        <content type="html"><![CDATA[3:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] TREASURE JIHOON - BONA BONA (트레저 지훈 - 보나 보나) l EP.625]]></title>
-        <id>https://tv.naver.com/v/38866080</id>
-        <link href="https://tv.naver.com/v/38866080"/>
-        <updated>2023-08-09T12:24:19.310Z</updated>
         <content type="html"><![CDATA[3:38]]></content>
     </entry>
 </feed>
