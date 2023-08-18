@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-18T09:11:30.328Z</updated>
+    <updated>2023-08-18T10:12:37.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 627회 EVERGLOW편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/39205410</id>
+        <link href="https://tv.naver.com/v/39205410"/>
+        <updated>2023-08-18T10:12:30.162Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] TAN - S-Class (원곡 : Stray Kids) (티에이엔 - 특) l EP.626 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/39113157</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/38844892"/>
         <updated>2023-08-09T12:24:19.306Z</updated>
         <content type="html"><![CDATA[3:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] TREASURE HARUTO - BONA BONA (트레저 하루토 - 보나 보나) l EP.625 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/38866379</id>
-        <link href="https://tv.naver.com/v/38866379"/>
-        <updated>2023-08-09T12:24:19.306Z</updated>
-        <content type="html"><![CDATA[3:38]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
