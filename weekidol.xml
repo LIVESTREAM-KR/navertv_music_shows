@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-08-22T02:16:42.398Z</updated>
+    <updated>2023-08-22T03:12:16.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://tv.naver.com/v/39292083</id>
         <link href="https://tv.naver.com/v/39292083"/>
         <updated>2023-08-22T00:49:18.587Z</updated>
-        <content type="html"><![CDATA[1:51]]></content>
+        <content type="html"><![CDATA[1:52]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 627회 EVERGLOW편 예고]]></title>
