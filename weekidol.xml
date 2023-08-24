@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-08-24T08:14:02.973Z</updated>
+    <updated>2023-08-24T09:11:49.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] EVERGLOW - Shut Down (원곡 : BLACKPINK) (에버글로우 - 셧다운) l EP.627]]></title>
+        <id>https://tv.naver.com/v/39327998</id>
+        <link href="https://tv.naver.com/v/39327998"/>
+        <updated>2023-08-24T09:11:43.190Z</updated>
+        <content type="html"><![CDATA[1:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] EVERGLOW - Shut Down (원곡 : BLACKPINK) (에버글로우 - 셧다운) l EP.627]]></title>
+        <id>https://tv.naver.com/v/39327742</id>
+        <link href="https://tv.naver.com/v/39327742"/>
+        <updated>2023-08-24T09:11:43.194Z</updated>
+        <content type="html"><![CDATA[1:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] EVERGLOW(에버글로우) - SLAY l EP.627]]></title>
         <id>https://tv.naver.com/v/39326456</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/39120780"/>
         <updated>2023-08-16T12:20:52.356Z</updated>
         <content type="html"><![CDATA[3:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] TAN HYUNYEOP - HEARTBEAT (티에이엔 현엽 - 하트비트) l EP.626]]></title>
-        <id>https://tv.naver.com/v/39105152</id>
-        <link href="https://tv.naver.com/v/39105152"/>
-        <updated>2023-08-16T12:20:52.359Z</updated>
-        <content type="html"><![CDATA[3:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] TAN TAEHOON - HEARTBEAT (티에이엔 태훈 - 하트비트) l EP.626]]></title>
-        <id>https://tv.naver.com/v/39105002</id>
-        <link href="https://tv.naver.com/v/39105002"/>
-        <updated>2023-08-16T12:20:52.359Z</updated>
-        <content type="html"><![CDATA[3:19]]></content>
     </entry>
 </feed>
