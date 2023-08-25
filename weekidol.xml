@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-08-25T09:11:35.399Z</updated>
+    <updated>2023-08-25T10:11:53.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 628회 n.SSign편 예고]]></title>
+        <id>https://tv.naver.com/v/39463622</id>
+        <link href="https://tv.naver.com/v/39463622"/>
+        <updated>2023-08-25T10:11:47.098Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] EVERGLOW - Shut Down (원곡 : BLACKPINK) (에버글로우 - 셧다운) l EP.627]]></title>
         <id>https://tv.naver.com/v/39327998</id>
@@ -205,13 +212,6 @@
         <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] TAN(티에이엔) - HEARTBEAT l EP.626]]></title>
         <id>https://tv.naver.com/v/39121115</id>
         <link href="https://tv.naver.com/v/39121115"/>
-        <updated>2023-08-16T12:20:52.356Z</updated>
-        <content type="html"><![CDATA[3:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] TAN(티에이엔) -  HEARTBEAT l EP.626]]></title>
-        <id>https://tv.naver.com/v/39120780</id>
-        <link href="https://tv.naver.com/v/39120780"/>
         <updated>2023-08-16T12:20:52.356Z</updated>
         <content type="html"><![CDATA[3:24]]></content>
     </entry>
