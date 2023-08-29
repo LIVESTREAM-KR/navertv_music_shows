@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-28T23:11:27.003Z</updated>
+    <updated>2023-08-29T00:50:12.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 주간아 시그니처! 2배속 댄스₍₍(ว ˘ω˘ )ง⁾⁾ 안 빠른 것 같다고요?? 방심은 금물입니다(･ω＜)☆ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/39553540</id>
+        <link href="https://tv.naver.com/v/39553540"/>
+        <updated>2023-08-29T00:50:06.554Z</updated>
+        <content type="html"><![CDATA[2:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] ??? : 멤버들 몰래 치킨 먹은 썰 푼다(feat. 메소드 연기) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/39553537</id>
+        <link href="https://tv.naver.com/v/39553537"/>
+        <updated>2023-08-29T00:50:06.563Z</updated>
+        <content type="html"><![CDATA[1:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 628회 n.SSign편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/39463622</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/39113157"/>
         <updated>2023-08-17T09:11:49.684Z</updated>
         <content type="html"><![CDATA[3:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] TAN - S-Class (원곡 : Stray Kids) (티에이엔 - 특) l EP.626 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/39112916</id>
-        <link href="https://tv.naver.com/v/39112916"/>
-        <updated>2023-08-17T09:11:49.686Z</updated>
-        <content type="html"><![CDATA[3:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] TAN(티에이엔) - HEARTBEAT l EP.626 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/39121115</id>
-        <link href="https://tv.naver.com/v/39121115"/>
-        <updated>2023-08-16T12:20:52.356Z</updated>
-        <content type="html"><![CDATA[3:24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
