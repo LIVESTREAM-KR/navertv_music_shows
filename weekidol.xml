@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-08-30T10:12:07.174Z</updated>
+    <updated>2023-08-30T11:10:14.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] 최고를 넘어 새로운 패러다임이 되고자하는 거대한 포부를 담은 무대✨ n.SSign (엔싸인)의 ‘웜홀 (Wormhole: New Track)'♬ l EP.628]]></title>
+        <id>https://tv.naver.com/v/39630458</id>
+        <link href="https://tv.naver.com/v/39630458"/>
+        <updated>2023-08-30T11:10:06.471Z</updated>
+        <content type="html"><![CDATA[3:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 주간아 시그니처! 2배속 댄스₍₍(ว ˘ω˘ )ง⁾⁾ 안 빠른 것 같다고요?? 방심은 금물입니다(･ω＜)☆]]></title>
         <id>https://tv.naver.com/v/39553540</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39205410"/>
         <updated>2023-08-18T10:12:30.162Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] TAN - S-Class (원곡 : Stray Kids) (티에이엔 - 특) l EP.626]]></title>
-        <id>https://tv.naver.com/v/39113157</id>
-        <link href="https://tv.naver.com/v/39113157"/>
-        <updated>2023-08-17T09:11:49.684Z</updated>
-        <content type="html"><![CDATA[3:25]]></content>
     </entry>
 </feed>
