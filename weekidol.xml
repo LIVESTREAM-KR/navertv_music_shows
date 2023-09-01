@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-09-01T09:11:32.096Z</updated>
+    <updated>2023-09-01T10:12:37.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 629회 BOYNEXTDOOR편 예고]]></title>
+        <id>https://tv.naver.com/v/39728875</id>
+        <link href="https://tv.naver.com/v/39728875"/>
+        <updated>2023-09-01T10:11:57.344Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] n.SSign (엔싸인) - ISTJ (원곡 : NCT DREAM) l EP.628]]></title>
         <id>https://tv.naver.com/v/39630416</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39553537"/>
         <updated>2023-08-29T00:50:06.563Z</updated>
         <content type="html"><![CDATA[1:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 628회 n.SSign편 예고]]></title>
-        <id>https://tv.naver.com/v/39463622</id>
-        <link href="https://tv.naver.com/v/39463622"/>
-        <updated>2023-08-25T10:11:47.098Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
     </entry>
 </feed>
