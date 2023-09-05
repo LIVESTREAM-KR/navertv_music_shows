@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-09-04T23:10:57.678Z</updated>
+    <updated>2023-09-05T00:49:30.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[미방선공개] 명뭉이가 들려주는 감미로운 커버 무대♥ 정국 ＜Still With You＞ (듣고 나면 이제 다시는 못 들어요... 귀가 녹아서 청력을 잃음...)]]></title>
+        <id>https://tv.naver.com/v/39830806</id>
+        <link href="https://tv.naver.com/v/39830806"/>
+        <updated>2023-09-05T00:49:23.321Z</updated>
+        <content type="html"><![CDATA[1:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 황금 막내 운아기의 최초공개 개인기 볼 사람 여기여기 모여라- ̗̀( ˶'ᵕ'˶) ̖́- (feat. 자이언트마운틴)]]></title>
+        <id>https://tv.naver.com/v/39830324</id>
+        <link href="https://tv.naver.com/v/39830324"/>
+        <updated>2023-09-05T00:49:23.324Z</updated>
+        <content type="html"><![CDATA[1:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 629회 BOYNEXTDOOR편 예고]]></title>
         <id>https://tv.naver.com/v/39728875</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/39630458"/>
         <updated>2023-08-30T11:10:06.471Z</updated>
         <content type="html"><![CDATA[3:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 주간아 시그니처! 2배속 댄스₍₍(ว ˘ω˘ )ง⁾⁾ 안 빠른 것 같다고요?? 방심은 금물입니다(･ω＜)☆]]></title>
-        <id>https://tv.naver.com/v/39553540</id>
-        <link href="https://tv.naver.com/v/39553540"/>
-        <updated>2023-08-29T00:50:06.554Z</updated>
-        <content type="html"><![CDATA[2:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] ??? : 멤버들 몰래 치킨 먹은 썰 푼다(feat. 메소드 연기)]]></title>
-        <id>https://tv.naver.com/v/39553537</id>
-        <link href="https://tv.naver.com/v/39553537"/>
-        <updated>2023-08-29T00:50:06.563Z</updated>
-        <content type="html"><![CDATA[1:32]]></content>
     </entry>
 </feed>
