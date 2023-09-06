@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-09-06T10:12:10.873Z</updated>
+    <updated>2023-09-06T11:10:13.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간 신곡] 상처만 남은 첫사랑💔 이별의 양가 감정을 거칠고 솔직하게 담은 BOYNEXTDOOR (보이넥스트도어)의 ‘뭣 같아 (But Sometimes)'♬ l EP.629]]></title>
+        <id>https://tv.naver.com/v/39907340</id>
+        <link href="https://tv.naver.com/v/39907340"/>
+        <updated>2023-09-06T11:10:06.559Z</updated>
+        <content type="html"><![CDATA[2:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 미방직캠 4K] 😲우열을 가릴 수 없는 우당탕탕 섹시 댄스 배틀🔥 n.SSign 카즈타&로빈&한준 ＜카이 - 음(Mmmh)＞ l EP.628]]></title>
         <id>https://tv.naver.com/v/39911275</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39648107"/>
         <updated>2023-08-30T12:21:11.006Z</updated>
         <content type="html"><![CDATA[2:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂하나도 떨립니다(?)＂ 예능 삐약이 엔싸인 핫데뷔🔥]]></title>
-        <id>https://tv.naver.com/v/39648104</id>
-        <link href="https://tv.naver.com/v/39648104"/>
-        <updated>2023-08-30T12:21:11.008Z</updated>
-        <content type="html"><![CDATA[1:44]]></content>
     </entry>
 </feed>
