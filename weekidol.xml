@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-09-06T01:44:24.823Z</updated>
+    <updated>2023-09-06T02:17:38.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 미방직캠 4K] 😲우열을 가릴 수 없는 우당탕탕 섹시 댄스 배틀🔥 n.SSign 카즈타&로빈&한준 ＜카이 - 음(Mmmh)＞ l EP.628]]></title>
+        <id>https://tv.naver.com/v/39911275</id>
+        <link href="https://tv.naver.com/v/39911275"/>
+        <updated>2023-09-06T02:17:31.322Z</updated>
+        <content type="html"><![CDATA[1:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미방선공개] 명뭉이가 들려주는 감미로운 커버 무대♥ 정국 ＜Still With You＞ (듣고 나면 이제 다시는 못 들어요... 귀가 녹아서 청력을 잃음...)]]></title>
         <id>https://tv.naver.com/v/39830806</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39648104"/>
         <updated>2023-08-30T12:21:11.008Z</updated>
         <content type="html"><![CDATA[1:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간 신곡] 최고를 넘어 새로운 패러다임이 되고자하는 거대한 포부를 담은 무대✨ n.SSign (엔싸인)의 ‘웜홀 (Wormhole: New Track)'♬ l EP.628]]></title>
-        <id>https://tv.naver.com/v/39630458</id>
-        <link href="https://tv.naver.com/v/39630458"/>
-        <updated>2023-08-30T11:10:06.471Z</updated>
-        <content type="html"><![CDATA[3:49]]></content>
     </entry>
 </feed>
