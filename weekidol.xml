@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-09-10T23:11:27.292Z</updated>
+    <updated>2023-09-11T00:51:28.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 630회 CRAVITY편 예고]]></title>
+        <id>https://tv.naver.com/v/40028085</id>
+        <link href="https://tv.naver.com/v/40028085"/>
+        <updated>2023-09-11T00:51:21.087Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] BOYNEXTDOOR (보이넥스트도어) -  뭣 같아 l EP.629]]></title>
         <id>https://tv.naver.com/v/39911822</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/39629869</id>
         <link href="https://tv.naver.com/v/39629869"/>
         <updated>2023-08-30T12:21:10.950Z</updated>
-        <content type="html"><![CDATA[3:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] n.SSign HANJUN - Wormhole: New Track (엔싸인 한준 - 웜홀) l EP.628]]></title>
-        <id>https://tv.naver.com/v/39629819</id>
-        <link href="https://tv.naver.com/v/39629819"/>
-        <updated>2023-08-30T12:21:10.953Z</updated>
         <content type="html"><![CDATA[3:50]]></content>
     </entry>
 </feed>
