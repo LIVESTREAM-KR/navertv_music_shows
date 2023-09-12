@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-09-11T23:11:38.227Z</updated>
+    <updated>2023-09-12T00:49:19.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 정모가 또? 그칠줄 모르는 정모의 좀비 사랑...드디어 결실을 맺다!]]></title>
+        <id>https://tv.naver.com/v/40121786</id>
+        <link href="https://tv.naver.com/v/40121786"/>
+        <updated>2023-09-12T00:49:11.990Z</updated>
+        <content type="html"><![CDATA[3:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 축구 유니폼이 너무 사고 싶어서 멤버들과 쇼핑을 갔던 셂 근데 돈 쓴 건 원진이라고?]]></title>
+        <id>https://tv.naver.com/v/40120993</id>
+        <link href="https://tv.naver.com/v/40120993"/>
+        <updated>2023-09-12T00:49:11.993Z</updated>
+        <content type="html"><![CDATA[1:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 630회 CRAVITY편 예고]]></title>
         <id>https://tv.naver.com/v/40028085</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/39630010"/>
         <updated>2023-08-30T12:21:10.942Z</updated>
         <content type="html"><![CDATA[3:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] n.SSign (엔싸인)  - 웜홀 (Wormhole: New Track) l EP.628]]></title>
-        <id>https://tv.naver.com/v/39629656</id>
-        <link href="https://tv.naver.com/v/39629656"/>
-        <updated>2023-08-30T12:21:10.945Z</updated>
-        <content type="html"><![CDATA[3:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] n.SSign HUIWON - Wormhole: New Track (엔싸인 희원 - 웜홀) l EP.628]]></title>
-        <id>https://tv.naver.com/v/39629869</id>
-        <link href="https://tv.naver.com/v/39629869"/>
-        <updated>2023-08-30T12:21:10.950Z</updated>
-        <content type="html"><![CDATA[3:50]]></content>
     </entry>
 </feed>
