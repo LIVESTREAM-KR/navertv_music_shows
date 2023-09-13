@@ -2,8 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-13T11:10:08.610Z</updated>
+    <updated>2023-09-13T12:21:48.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] CRAVITY (크래비티) - Ready or Not l EP.630 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/40195061</id>
+        <link href="https://tv.naver.com/v/40195061"/>
+        <updated>2023-09-13T12:21:42.280Z</updated>
+        <content type="html"><![CDATA[3:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] CRAVITY (크래비티) - Ready or Not l EP.630 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/40195060</id>
+        <link href="https://tv.naver.com/v/40195060"/>
+        <updated>2023-09-13T12:21:42.281Z</updated>
+        <content type="html"><![CDATA[3:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 631회 EVNNE편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/40204642</id>
+        <link href="https://tv.naver.com/v/40204642"/>
+        <updated>2023-09-13T12:21:42.292Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY HYEONGJUN - Ready or Not (크래비티 형준 - 레디 오어 낫) l EP.630 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/40196612</id>
+        <link href="https://tv.naver.com/v/40196612"/>
+        <updated>2023-09-13T12:21:42.292Z</updated>
+        <content type="html"><![CDATA[3:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY TAEYOUNG - Ready or Not (크래비티 태영 - 레디 오어 낫) l EP.630 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/40196568</id>
+        <link href="https://tv.naver.com/v/40196568"/>
+        <updated>2023-09-13T12:21:42.292Z</updated>
+        <content type="html"><![CDATA[3:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY JUNGMO - Ready or Not (크래비티 정모 - 레디 오어 낫) l EP.630 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/40196381</id>
+        <link href="https://tv.naver.com/v/40196381"/>
+        <updated>2023-09-13T12:21:42.292Z</updated>
+        <content type="html"><![CDATA[3:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY WONJIN - Ready or Not (크래비티 원진 - 레디 오어 낫) l EP.630 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/40196380</id>
+        <link href="https://tv.naver.com/v/40196380"/>
+        <updated>2023-09-13T12:21:42.297Z</updated>
+        <content type="html"><![CDATA[3:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY WOOBIN - Ready or Not (크래비티 우빈 - 레디 오어 낫) l EP.630 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/40196219</id>
+        <link href="https://tv.naver.com/v/40196219"/>
+        <updated>2023-09-13T12:21:42.297Z</updated>
+        <content type="html"><![CDATA[3:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY ALLEN - Ready or Not (크래비티 앨런 - 레디 오어 낫) l EP.630 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/40195866</id>
+        <link href="https://tv.naver.com/v/40195866"/>
+        <updated>2023-09-13T12:21:42.297Z</updated>
+        <content type="html"><![CDATA[3:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY SERIM - Ready or Not (크래비티 세림 - 레디 오어 낫) l EP.630 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/40195692</id>
+        <link href="https://tv.naver.com/v/40195692"/>
+        <updated>2023-09-13T12:21:42.297Z</updated>
+        <content type="html"><![CDATA[3:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY SEONGMIN - Ready or Not (크래비티 성민 - 레디 오어 낫) l EP.630 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/40195557</id>
+        <link href="https://tv.naver.com/v/40195557"/>
+        <updated>2023-09-13T12:21:42.301Z</updated>
+        <content type="html"><![CDATA[3:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY MINHEE - Ready or Not (크래비티 민희 - 레디 오어 낫) l EP.630 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/40195441</id>
+        <link href="https://tv.naver.com/v/40195441"/>
+        <updated>2023-09-13T12:21:42.303Z</updated>
+        <content type="html"><![CDATA[3:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[랜플댄 국대가 목표? 크래비티의 2023 랜플댄 도전🔥 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/40220832</id>
@@ -129,90 +213,6 @@
         <link href="https://tv.naver.com/v/39908521"/>
         <updated>2023-09-06T12:21:25.563Z</updated>
         <content type="html"><![CDATA[3:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] BOYNEXTDOOR WOONHAK - But Sometimes (보이넥스트도어 운학 - 뭣 같아) l EP.629 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/39908519</id>
-        <link href="https://tv.naver.com/v/39908519"/>
-        <updated>2023-09-06T12:21:25.565Z</updated>
-        <content type="html"><![CDATA[3:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] BOYNEXTDOOR SUNGHO - But Sometimes (보이넥스트도어 성호 - 뭣 같아) l EP.629 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/39908110</id>
-        <link href="https://tv.naver.com/v/39908110"/>
-        <updated>2023-09-06T12:21:25.568Z</updated>
-        <content type="html"><![CDATA[3:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] BOYNEXTDOOR RIWOO - But Sometimes (보이넥스트도어 리우 - 뭣 같아) l EP.629 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/39907899</id>
-        <link href="https://tv.naver.com/v/39907899"/>
-        <updated>2023-09-06T12:21:25.578Z</updated>
-        <content type="html"><![CDATA[3:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/39914641</id>
-        <link href="https://tv.naver.com/v/39914641"/>
-        <updated>2023-09-06T12:21:25.580Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옆집강아지가 너무 빨라! 방어 폼 美친 보넥가드 뿅망치 예선 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/39938797</id>
-        <link href="https://tv.naver.com/v/39938797"/>
-        <updated>2023-09-06T12:21:25.582Z</updated>
-        <content type="html"><![CDATA[3:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보넥도가 말아주는 K-POP? 달다🥰 K-POP 1초 퀴즈대결🕺 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/39938750</id>
-        <link href="https://tv.naver.com/v/39938750"/>
-        <updated>2023-09-06T12:21:25.585Z</updated>
-        <content type="html"><![CDATA[5:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버퍼링 걸린 운아기? 보넥가드 뿅망치 결승전🏆 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/39938504</id>
-        <link href="https://tv.naver.com/v/39938504"/>
-        <updated>2023-09-06T12:21:25.592Z</updated>
-        <content type="html"><![CDATA[2:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밥보다 젤리💖 젤리 박사 이한의 젤리 맞히기 도전 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/39938502</id>
-        <link href="https://tv.naver.com/v/39938502"/>
-        <updated>2023-09-06T12:21:25.592Z</updated>
-        <content type="html"><![CDATA[4:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용돈 4배로 주고 싶은 재현x태산x이한x운학의 오또케송🥰 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/39938245</id>
-        <link href="https://tv.naver.com/v/39938245"/>
-        <updated>2023-09-06T12:21:25.592Z</updated>
-        <content type="html"><![CDATA[3:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무대 위에선 도도한 고양이 무대 아래에선 귀염둥이? 성호&리우의 오또케송 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/39938051</id>
-        <link href="https://tv.naver.com/v/39938051"/>
-        <updated>2023-09-06T12:21:25.593Z</updated>
-        <content type="html"><![CDATA[2:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아 최초 공개! 명재현&성호의 성대모사 개인기 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/39938049</id>
-        <link href="https://tv.naver.com/v/39938049"/>
-        <updated>2023-09-06T12:21:25.594Z</updated>
-        <content type="html"><![CDATA[2:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂숨만 쉬어도 귀여워...💕＂ 보넥도가 뽑은 최애멤버는? (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/39938043</id>
-        <link href="https://tv.naver.com/v/39938043"/>
-        <updated>2023-09-06T12:21:25.595Z</updated>
-        <content type="html"><![CDATA[5:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
