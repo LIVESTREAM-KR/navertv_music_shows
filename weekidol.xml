@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-09-21T08:15:41.876Z</updated>
+    <updated>2023-09-21T09:12:46.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] EVNNE - Bite Me (원곡 : 엔하이픈) (이븐 - 바이트 미) l EP.631]]></title>
+        <id>https://tv.naver.com/v/40538486</id>
+        <link href="https://tv.naver.com/v/40538486"/>
+        <updated>2023-09-21T09:12:38.025Z</updated>
+        <content type="html"><![CDATA[2:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] EVNNE - Bite Me (원곡 : 엔하이픈) (이븐 - 바이트 미) l EP.631]]></title>
+        <id>https://tv.naver.com/v/40538379</id>
+        <link href="https://tv.naver.com/v/40538379"/>
+        <updated>2023-09-21T09:12:38.028Z</updated>
+        <content type="html"><![CDATA[2:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] EVNNE (이븐) -  TROUBLE l EP.631]]></title>
         <id>https://tv.naver.com/v/40491089</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/40204642"/>
         <updated>2023-09-13T12:21:42.292Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY HYEONGJUN - Ready or Not (크래비티 형준 - 레디 오어 낫) l EP.630]]></title>
-        <id>https://tv.naver.com/v/40196612</id>
-        <link href="https://tv.naver.com/v/40196612"/>
-        <updated>2023-09-13T12:21:42.292Z</updated>
-        <content type="html"><![CDATA[3:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] CRAVITY TAEYOUNG - Ready or Not (크래비티 태영 - 레디 오어 낫) l EP.630]]></title>
-        <id>https://tv.naver.com/v/40196568</id>
-        <link href="https://tv.naver.com/v/40196568"/>
-        <updated>2023-09-13T12:21:42.292Z</updated>
-        <content type="html"><![CDATA[3:17]]></content>
     </entry>
 </feed>
