@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-09-22T09:11:49.069Z</updated>
+    <updated>2023-09-22T10:12:46.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 632회 FANTASY BOYS편 예고]]></title>
+        <id>https://tv.naver.com/v/40602011</id>
+        <link href="https://tv.naver.com/v/40602011"/>
+        <updated>2023-09-22T10:12:39.560Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] EVNNE - Bite Me (원곡 : 엔하이픈) (이븐 - 바이트 미) l EP.631]]></title>
         <id>https://tv.naver.com/v/40538486</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40195060"/>
         <updated>2023-09-13T12:21:42.281Z</updated>
         <content type="html"><![CDATA[3:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 631회 EVNNE편 예고]]></title>
-        <id>https://tv.naver.com/v/40204642</id>
-        <link href="https://tv.naver.com/v/40204642"/>
-        <updated>2023-09-13T12:21:42.292Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
     </entry>
 </feed>
