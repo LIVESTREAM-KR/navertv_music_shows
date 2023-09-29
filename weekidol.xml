@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-09-29T09:11:56.597Z</updated>
+    <updated>2023-09-29T10:12:33.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 633회 온앤오프편 예고]]></title>
+        <id>https://tv.naver.com/v/40773250</id>
+        <link href="https://tv.naver.com/v/40773250"/>
+        <updated>2023-09-29T10:12:27.460Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] FANTASY BOYS - Super (원곡 : 세븐틴) (판타지 보이즈 - 손오공) l EP.632]]></title>
         <id>https://tv.naver.com/v/40696131</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40693776"/>
         <updated>2023-09-26T00:51:15.298Z</updated>
         <content type="html"><![CDATA[1:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 귤애가 기다리고 기다리던 야자타임٩(˙ ˆ ˙ )۶ 막내온탑 규래의 무서움을 보여주겠어 ୧(๑•̀ᗝ•́)૭]]></title>
-        <id>https://tv.naver.com/v/40693774</id>
-        <link href="https://tv.naver.com/v/40693774"/>
-        <updated>2023-09-26T00:51:15.298Z</updated>
-        <content type="html"><![CDATA[1:37]]></content>
     </entry>
 </feed>
