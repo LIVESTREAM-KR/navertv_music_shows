@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-10-02T23:11:50.556Z</updated>
+    <updated>2023-10-03T00:52:16.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 시력은 ON 청력은 OFF 온앤옾만의 소름 돋는 티키타카 대잔치★]]></title>
+        <id>https://tv.naver.com/v/40893944</id>
+        <link href="https://tv.naver.com/v/40893944"/>
+        <updated>2023-10-03T00:52:08.432Z</updated>
+        <content type="html"><![CDATA[1:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 주간아와 군대 입대/재대의 순간을 함께 해준 온앤옾♥ 그래서 주간아가 준비한 서프라이즈 코너!]]></title>
+        <id>https://tv.naver.com/v/40893943</id>
+        <link href="https://tv.naver.com/v/40893943"/>
+        <updated>2023-10-03T00:52:08.434Z</updated>
+        <content type="html"><![CDATA[1:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 633회 온앤오프편 예고]]></title>
         <id>https://tv.naver.com/v/40773250</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/40771076"/>
         <updated>2023-09-27T11:10:09.715Z</updated>
         <content type="html"><![CDATA[3:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간신곡] 미래를 향해 힘차게 나아가는 소년들✨ 오랫동안 기다렸왔던 찬란한 FANTASY BOYS (판타지 보이즈) ‘New Tomorrow' ♬ l EP.632]]></title>
-        <id>https://tv.naver.com/v/40770483</id>
-        <link href="https://tv.naver.com/v/40770483"/>
-        <updated>2023-09-27T11:10:09.717Z</updated>
-        <content type="html"><![CDATA[3:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 댄스부심 넘치는 판타지베이비들! K-POP 랜덤 플레이 댄스로 검증 들어간다✦‿✦]]></title>
-        <id>https://tv.naver.com/v/40693776</id>
-        <link href="https://tv.naver.com/v/40693776"/>
-        <updated>2023-09-26T00:51:15.298Z</updated>
-        <content type="html"><![CDATA[1:43]]></content>
     </entry>
 </feed>
