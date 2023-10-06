@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-10-06T09:12:05.728Z</updated>
+    <updated>2023-10-06T10:12:43.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 634회 LIGHTSUM편 예고]]></title>
+        <id>https://tv.naver.com/v/41056745</id>
+        <link href="https://tv.naver.com/v/41056745"/>
+        <updated>2023-10-06T10:12:37.049Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 하드털이] MC 서은광(특: 본업 비투비) 앞에서 부르는 긴장 가득 무반주 라이브💗 FANTASY BOYS 이한빈 ＜비투비 - 그리워하다＞ l EP.632]]></title>
         <id>https://tv.naver.com/v/41011940</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40770077"/>
         <updated>2023-09-27T12:22:31.917Z</updated>
         <content type="html"><![CDATA[3:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] FANTASY BOYS HIKARI - New Tomorrow (판타지보이즈 히카리 - 뉴 투모로우) l EP.632]]></title>
-        <id>https://tv.naver.com/v/40769880</id>
-        <link href="https://tv.naver.com/v/40769880"/>
-        <updated>2023-09-27T12:22:31.918Z</updated>
-        <content type="html"><![CDATA[3:54]]></content>
     </entry>
 </feed>
