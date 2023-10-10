@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-09T23:11:40.444Z</updated>
+    <updated>2023-10-10T00:51:27.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 흔들리는 닭 울음 속에서 짱잇썸 비명소리가 들리는거야~♪ (feat. 저주파 장갑) (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/41166943</id>
+        <link href="https://tv.naver.com/v/41166943"/>
+        <updated>2023-10-10T00:51:20.334Z</updated>
+        <content type="html"><![CDATA[1:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 짱잇썸 : 실버라이트 미담 SSUL 푼다. 거기에 미주 언냐 미담까지 더해진....♥ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/41166941</id>
+        <link href="https://tv.naver.com/v/41166941"/>
+        <updated>2023-10-10T00:51:20.334Z</updated>
+        <content type="html"><![CDATA[1:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 634회 LIGHTSUM편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/41056745</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/40731502"/>
         <updated>2023-09-27T12:22:31.910Z</updated>
         <content type="html"><![CDATA[4:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] FANTASY BOYS (판타지 보이즈) -  New Tomorrow l EP.632 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/40725071</id>
-        <link href="https://tv.naver.com/v/40725071"/>
-        <updated>2023-09-27T12:22:31.913Z</updated>
-        <content type="html"><![CDATA[4:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] FANTASY BOYS Hong Sung Min - New Tomorrow (판타지보이즈 홍성민 - 뉴 투모로우) l EP.632 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/40770077</id>
-        <link href="https://tv.naver.com/v/40770077"/>
-        <updated>2023-09-27T12:22:31.917Z</updated>
-        <content type="html"><![CDATA[3:55]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
