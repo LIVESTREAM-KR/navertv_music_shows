@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-12T08:15:26.778Z</updated>
+    <updated>2023-10-12T09:12:13.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 짐벌캠] LIGHTSUM(라잇썸) - 퀸카 (Queencard) (원곡 : (여자)아이들) l EP.634 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/41266897</id>
+        <link href="https://tv.naver.com/v/41266897"/>
+        <updated>2023-10-12T09:12:07.056Z</updated>
+        <content type="html"><![CDATA[2:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Weekly Playlist l 4K캠 현장음ver.] LIGHTSUM(라잇썸) - 퀸카 (Queencard) (원곡 : (여자)아이들) l EP.634 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/41266895</id>
+        <link href="https://tv.naver.com/v/41266895"/>
+        <updated>2023-10-12T09:12:07.066Z</updated>
+        <content type="html"><![CDATA[2:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 짐벌캠 l 4K] LIGHTSUM (라잇썸) - Honey or Spice l EP.634 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/41058318</id>
@@ -198,20 +212,6 @@
         <id>https://tv.naver.com/v/40975052</id>
         <link href="https://tv.naver.com/v/40975052"/>
         <updated>2023-10-04T12:23:14.911Z</updated>
-        <content type="html"><![CDATA[2:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] ONF WYATT - Love Effect (온앤오프 와이엇 - 바람이 분다) l EP.633 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/40963883</id>
-        <link href="https://tv.naver.com/v/40963883"/>
-        <updated>2023-10-04T12:23:14.911Z</updated>
-        <content type="html"><![CDATA[2:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] ONF U - Love Effect (온앤오프 유 - 바람이 분다) l EP.633 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/40963666</id>
-        <link href="https://tv.naver.com/v/40963666"/>
-        <updated>2023-10-04T12:23:14.912Z</updated>
         <content type="html"><![CDATA[2:58]]></content>
     </entry>
     <entry>
