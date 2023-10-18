@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-18T11:10:46.853Z</updated>
+    <updated>2023-10-18T12:23:05.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 다다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/41551509</id>
+        <link href="https://tv.naver.com/v/41551509"/>
+        <updated>2023-10-18T12:22:59.229Z</updated>
+        <content type="html"><![CDATA[0:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[랜플댄 현장에 나타난 모기(?) 한 마리ㅋㅋ 아기브 3차 시도 그 결과는?! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/41548172</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/41235341"/>
         <updated>2023-10-11T11:10:16.986Z</updated>
         <content type="html"><![CDATA[2:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나영 : 판단은 내가 할게 초원이는 오구오구만 해줘^^♥ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/41234995</id>
-        <link href="https://tv.naver.com/v/41234995"/>
-        <updated>2023-10-11T11:10:16.991Z</updated>
-        <content type="html"><![CDATA[1:39]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
