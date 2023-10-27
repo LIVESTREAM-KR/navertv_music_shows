@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-10-27T09:11:53.379Z</updated>
+    <updated>2023-10-27T10:12:15.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 636회 골든차일드편 예고]]></title>
+        <id>https://tv.naver.com/v/41975614</id>
+        <link href="https://tv.naver.com/v/41975614"/>
+        <updated>2023-10-27T10:12:09.665Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 다다음 주 실루엣 예고]]></title>
         <id>https://tv.naver.com/v/41551509</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/41236210"/>
         <updated>2023-10-11T11:10:16.984Z</updated>
         <content type="html"><![CDATA[3:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선택의 기로에 선 순간! 라잇썸에게 더 필요한 사람은?]]></title>
-        <id>https://tv.naver.com/v/41235341</id>
-        <link href="https://tv.naver.com/v/41235341"/>
-        <updated>2023-10-11T11:10:16.986Z</updated>
-        <content type="html"><![CDATA[2:44]]></content>
     </entry>
 </feed>
