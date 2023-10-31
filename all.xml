@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-30T23:11:59.658Z</updated>
+    <updated>2023-10-31T00:52:39.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] ＜주간아의 야심찬 새 코너＞ 금둥이들이 특급 게스트와 펼치는 세기의 대결!! 지금 시작합니다! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/42080077</id>
+        <link href="https://tv.naver.com/v/42080077"/>
+        <updated>2023-10-31T00:52:32.278Z</updated>
+        <content type="html"><![CDATA[1:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 골차의 입덕 요정 지버미의 매력을 보여줘ε٩(๑＞ ₃ ＜)۶з (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/42079514</id>
+        <link href="https://tv.naver.com/v/42079514"/>
+        <updated>2023-10-31T00:52:32.281Z</updated>
+        <content type="html"><![CDATA[1:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 636회 골든차일드편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/41975614</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/41236839"/>
         <updated>2023-10-11T12:23:39.851Z</updated>
         <content type="html"><![CDATA[2:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닭 놔두고 서로 감전시키는 주현x유정 좀비들ㅋㅋ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/41236510</id>
-        <link href="https://tv.naver.com/v/41236510"/>
-        <updated>2023-10-11T12:23:39.852Z</updated>
-        <content type="html"><![CDATA[2:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW 줏대좌 탄생✨ 극단의 예시에도 흔들리지 않는 신념의 주현😮 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/41236210</id>
-        <link href="https://tv.naver.com/v/41236210"/>
-        <updated>2023-10-11T11:10:16.984Z</updated>
-        <content type="html"><![CDATA[3:50]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
