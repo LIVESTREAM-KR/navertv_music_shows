@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-11-01T10:12:35.533Z</updated>
+    <updated>2023-11-01T11:10:18.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이장준의 체지방 9% 복근 공개부터 랩, 보컬까지 매력 대방출!🤭]]></title>
+        <id>https://tv.naver.com/v/42189246</id>
+        <link href="https://tv.naver.com/v/42189246"/>
+        <updated>2023-11-01T11:10:10.433Z</updated>
+        <content type="html"><![CDATA[1:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[골든차일드 멤버들이 뽑은 입덕 요정 🤍이댈찌🤍의 플러팅을 받아랏💘]]></title>
+        <id>https://tv.naver.com/v/42188673</id>
+        <link href="https://tv.naver.com/v/42188673"/>
+        <updated>2023-11-01T11:10:10.436Z</updated>
+        <content type="html"><![CDATA[2:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[확~ 바뀐 ALL NEW 주간아를 소개합니다😊]]></title>
+        <id>https://tv.naver.com/v/42187807</id>
+        <link href="https://tv.naver.com/v/42187807"/>
+        <updated>2023-11-01T11:10:10.436Z</updated>
+        <content type="html"><![CDATA[1:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] ＜주간아의 야심찬 새 코너＞ 금둥이들이 특급 게스트와 펼치는 세기의 대결!! 지금 시작합니다!]]></title>
         <id>https://tv.naver.com/v/42080077</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/41215613"/>
         <updated>2023-10-11T12:23:39.842Z</updated>
         <content type="html"><![CDATA[3:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 635회 Shine With IVE편 예고]]></title>
-        <id>https://tv.naver.com/v/41222420</id>
-        <link href="https://tv.naver.com/v/41222420"/>
-        <updated>2023-10-11T12:23:39.844Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이구역 저주파 마스터✨ 톰제 좀비들 의 잡히면 감전된 닭~🐔 (ft. 바보쭈)]]></title>
-        <id>https://tv.naver.com/v/41237203</id>
-        <link href="https://tv.naver.com/v/41237203"/>
-        <updated>2023-10-11T12:23:39.847Z</updated>
-        <content type="html"><![CDATA[3:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂야 너네 바보 아니냐?!＂ 답답함 유발하는 히나영 팀의 잡히면 감전된 닭🐔]]></title>
-        <id>https://tv.naver.com/v/41236839</id>
-        <link href="https://tv.naver.com/v/41236839"/>
-        <updated>2023-10-11T12:23:39.851Z</updated>
-        <content type="html"><![CDATA[2:05]]></content>
     </entry>
 </feed>
