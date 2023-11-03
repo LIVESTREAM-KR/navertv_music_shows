@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-11-03T09:12:23.553Z</updated>
+    <updated>2023-11-03T10:12:54.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 637회 KISS OF LIFE편 예고]]></title>
+        <id>https://tv.naver.com/v/42294211</id>
+        <link href="https://tv.naver.com/v/42294211"/>
+        <updated>2023-11-03T10:12:48.133Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 4K캠] Golden Child (골든차일드) -  Feel Me l EP.636]]></title>
         <id>https://tv.naver.com/v/42180065</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/41547394"/>
         <updated>2023-10-18T11:10:40.776Z</updated>
         <content type="html"><![CDATA[1:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너무 뻔뻔하고 당당한(?) 갓기 아이브의 첫 랜덤 플레이 댄스]]></title>
-        <id>https://tv.naver.com/v/41547326</id>
-        <link href="https://tv.naver.com/v/41547326"/>
-        <updated>2023-10-18T11:10:40.779Z</updated>
-        <content type="html"><![CDATA[2:03]]></content>
     </entry>
 </feed>
