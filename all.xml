@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-07T10:13:23.053Z</updated>
+    <updated>2023-11-07T11:10:11.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[주간아 미방] 오또케송💗 이븐 Full ver. l EP.631 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/42461761</id>
+        <link href="https://tv.naver.com/v/42461761"/>
+        <updated>2023-11-07T11:10:05.306Z</updated>
+        <content type="html"><![CDATA[3:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 비트에 맞춰 쉐킷! 쉐킷! 흔들어! 몸이 절로 리듬 타게 하는 쥴띠의 만보기 노래방╰( ´・ω・)つ──☆✿✿✿✿✿✿ (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/42407928</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/41975614"/>
         <updated>2023-10-27T10:12:09.665Z</updated>
         <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다다음 주 실루엣 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/41551509</id>
-        <link href="https://tv.naver.com/v/41551509"/>
-        <updated>2023-10-18T12:22:59.229Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
