@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-11-06T23:11:30.607Z</updated>
+    <updated>2023-11-07T00:52:29.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 비트에 맞춰 쉐킷! 쉐킷! 흔들어! 몸이 절로 리듬 타게 하는 쥴띠의 만보기 노래방╰( ´・ω・)つ──☆✿✿✿✿✿✿]]></title>
+        <id>https://tv.naver.com/v/42407928</id>
+        <link href="https://tv.naver.com/v/42407928"/>
+        <updated>2023-11-07T00:52:24.733Z</updated>
+        <content type="html"><![CDATA[2:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 폭룡나띠의 파워풀한 댄스 커버가 보고 싶으시다고요?! 제대로 모시겠습니다ʕ •̀ o •́ ʔ]]></title>
+        <id>https://tv.naver.com/v/42407165</id>
+        <link href="https://tv.naver.com/v/42407165"/>
+        <updated>2023-11-07T00:52:24.735Z</updated>
+        <content type="html"><![CDATA[1:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 637회 KISS OF LIFE편 예고]]></title>
         <id>https://tv.naver.com/v/42294211</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/41551509"/>
         <updated>2023-10-18T12:22:59.229Z</updated>
         <content type="html"><![CDATA[0:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[랜플댄 현장에 나타난 모기(?) 한 마리ㅋㅋ 아기브 3차 시도 그 결과는?!]]></title>
-        <id>https://tv.naver.com/v/41548172</id>
-        <link href="https://tv.naver.com/v/41548172"/>
-        <updated>2023-10-18T11:10:40.773Z</updated>
-        <content type="html"><![CDATA[4:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[녕토끼야🐰 왈왈해봐🐶 배속 공격에 짱이브 모두가 멘붕 (っ °Д °;)っ]]></title>
-        <id>https://tv.naver.com/v/41547394</id>
-        <link href="https://tv.naver.com/v/41547394"/>
-        <updated>2023-10-18T11:10:40.776Z</updated>
-        <content type="html"><![CDATA[1:57]]></content>
     </entry>
 </feed>
