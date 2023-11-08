@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/navertv_music_shows/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-08T10:12:21.803Z</updated>
+    <updated>2023-11-08T11:10:00.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[천재강아띠의 안마 실력부터 이목구비 주장하는 쥴냥이의 자작 랩까지★ 어떻게 안 반해😘 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/42521052</id>
+        <link href="https://tv.naver.com/v/42521052"/>
+        <updated>2023-11-08T11:09:55.117Z</updated>
+        <content type="html"><![CDATA[2:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MC 은광과 고음 대결⚡부터 금손 인증까지! 벨리아나 그란데에 빠져봐😍 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/42520569</id>
+        <link href="https://tv.naver.com/v/42520569"/>
+        <updated>2023-11-08T11:09:55.118Z</updated>
+        <content type="html"><![CDATA[2:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[귀엽다 귀여워💕 MC들의 잇몸을 만개하는 키스오브라이프의 美친 텐션🔥 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/42519791</id>
+        <link href="https://tv.naver.com/v/42519791"/>
+        <updated>2023-11-08T11:09:55.120Z</updated>
+        <content type="html"><![CDATA[1:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간신곡] 모든 편견과 선입견은 거부❌ Born to be XX로 변신한🔥 KISS OF LIFE (키스오브라이프)의 ‘Bad News'♬ l EP.637 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
+        <id>https://tv.naver.com/v/42497001</id>
+        <link href="https://tv.naver.com/v/42497001"/>
+        <updated>2023-11-08T11:09:55.121Z</updated>
+        <content type="html"><![CDATA[2:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 미방] 오또케송💗 이븐 Full ver. l EP.631 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
         <id>https://tv.naver.com/v/42461761</id>
@@ -185,34 +213,6 @@
         <link href="https://tv.naver.com/v/42188673"/>
         <updated>2023-11-01T11:10:10.436Z</updated>
         <content type="html"><![CDATA[2:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[확~ 바뀐 ALL NEW 주간아를 소개합니다😊 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/42187807</id>
-        <link href="https://tv.naver.com/v/42187807"/>
-        <updated>2023-11-01T11:10:10.436Z</updated>
-        <content type="html"><![CDATA[1:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] ＜주간아의 야심찬 새 코너＞ 금둥이들이 특급 게스트와 펼치는 세기의 대결!! 지금 시작합니다! (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/42080077</id>
-        <link href="https://tv.naver.com/v/42080077"/>
-        <updated>2023-10-31T00:52:32.278Z</updated>
-        <content type="html"><![CDATA[1:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 골차의 입덕 요정 지버미의 매력을 보여줘ε٩(๑＞ ₃ ＜)۶з (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/42079514</id>
-        <link href="https://tv.naver.com/v/42079514"/>
-        <updated>2023-10-31T00:52:32.281Z</updated>
-        <content type="html"><![CDATA[1:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 636회 골든차일드편 예고 (MBC M 주간아이돌 ─ 네이버TV)]]></title>
-        <id>https://tv.naver.com/v/41975614</id>
-        <link href="https://tv.naver.com/v/41975614"/>
-        <updated>2023-10-27T10:12:09.665Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탱구찐팬이자 놀토 가족♥ 사랑스러움 넘치는 팔색조 매력의 설현#highlight (tvN 놀라운 토요일 ─ 네이버TV)]]></title>
