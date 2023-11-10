@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-11-10T09:11:34.096Z</updated>
+    <updated>2023-11-10T10:12:52.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 638회 ZEROBASEONE편 예고]]></title>
+        <id>https://tv.naver.com/v/42637680</id>
+        <link href="https://tv.naver.com/v/42637680"/>
+        <updated>2023-11-10T10:12:45.913Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] KISS OF LIFE (키스오브라이프) - Bad News l EP.637]]></title>
         <id>https://tv.naver.com/v/42439878</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/42177068</id>
         <link href="https://tv.naver.com/v/42177068"/>
         <updated>2023-11-02T10:13:33.287Z</updated>
-        <content type="html"><![CDATA[3:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] Golden Child KIM DONG HYUN - Feel me (골든차일드 김동현 - 필 미) l EP.636]]></title>
-        <id>https://tv.naver.com/v/42176768</id>
-        <link href="https://tv.naver.com/v/42176768"/>
-        <updated>2023-11-02T10:13:33.288Z</updated>
         <content type="html"><![CDATA[3:35]]></content>
     </entry>
 </feed>
