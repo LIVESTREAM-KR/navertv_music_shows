@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-11-11T10:11:07.346Z</updated>
+    <updated>2023-11-11T11:09:12.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] 키스오브라이프(KISS OF LIFE)의 K-POP 랜덤 플레이 댄스 (4K 직캠 Ver.) l #YouandMe #Spicy #Baddie 등 l EP.637]]></title>
+        <id>https://tv.naver.com/v/42579827</id>
+        <link href="https://tv.naver.com/v/42579827"/>
+        <updated>2023-11-11T11:09:08.337Z</updated>
+        <content type="html"><![CDATA[5:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 638회 ZEROBASEONE편 예고]]></title>
         <id>https://tv.naver.com/v/42637680</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42177070"/>
         <updated>2023-11-02T10:13:33.286Z</updated>
         <content type="html"><![CDATA[3:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] Golden Child LEE DAE YEOL - Feel me (골든차일드 이대열 - 필 미) l EP.636]]></title>
-        <id>https://tv.naver.com/v/42177068</id>
-        <link href="https://tv.naver.com/v/42177068"/>
-        <updated>2023-11-02T10:13:33.287Z</updated>
-        <content type="html"><![CDATA[3:35]]></content>
     </entry>
 </feed>
