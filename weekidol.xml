@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-11-13T23:11:47.375Z</updated>
+    <updated>2023-11-14T00:52:15.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 제로즈 소원 다 이루어dream★ 보기만해도 웅장해지는 한빈X건욱X유진 SuperM ＜호랑이 (Tiger Inside)＞ 커버 댄스!]]></title>
+        <id>https://tv.naver.com/v/42767276</id>
+        <link href="https://tv.naver.com/v/42767276"/>
+        <updated>2023-11-14T00:52:10.671Z</updated>
+        <content type="html"><![CDATA[2:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 센터즈가 주간아에서 최초공개 에피소드 풀었는데, 안보는 제로즈가 있다고!?ヘ（。□°）ヘ]]></title>
+        <id>https://tv.naver.com/v/42764823</id>
+        <link href="https://tv.naver.com/v/42764823"/>
+        <updated>2023-11-14T00:52:10.671Z</updated>
+        <content type="html"><![CDATA[1:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 직캠] 키스오브라이프(KISS OF LIFE)의 K-POP 랜덤 플레이 댄스 (4K 직캠 Ver.) l #YouandMe #Spicy #Baddie 등 l EP.637]]></title>
         <id>https://tv.naver.com/v/42579827</id>
@@ -199,20 +213,6 @@
         <id>https://tv.naver.com/v/42177668</id>
         <link href="https://tv.naver.com/v/42177668"/>
         <updated>2023-11-02T10:13:33.279Z</updated>
-        <content type="html"><![CDATA[3:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] Golden Child CHOI BO MIN - Feel me (골든차일드 최보민 - 필 미) l EP.636]]></title>
-        <id>https://tv.naver.com/v/42177350</id>
-        <link href="https://tv.naver.com/v/42177350"/>
-        <updated>2023-11-02T10:13:33.284Z</updated>
-        <content type="html"><![CDATA[3:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] Golden Child LEE JANG JUN - Feel me (골든차일드 이장준 - 필 미) l EP.636]]></title>
-        <id>https://tv.naver.com/v/42177070</id>
-        <link href="https://tv.naver.com/v/42177070"/>
-        <updated>2023-11-02T10:13:33.286Z</updated>
         <content type="html"><![CDATA[3:36]]></content>
     </entry>
 </feed>
