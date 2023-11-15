@@ -2,9 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-11-15T11:11:19.898Z</updated>
+    <updated>2023-11-15T12:22:51.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 짐벌캠] ZEROBASEONE (제로베이스원) -  CRUSH (가시) l EP.638]]></title>
+        <id>https://tv.naver.com/v/42857649</id>
+        <link href="https://tv.naver.com/v/42857649"/>
+        <updated>2023-11-15T12:22:44.697Z</updated>
+        <content type="html"><![CDATA[3:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] ZEROBASEONE (제로베이스원) -  CRUSH (가시) l EP.638]]></title>
+        <id>https://tv.naver.com/v/42857647</id>
+        <link href="https://tv.naver.com/v/42857647"/>
+        <updated>2023-11-15T12:22:44.698Z</updated>
+        <content type="html"><![CDATA[3:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] ZEROBASEONE HAN YUJIN - CRUSH (제로베이스원 한유진 - 가시) l EP.638]]></title>
+        <id>https://tv.naver.com/v/42860958</id>
+        <link href="https://tv.naver.com/v/42860958"/>
+        <updated>2023-11-15T12:22:44.698Z</updated>
+        <content type="html"><![CDATA[2:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] ZEROBASEONE ZHANG HAO - CRUSH (제로베이스원 장하오 - 가시) l EP.638]]></title>
+        <id>https://tv.naver.com/v/42860670</id>
+        <link href="https://tv.naver.com/v/42860670"/>
+        <updated>2023-11-15T12:22:44.698Z</updated>
+        <content type="html"><![CDATA[2:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] ZEROBASEONE SUNG HANBIN - CRUSH (제로베이스원 성한빈 - 가시) l EP.638]]></title>
+        <id>https://tv.naver.com/v/42860251</id>
+        <link href="https://tv.naver.com/v/42860251"/>
+        <updated>2023-11-15T12:22:44.707Z</updated>
+        <content type="html"><![CDATA[2:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] ZEROBASEONE SEOK MATTHEW - CRUSH (제로베이스원 석매튜 - 가시) l EP.638]]></title>
+        <id>https://tv.naver.com/v/42859949</id>
+        <link href="https://tv.naver.com/v/42859949"/>
+        <updated>2023-11-15T12:22:44.708Z</updated>
+        <content type="html"><![CDATA[2:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] ZEROBASEONE PARK GUNWOOK - CRUSH (제로베이스원 박건욱 - 가시) l EP.638]]></title>
+        <id>https://tv.naver.com/v/42859947</id>
+        <link href="https://tv.naver.com/v/42859947"/>
+        <updated>2023-11-15T12:22:44.709Z</updated>
+        <content type="html"><![CDATA[2:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] ZEROBASEONE RICKY - CRUSH (제로베이스원 리키 - 가시) l EP.638]]></title>
+        <id>https://tv.naver.com/v/42859945</id>
+        <link href="https://tv.naver.com/v/42859945"/>
+        <updated>2023-11-15T12:22:44.711Z</updated>
+        <content type="html"><![CDATA[2:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] ZEROBASEONE KIM TAERAE - CRUSH (제로베이스원 김태래 - 가시) l EP.638]]></title>
+        <id>https://tv.naver.com/v/42859943</id>
+        <link href="https://tv.naver.com/v/42859943"/>
+        <updated>2023-11-15T12:22:44.712Z</updated>
+        <content type="html"><![CDATA[2:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] ZEROBASEONE KIM JIWOONG - CRUSH (제로베이스원 김지웅 - 가시) l EP.638]]></title>
+        <id>https://tv.naver.com/v/42858877</id>
+        <link href="https://tv.naver.com/v/42858877"/>
+        <updated>2023-11-15T12:22:44.715Z</updated>
+        <content type="html"><![CDATA[2:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] ZEROBASEONE KIM GYUVIN - CRUSH (제로베이스원 김규빈 - 가시) l EP.638]]></title>
+        <id>https://tv.naver.com/v/42858672</id>
+        <link href="https://tv.naver.com/v/42858672"/>
+        <updated>2023-11-15T12:22:44.718Z</updated>
+        <content type="html"><![CDATA[2:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
+        <id>https://tv.naver.com/v/42867763</id>
+        <link href="https://tv.naver.com/v/42867763"/>
+        <updated>2023-11-15T12:22:44.721Z</updated>
+        <content type="html"><![CDATA[0:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잘하면 이기겠는데...? 히밥 vs 제로베이스원 최애 음식로 막상막하 먹방 대결⚡]]></title>
         <id>https://tv.naver.com/v/42887666</id>
@@ -130,89 +214,5 @@
         <link href="https://tv.naver.com/v/42439603"/>
         <updated>2023-11-08T12:21:42.200Z</updated>
         <content type="html"><![CDATA[2:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] KISS OF LIFE HANEUL - Bad News (키스오브라이프 하늘 - 배드 뉴스) l EP.637]]></title>
-        <id>https://tv.naver.com/v/42497562</id>
-        <link href="https://tv.naver.com/v/42497562"/>
-        <updated>2023-11-08T12:21:42.200Z</updated>
-        <content type="html"><![CDATA[2:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] KISS OF LIFE JULIE - Bad News (키스오브라이프 쥴리 - 배드 뉴스) l EP.637]]></title>
-        <id>https://tv.naver.com/v/42497561</id>
-        <link href="https://tv.naver.com/v/42497561"/>
-        <updated>2023-11-08T12:21:42.201Z</updated>
-        <content type="html"><![CDATA[2:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] KISS OF LIFE BELLE - Bad News (키스오브라이프 벨 - 배드 뉴스) l EP.637]]></title>
-        <id>https://tv.naver.com/v/42497401</id>
-        <link href="https://tv.naver.com/v/42497401"/>
-        <updated>2023-11-08T12:21:42.201Z</updated>
-        <content type="html"><![CDATA[2:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] KISS OF LIFE NATTY - Bad News (키스오브라이프 나띠 - 배드 뉴스) l EP.637]]></title>
-        <id>https://tv.naver.com/v/42497237</id>
-        <link href="https://tv.naver.com/v/42497237"/>
-        <updated>2023-11-08T12:21:42.204Z</updated>
-        <content type="html"><![CDATA[2:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
-        <id>https://tv.naver.com/v/42503323</id>
-        <link href="https://tv.naver.com/v/42503323"/>
-        <updated>2023-11-08T12:21:42.208Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨범접 불가🚨 극강의 텐션에 제대로 고삐 풀린 동생 라인 벨x하늘의 만보기 노래방🎤]]></title>
-        <id>https://tv.naver.com/v/42526784</id>
-        <link href="https://tv.naver.com/v/42526784"/>
-        <updated>2023-11-08T12:21:42.212Z</updated>
-        <content type="html"><![CDATA[4:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키오프의 먹방 속도에 놀랐쥬? 히밥 vs 키스오브라이프 만두🥟 먹방 대결⚡ (ft. MC 찬스)]]></title>
-        <id>https://tv.naver.com/v/42525985</id>
-        <link href="https://tv.naver.com/v/42525985"/>
-        <updated>2023-11-08T12:21:42.215Z</updated>
-        <content type="html"><![CDATA[9:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애기들아 괜찮아요 물지 않아요^^ 광광남매의 산독기 가득한 만보기 노래방🎤]]></title>
-        <id>https://tv.naver.com/v/42525588</id>
-        <link href="https://tv.naver.com/v/42525588"/>
-        <updated>2023-11-08T12:21:42.220Z</updated>
-        <content type="html"><![CDATA[2:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남다른 바이브 뿜뿜❤ 키스오브라이프의 K-POP 랜덤 플레이 댄스]]></title>
-        <id>https://tv.naver.com/v/42524446</id>
-        <link href="https://tv.naver.com/v/42524446"/>
-        <updated>2023-11-08T12:21:42.223Z</updated>
-        <content type="html"><![CDATA[2:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배속에도 꺼지지 않는 힙스터 모드🔥 입덕을 부르는 키스오브라이프의 'Bad News' 2배속 댄스]]></title>
-        <id>https://tv.naver.com/v/42523250</id>
-        <link href="https://tv.naver.com/v/42523250"/>
-        <updated>2023-11-08T12:21:42.234Z</updated>
-        <content type="html"><![CDATA[1:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭룡적 퍼포먼스로 주간아를 휩쓴 키스오브라이프의 'Pink Venom' 커버 댄스☺]]></title>
-        <id>https://tv.naver.com/v/42523245</id>
-        <link href="https://tv.naver.com/v/42523245"/>
-        <updated>2023-11-08T12:21:42.236Z</updated>
-        <content type="html"><![CDATA[1:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂내가 만나본 사람 중 제일 세🔥＂ 아기 백호 하늘이 힘 자랑부터 기타 연주&노래 안 보는 사람 손해임🥺]]></title>
-        <id>https://tv.naver.com/v/42522792</id>
-        <link href="https://tv.naver.com/v/42522792"/>
-        <updated>2023-11-08T12:21:42.239Z</updated>
-        <content type="html"><![CDATA[3:13]]></content>
     </entry>
 </feed>
