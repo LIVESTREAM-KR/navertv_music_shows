@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-11-20T23:12:18.590Z</updated>
+    <updated>2023-11-21T00:54:46.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 못 하는 게 없는 앰퍼샌드원이 말아주는 K-POP 랜덤플레이댄스! 큐티, 섹시 뭐든 다 가능(✧∇✧)╯]]></title>
+        <id>https://tv.naver.com/v/43107305</id>
+        <link href="https://tv.naver.com/v/43107305"/>
+        <updated>2023-11-21T00:54:42.628Z</updated>
+        <content type="html"><![CDATA[1:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[미방선공개] 제베원과 떠나는 즐거운 여행! 제로즈 준비됐어?!]]></title>
+        <id>https://tv.naver.com/v/43107938</id>
+        <link href="https://tv.naver.com/v/43107938"/>
+        <updated>2023-11-21T00:54:42.628Z</updated>
+        <content type="html"><![CDATA[4:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 직캠] 제로베이스원(ZEROBASEONE)의 K-POP 랜덤 플레이 댄스 (4K 직캠 Ver.) l #호랑이 #FactCheck #3D 등 l EP.638]]></title>
         <id>https://tv.naver.com/v/42941459</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/42764823"/>
         <updated>2023-11-14T00:52:10.671Z</updated>
         <content type="html"><![CDATA[1:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] 키스오브라이프(KISS OF LIFE)의 K-POP 랜덤 플레이 댄스 (4K 직캠 Ver.) l #YouandMe #Spicy #Baddie 등 l EP.637]]></title>
-        <id>https://tv.naver.com/v/42579827</id>
-        <link href="https://tv.naver.com/v/42579827"/>
-        <updated>2023-11-11T11:09:08.337Z</updated>
-        <content type="html"><![CDATA[5:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 638회 ZEROBASEONE편 예고]]></title>
-        <id>https://tv.naver.com/v/42637680</id>
-        <link href="https://tv.naver.com/v/42637680"/>
-        <updated>2023-11-10T10:12:45.913Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
     </entry>
 </feed>
