@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-11-22T11:10:43.415Z</updated>
+    <updated>2023-11-22T12:22:41.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 짐벌캠 l 4K] AMPERS&ONE (앰퍼샌드원) - On And On l EP.639]]></title>
+        <id>https://tv.naver.com/v/43204572</id>
+        <link href="https://tv.naver.com/v/43204572"/>
+        <updated>2023-11-22T12:22:36.751Z</updated>
+        <content type="html"><![CDATA[3:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 4K캠 l 현장음 ver.] AMPERS&ONE (앰퍼샌드원) - On And On l EP.639]]></title>
+        <id>https://tv.naver.com/v/43204569</id>
+        <link href="https://tv.naver.com/v/43204569"/>
+        <updated>2023-11-22T12:22:36.752Z</updated>
+        <content type="html"><![CDATA[3:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] AMPERS&ONE SEUNGMO - On And On (앰퍼샌드원 김승모 - 온 앤 온) l EP.639]]></title>
+        <id>https://tv.naver.com/v/43204529</id>
+        <link href="https://tv.naver.com/v/43204529"/>
+        <updated>2023-11-22T12:22:36.752Z</updated>
+        <content type="html"><![CDATA[3:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] AMPERS&ONE MACKIAH - On And On (앰퍼샌드원 마카야 - 온 앤 온) l EP.639]]></title>
+        <id>https://tv.naver.com/v/43204344</id>
+        <link href="https://tv.naver.com/v/43204344"/>
+        <updated>2023-11-22T12:22:36.753Z</updated>
+        <content type="html"><![CDATA[3:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] AMPERS&ONE KYRELL - On And On (앰퍼샌드원 카이렐 - 온 앤 온) l EP.639]]></title>
+        <id>https://tv.naver.com/v/43204343</id>
+        <link href="https://tv.naver.com/v/43204343"/>
+        <updated>2023-11-22T12:22:36.753Z</updated>
+        <content type="html"><![CDATA[3:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] AMPERS&ONE SIYUN - On And On (앰퍼샌드원 윤시윤 - 온 앤 온) l EP.639]]></title>
+        <id>https://tv.naver.com/v/43204012</id>
+        <link href="https://tv.naver.com/v/43204012"/>
+        <updated>2023-11-22T12:22:36.768Z</updated>
+        <content type="html"><![CDATA[3:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] AMPERS&ONE JIHO - On And On (앰퍼샌드원 최지호 - 온 앤 온) l EP.639]]></title>
+        <id>https://tv.naver.com/v/43203971</id>
+        <link href="https://tv.naver.com/v/43203971"/>
+        <updated>2023-11-22T12:22:36.770Z</updated>
+        <content type="html"><![CDATA[3:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] AMPERS&ONE BRIAN - On And On (앰퍼샌드원 브라이언 - 온 앤 온) l EP.639]]></title>
+        <id>https://tv.naver.com/v/43203970</id>
+        <link href="https://tv.naver.com/v/43203970"/>
+        <updated>2023-11-22T12:22:36.771Z</updated>
+        <content type="html"><![CDATA[3:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] AMPERS&ONE KAMDEN - On And On (앰퍼샌드원 나캠든 - 온 앤 온) l EP.639]]></title>
+        <id>https://tv.naver.com/v/43203802</id>
+        <link href="https://tv.naver.com/v/43203802"/>
+        <updated>2023-11-22T12:22:36.773Z</updated>
+        <content type="html"><![CDATA[3:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
+        <id>https://tv.naver.com/v/43209084</id>
+        <link href="https://tv.naver.com/v/43209084"/>
+        <updated>2023-11-22T12:22:36.776Z</updated>
+        <content type="html"><![CDATA[0:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Standing Next to You'부터 'Baggy Jeans'까지★ 어떻게 7센터샌드원에 안 반해😍]]></title>
         <id>https://tv.naver.com/v/43234976</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/42860670"/>
         <updated>2023-11-15T12:22:44.698Z</updated>
         <content type="html"><![CDATA[2:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] ZEROBASEONE SUNG HANBIN - CRUSH (제로베이스원 성한빈 - 가시) l EP.638]]></title>
-        <id>https://tv.naver.com/v/42860251</id>
-        <link href="https://tv.naver.com/v/42860251"/>
-        <updated>2023-11-15T12:22:44.707Z</updated>
-        <content type="html"><![CDATA[2:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] ZEROBASEONE SEOK MATTHEW - CRUSH (제로베이스원 석매튜 - 가시) l EP.638]]></title>
-        <id>https://tv.naver.com/v/42859949</id>
-        <link href="https://tv.naver.com/v/42859949"/>
-        <updated>2023-11-15T12:22:44.708Z</updated>
-        <content type="html"><![CDATA[2:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] ZEROBASEONE PARK GUNWOOK - CRUSH (제로베이스원 박건욱 - 가시) l EP.638]]></title>
-        <id>https://tv.naver.com/v/42859947</id>
-        <link href="https://tv.naver.com/v/42859947"/>
-        <updated>2023-11-15T12:22:44.709Z</updated>
-        <content type="html"><![CDATA[2:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] ZEROBASEONE RICKY - CRUSH (제로베이스원 리키 - 가시) l EP.638]]></title>
-        <id>https://tv.naver.com/v/42859945</id>
-        <link href="https://tv.naver.com/v/42859945"/>
-        <updated>2023-11-15T12:22:44.711Z</updated>
-        <content type="html"><![CDATA[2:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] ZEROBASEONE KIM TAERAE - CRUSH (제로베이스원 김태래 - 가시) l EP.638]]></title>
-        <id>https://tv.naver.com/v/42859943</id>
-        <link href="https://tv.naver.com/v/42859943"/>
-        <updated>2023-11-15T12:22:44.712Z</updated>
-        <content type="html"><![CDATA[2:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] ZEROBASEONE KIM JIWOONG - CRUSH (제로베이스원 김지웅 - 가시) l EP.638]]></title>
-        <id>https://tv.naver.com/v/42858877</id>
-        <link href="https://tv.naver.com/v/42858877"/>
-        <updated>2023-11-15T12:22:44.715Z</updated>
-        <content type="html"><![CDATA[2:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] ZEROBASEONE KIM GYUVIN - CRUSH (제로베이스원 김규빈 - 가시) l EP.638]]></title>
-        <id>https://tv.naver.com/v/42858672</id>
-        <link href="https://tv.naver.com/v/42858672"/>
-        <updated>2023-11-15T12:22:44.718Z</updated>
-        <content type="html"><![CDATA[2:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
-        <id>https://tv.naver.com/v/42867763</id>
-        <link href="https://tv.naver.com/v/42867763"/>
-        <updated>2023-11-15T12:22:44.721Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘하면 이기겠는데...? 히밥 vs 제로베이스원 최애 음식로 막상막하 먹방 대결⚡]]></title>
-        <id>https://tv.naver.com/v/42887666</id>
-        <link href="https://tv.naver.com/v/42887666"/>
-        <updated>2023-11-15T11:11:13.365Z</updated>
-        <content type="html"><![CDATA[12:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[편의점 가서 제베원 정식 먹을 제로즈 구함☺]]></title>
-        <id>https://tv.naver.com/v/42886299</id>
-        <link href="https://tv.naver.com/v/42886299"/>
-        <updated>2023-11-15T11:11:13.368Z</updated>
-        <content type="html"><![CDATA[1:06]]></content>
     </entry>
 </feed>
