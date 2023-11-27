@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-11-26T23:11:47.276Z</updated>
+    <updated>2023-11-27T00:54:56.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 640회 드림캐쳐편 예고]]></title>
+        <id>https://tv.naver.com/v/43341479</id>
+        <link href="https://tv.naver.com/v/43341479"/>
+        <updated>2023-11-27T00:54:51.038Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 직캠] 앰퍼샌드원(AMPERS&ONE)의 K-POP 랜덤 플레이 댄스(4K 직캠 Ver.)l #BaggyJeans #Rover #PerfectNight 등 lEP.639]]></title>
         <id>https://tv.naver.com/v/43208803</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42857647"/>
         <updated>2023-11-15T12:22:44.698Z</updated>
         <content type="html"><![CDATA[3:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠] ZEROBASEONE HAN YUJIN - CRUSH (제로베이스원 한유진 - 가시) l EP.638]]></title>
-        <id>https://tv.naver.com/v/42860958</id>
-        <link href="https://tv.naver.com/v/42860958"/>
-        <updated>2023-11-15T12:22:44.698Z</updated>
-        <content type="html"><![CDATA[2:54]]></content>
     </entry>
 </feed>
