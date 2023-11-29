@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-11-29T11:11:09.763Z</updated>
+    <updated>2023-11-29T12:22:12.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] Dreamcatcher (드림캐쳐) - OOTD l EP.640]]></title>
+        <id>https://tv.naver.com/v/43503253</id>
+        <link href="https://tv.naver.com/v/43503253"/>
+        <updated>2023-11-29T12:22:08.582Z</updated>
+        <content type="html"><![CDATA[3:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] Dreamcatcher (드림캐쳐) - OOTD l EP.640]]></title>
+        <id>https://tv.naver.com/v/43502972</id>
+        <link href="https://tv.naver.com/v/43502972"/>
+        <updated>2023-11-29T12:22:08.583Z</updated>
+        <content type="html"><![CDATA[3:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] Dreamcatcher GAHYEON - OOTD (드림캐쳐 가현 - 오오티디) l EP.640]]></title>
+        <id>https://tv.naver.com/v/43572254</id>
+        <link href="https://tv.naver.com/v/43572254"/>
+        <updated>2023-11-29T12:22:08.586Z</updated>
+        <content type="html"><![CDATA[3:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] Dreamcatcher DAMI - OOTD (드림캐쳐 다미 - 오오티디) l EP.640]]></title>
+        <id>https://tv.naver.com/v/43557822</id>
+        <link href="https://tv.naver.com/v/43557822"/>
+        <updated>2023-11-29T12:22:08.587Z</updated>
+        <content type="html"><![CDATA[3:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] Dreamcatcher YOOHYEON - OOTD (드림캐쳐 유현 - 오오티디) l EP.640]]></title>
+        <id>https://tv.naver.com/v/43557656</id>
+        <link href="https://tv.naver.com/v/43557656"/>
+        <updated>2023-11-29T12:22:08.588Z</updated>
+        <content type="html"><![CDATA[3:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] Dreamcatcher HANDONG - OOTD (드림캐쳐 한동 - 오오티디) l EP.640]]></title>
+        <id>https://tv.naver.com/v/43557529</id>
+        <link href="https://tv.naver.com/v/43557529"/>
+        <updated>2023-11-29T12:22:08.590Z</updated>
+        <content type="html"><![CDATA[3:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] Dreamcatcher SIYEON - OOTD (드림캐쳐 시연 - 오오티디) l EP.640]]></title>
+        <id>https://tv.naver.com/v/43557486</id>
+        <link href="https://tv.naver.com/v/43557486"/>
+        <updated>2023-11-29T12:22:08.593Z</updated>
+        <content type="html"><![CDATA[3:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] Dreamcatcher SUA - OOTD (드림캐쳐 수아 - 오오티디) l EP.640]]></title>
+        <id>https://tv.naver.com/v/43557326</id>
+        <link href="https://tv.naver.com/v/43557326"/>
+        <updated>2023-11-29T12:22:08.594Z</updated>
+        <content type="html"><![CDATA[3:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠 4K] Dreamcatcher JIU - OOTD (드림캐쳐 지유 - 오오티디) l EP.640]]></title>
+        <id>https://tv.naver.com/v/43557325</id>
+        <link href="https://tv.naver.com/v/43557325"/>
+        <updated>2023-11-29T12:22:08.595Z</updated>
+        <content type="html"><![CDATA[3:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
+        <id>https://tv.naver.com/v/43568741</id>
+        <link href="https://tv.naver.com/v/43568741"/>
+        <updated>2023-11-29T12:22:08.596Z</updated>
+        <content type="html"><![CDATA[0:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[히밥 vs 드림캐쳐! ㄴ상상도 못한 반전의 반전ㄱ을 자랑하는 먹방 대결⚡]]></title>
         <id>https://tv.naver.com/v/43592756</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/43204343"/>
         <updated>2023-11-22T12:22:36.753Z</updated>
         <content type="html"><![CDATA[3:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] AMPERS&ONE SIYUN - On And On (앰퍼샌드원 윤시윤 - 온 앤 온) l EP.639]]></title>
-        <id>https://tv.naver.com/v/43204012</id>
-        <link href="https://tv.naver.com/v/43204012"/>
-        <updated>2023-11-22T12:22:36.768Z</updated>
-        <content type="html"><![CDATA[3:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] AMPERS&ONE JIHO - On And On (앰퍼샌드원 최지호 - 온 앤 온) l EP.639]]></title>
-        <id>https://tv.naver.com/v/43203971</id>
-        <link href="https://tv.naver.com/v/43203971"/>
-        <updated>2023-11-22T12:22:36.770Z</updated>
-        <content type="html"><![CDATA[3:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] AMPERS&ONE BRIAN - On And On (앰퍼샌드원 브라이언 - 온 앤 온) l EP.639]]></title>
-        <id>https://tv.naver.com/v/43203970</id>
-        <link href="https://tv.naver.com/v/43203970"/>
-        <updated>2023-11-22T12:22:36.771Z</updated>
-        <content type="html"><![CDATA[3:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] AMPERS&ONE KAMDEN - On And On (앰퍼샌드원 나캠든 - 온 앤 온) l EP.639]]></title>
-        <id>https://tv.naver.com/v/43203802</id>
-        <link href="https://tv.naver.com/v/43203802"/>
-        <updated>2023-11-22T12:22:36.773Z</updated>
-        <content type="html"><![CDATA[3:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 다음 주 실루엣 예고]]></title>
-        <id>https://tv.naver.com/v/43209084</id>
-        <link href="https://tv.naver.com/v/43209084"/>
-        <updated>2023-11-22T12:22:36.776Z</updated>
-        <content type="html"><![CDATA[0:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['Standing Next to You'부터 'Baggy Jeans'까지★ 어떻게 7센터샌드원에 안 반해😍]]></title>
-        <id>https://tv.naver.com/v/43234976</id>
-        <link href="https://tv.naver.com/v/43234976"/>
-        <updated>2023-11-22T11:10:38.550Z</updated>
-        <content type="html"><![CDATA[1:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칼각은 기본 대형 완성도 PERFECT✨ 미친 싱크로율 자랑하는 앰퍼샌드원의 'On And On' 2배속 댄스]]></title>
-        <id>https://tv.naver.com/v/43234519</id>
-        <link href="https://tv.naver.com/v/43234519"/>
-        <updated>2023-11-22T11:10:38.551Z</updated>
-        <content type="html"><![CDATA[1:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[똑똑! 앰깅이들 커버 댄스 배달왔어요🤍 칼군무 자랑하는 앰퍼샌드원의 '음악의 신 (원곡 : 세븐틴)' 댄스]]></title>
-        <id>https://tv.naver.com/v/43234210</id>
-        <link href="https://tv.naver.com/v/43234210"/>
-        <updated>2023-11-22T11:10:38.551Z</updated>
-        <content type="html"><![CDATA[1:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역시 MZ돌 답군!!😎 스튜디오를 슬릭백으로 활보하는 김승모😮 (ft. 손가락 유연성)]]></title>
-        <id>https://tv.naver.com/v/43234206</id>
-        <link href="https://tv.naver.com/v/43234206"/>
-        <updated>2023-11-22T11:10:38.551Z</updated>
-        <content type="html"><![CDATA[3:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[표정 부자 팔척토끼 브라이언의 잔망 넘치는 'Butterfly (원곡 : 방탄소년단)' 댄스🐰]]></title>
-        <id>https://tv.naver.com/v/43233660</id>
-        <link href="https://tv.naver.com/v/43233660"/>
-        <updated>2023-11-22T11:10:38.564Z</updated>
-        <content type="html"><![CDATA[1:01]]></content>
     </entry>
 </feed>
