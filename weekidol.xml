@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-12-01T09:12:36.003Z</updated>
+    <updated>2023-12-01T10:13:12.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[주간아이돌 641회 BLACKSWAN & XODIAC 예고]]></title>
+        <id>https://tv.naver.com/v/43698542</id>
+        <link href="https://tv.naver.com/v/43698542"/>
+        <updated>2023-12-01T10:13:08.330Z</updated>
+        <content type="html"><![CDATA[0:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간신곡] Rock🤘으로 돌아온 꿈둥이들✨ 파격적이고 파괴적인 자신감을 표현한 드림캐쳐(Dreamcatcher)의 ‘ OOTD'♬ l EP.640]]></title>
         <id>https://tv.naver.com/v/43617225</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/43204529</id>
         <link href="https://tv.naver.com/v/43204529"/>
         <updated>2023-11-22T12:22:36.752Z</updated>
-        <content type="html"><![CDATA[3:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] AMPERS&ONE MACKIAH - On And On (앰퍼샌드원 마카야 - 온 앤 온) l EP.639]]></title>
-        <id>https://tv.naver.com/v/43204344</id>
-        <link href="https://tv.naver.com/v/43204344"/>
-        <updated>2023-11-22T12:22:36.753Z</updated>
         <content type="html"><![CDATA[3:16]]></content>
     </entry>
 </feed>
