@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-12-04T23:12:41.315Z</updated>
+    <updated>2023-12-05T00:54:58.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 자얀이한테는 너무 어려운 단어들(l|l⚆ᗝ⚆) 게임이 시작한 거 맞아??? 소디엑의 대환장 릴레이 고요 속의 외침!]]></title>
+        <id>https://tv.naver.com/v/43807997</id>
+        <link href="https://tv.naver.com/v/43807997"/>
+        <updated>2023-12-05T00:54:49.202Z</updated>
+        <content type="html"><![CDATA[1:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[방송선공개] 냅다 물구나무 서는 스리야! 걸그룹의 아크로바틱 본 적 있어? 받고 프리스타일 댄스도 들어간다!]]></title>
+        <id>https://tv.naver.com/v/43807402</id>
+        <link href="https://tv.naver.com/v/43807402"/>
+        <updated>2023-12-05T00:54:49.202Z</updated>
+        <content type="html"><![CDATA[1:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 641회 BLACKSWAN & XODIAC 예고]]></title>
         <id>https://tv.naver.com/v/43698542</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/43204572"/>
         <updated>2023-11-22T12:22:36.751Z</updated>
         <content type="html"><![CDATA[3:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 4K캠 l 현장음 ver.] AMPERS&ONE (앰퍼샌드원) - On And On l EP.639]]></title>
-        <id>https://tv.naver.com/v/43204569</id>
-        <link href="https://tv.naver.com/v/43204569"/>
-        <updated>2023-11-22T12:22:36.752Z</updated>
-        <content type="html"><![CDATA[3:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] AMPERS&ONE SEUNGMO - On And On (앰퍼샌드원 김승모 - 온 앤 온) l EP.639]]></title>
-        <id>https://tv.naver.com/v/43204529</id>
-        <link href="https://tv.naver.com/v/43204529"/>
-        <updated>2023-11-22T12:22:36.752Z</updated>
-        <content type="html"><![CDATA[3:16]]></content>
     </entry>
 </feed>
