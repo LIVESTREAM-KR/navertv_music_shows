@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-12-09T10:11:30.498Z</updated>
+    <updated>2023-12-09T11:10:26.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] 블랙스완 & 소디엑(BLACKSWAN & XODIAC)의 K-POP 랜덤 플레이 댄스 (4K 직캠 Ver.) l #Drama #Seven #락 등 l EP.641]]></title>
+        <id>https://tv.naver.com/v/43862036</id>
+        <link href="https://tv.naver.com/v/43862036"/>
+        <updated>2023-12-09T11:10:21.434Z</updated>
+        <content type="html"><![CDATA[5:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 642회 2023 예능돌 특집편 예고]]></title>
         <id>https://tv.naver.com/v/44035511</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/43592756"/>
         <updated>2023-11-29T11:11:05.145Z</updated>
         <content type="html"><![CDATA[13:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뭐? vs 뭐? 솨가 잘하는 게 뭐야 대체ㅋㅋ 톰과 제리의 티격태격 고요 속의 외침⚡]]></title>
-        <id>https://tv.naver.com/v/43591098</id>
-        <link href="https://tv.naver.com/v/43591098"/>
-        <updated>2023-11-29T11:11:05.145Z</updated>
-        <content type="html"><![CDATA[2:36]]></content>
     </entry>
 </feed>
