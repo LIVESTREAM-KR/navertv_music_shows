@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-12-10T10:11:43.066Z</updated>
+    <updated>2023-12-10T11:09:25.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 미방] 글로벌 아이돌들의 반전 매력💘 우쿨렐레 연주부터 빠질 수 없는 댄스까지🕺 l EP.641]]></title>
+        <id>https://tv.naver.com/v/43928812</id>
+        <link href="https://tv.naver.com/v/43928812"/>
+        <updated>2023-12-10T11:09:21.657Z</updated>
+        <content type="html"><![CDATA[3:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주간아 직캠] 블랙스완 & 소디엑(BLACKSWAN & XODIAC)의 K-POP 랜덤 플레이 댄스 (4K 직캠 Ver.) l #Drama #Seven #락 등 l EP.641]]></title>
         <id>https://tv.naver.com/v/43862036</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/43568741"/>
         <updated>2023-11-29T12:22:08.596Z</updated>
         <content type="html"><![CDATA[0:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[히밥 vs 드림캐쳐! ㄴ상상도 못한 반전의 반전ㄱ을 자랑하는 먹방 대결⚡]]></title>
-        <id>https://tv.naver.com/v/43592756</id>
-        <link href="https://tv.naver.com/v/43592756"/>
-        <updated>2023-11-29T11:11:05.145Z</updated>
-        <content type="html"><![CDATA[13:53]]></content>
     </entry>
 </feed>
