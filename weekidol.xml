@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-12-13T10:13:18.190Z</updated>
+    <updated>2023-12-13T11:10:36.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비주얼 대결?!😋 플러팅에 이용 당한 환웅 VS 준혁의 뿅망치 게임!]]></title>
+        <id>https://tv.naver.com/v/44284046</id>
+        <link href="https://tv.naver.com/v/44284046"/>
+        <updated>2023-12-13T11:10:31.305Z</updated>
+        <content type="html"><![CDATA[3:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[심리전 1도 안통하는 크래비티에 잔뜩 기 죽은 온앤오프ㅋㅋ]]></title>
+        <id>https://tv.naver.com/v/44284045</id>
+        <link href="https://tv.naver.com/v/44284045"/>
+        <updated>2023-12-13T11:10:31.305Z</updated>
+        <content type="html"><![CDATA[4:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[랜플댄에 등장한 아재 감성 한 스푼..🥄 너희가 즐거우면 됐다...🙄]]></title>
+        <id>https://tv.naver.com/v/44283251</id>
+        <link href="https://tv.naver.com/v/44283251"/>
+        <updated>2023-12-13T11:10:31.315Z</updated>
+        <content type="html"><![CDATA[3:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[＂MZ야?!＂ 원진 VS 이션의 은광 그리기 대결🎨]]></title>
+        <id>https://tv.naver.com/v/44282982</id>
+        <link href="https://tv.naver.com/v/44282982"/>
+        <updated>2023-12-13T11:10:31.315Z</updated>
+        <content type="html"><![CDATA[2:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그거 어떻게 하는건데..? 이션의 아바타 성대모사👽]]></title>
+        <id>https://tv.naver.com/v/44282662</id>
+        <link href="https://tv.naver.com/v/44282662"/>
+        <updated>2023-12-13T11:10:31.315Z</updated>
+        <content type="html"><![CDATA[2:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[＂사랑 시켜줄게! 말만해!!＂ 어딘가 무서운 성민의 반전 플러팅👀]]></title>
+        <id>https://tv.naver.com/v/44282661</id>
+        <link href="https://tv.naver.com/v/44282661"/>
+        <updated>2023-12-13T11:10:31.316Z</updated>
+        <content type="html"><![CDATA[3:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은광 업고 슬릭백 챌린지🔥 스쿼트로 기선 제압?😱 (ft. 트민남 반영)]]></title>
+        <id>https://tv.naver.com/v/44282393</id>
+        <link href="https://tv.naver.com/v/44282393"/>
+        <updated>2023-12-13T11:10:31.316Z</updated>
+        <content type="html"><![CDATA[2:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건희 VS 와이엇! 미주 부담스럽게 한 앞니 플러팅ㅋㅋ]]></title>
+        <id>https://tv.naver.com/v/44281905</id>
+        <link href="https://tv.naver.com/v/44281905"/>
+        <updated>2023-12-13T11:10:31.318Z</updated>
+        <content type="html"><![CDATA[1:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멤버 사진을 배경화면으로?💦 난이도 극악의 행위에 술렁이는 스튜디오ㅋㅋ🤣]]></title>
+        <id>https://tv.naver.com/v/44281481</id>
+        <link href="https://tv.naver.com/v/44281481"/>
+        <updated>2023-12-13T11:10:31.321Z</updated>
+        <content type="html"><![CDATA[2:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[＂왜 놀라지?＂ 이션보다 동생인 와이엇에 놀라는 동표😅]]></title>
+        <id>https://tv.naver.com/v/44281480</id>
+        <link href="https://tv.naver.com/v/44281480"/>
+        <updated>2023-12-13T11:10:31.322Z</updated>
+        <content type="html"><![CDATA[3:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[방송선공개] 애빼시 사랑둥이 성민공주과 천상계에서 지상계로 내려온 표앵두의 애교 빅 매치 성사! 과연 누가 승자일지?!]]></title>
         <id>https://tv.naver.com/v/44150446</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/43807402"/>
         <updated>2023-12-05T00:54:49.202Z</updated>
         <content type="html"><![CDATA[1:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주간아이돌 641회 BLACKSWAN & XODIAC 예고]]></title>
-        <id>https://tv.naver.com/v/43698542</id>
-        <link href="https://tv.naver.com/v/43698542"/>
-        <updated>2023-12-01T10:13:08.330Z</updated>
-        <content type="html"><![CDATA[0:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간신곡] Rock🤘으로 돌아온 꿈둥이들✨ 파격적이고 파괴적인 자신감을 표현한 드림캐쳐(Dreamcatcher)의 ‘ OOTD'♬ l EP.640]]></title>
-        <id>https://tv.naver.com/v/43617225</id>
-        <link href="https://tv.naver.com/v/43617225"/>
-        <updated>2023-11-30T00:54:14.928Z</updated>
-        <content type="html"><![CDATA[3:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 짐벌캠ㅣ4K] Dreamcatcher (드림캐쳐) - OOTD l EP.640]]></title>
-        <id>https://tv.naver.com/v/43503253</id>
-        <link href="https://tv.naver.com/v/43503253"/>
-        <updated>2023-11-29T12:22:08.582Z</updated>
-        <content type="html"><![CDATA[3:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 4K캠ㅣ현장음 ver.] Dreamcatcher (드림캐쳐) - OOTD l EP.640]]></title>
-        <id>https://tv.naver.com/v/43502972</id>
-        <link href="https://tv.naver.com/v/43502972"/>
-        <updated>2023-11-29T12:22:08.583Z</updated>
-        <content type="html"><![CDATA[3:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] Dreamcatcher GAHYEON - OOTD (드림캐쳐 가현 - 오오티디) l EP.640]]></title>
-        <id>https://tv.naver.com/v/43572254</id>
-        <link href="https://tv.naver.com/v/43572254"/>
-        <updated>2023-11-29T12:22:08.586Z</updated>
-        <content type="html"><![CDATA[3:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] Dreamcatcher DAMI - OOTD (드림캐쳐 다미 - 오오티디) l EP.640]]></title>
-        <id>https://tv.naver.com/v/43557822</id>
-        <link href="https://tv.naver.com/v/43557822"/>
-        <updated>2023-11-29T12:22:08.587Z</updated>
-        <content type="html"><![CDATA[3:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] Dreamcatcher YOOHYEON - OOTD (드림캐쳐 유현 - 오오티디) l EP.640]]></title>
-        <id>https://tv.naver.com/v/43557656</id>
-        <link href="https://tv.naver.com/v/43557656"/>
-        <updated>2023-11-29T12:22:08.588Z</updated>
-        <content type="html"><![CDATA[3:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] Dreamcatcher HANDONG - OOTD (드림캐쳐 한동 - 오오티디) l EP.640]]></title>
-        <id>https://tv.naver.com/v/43557529</id>
-        <link href="https://tv.naver.com/v/43557529"/>
-        <updated>2023-11-29T12:22:08.590Z</updated>
-        <content type="html"><![CDATA[3:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] Dreamcatcher SIYEON - OOTD (드림캐쳐 시연 - 오오티디) l EP.640]]></title>
-        <id>https://tv.naver.com/v/43557486</id>
-        <link href="https://tv.naver.com/v/43557486"/>
-        <updated>2023-11-29T12:22:08.593Z</updated>
-        <content type="html"><![CDATA[3:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주간아 직캠 4K] Dreamcatcher SUA - OOTD (드림캐쳐 수아 - 오오티디) l EP.640]]></title>
-        <id>https://tv.naver.com/v/43557326</id>
-        <link href="https://tv.naver.com/v/43557326"/>
-        <updated>2023-11-29T12:22:08.594Z</updated>
-        <content type="html"><![CDATA[3:02]]></content>
     </entry>
 </feed>
