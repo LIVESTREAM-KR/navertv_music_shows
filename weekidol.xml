@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tv.naver.com/weekidol/clips</id>
     <title>MBC M 주간아이돌 ─ 네이버TV</title>
-    <updated>2023-12-16T10:11:46.925Z</updated>
+    <updated>2023-12-16T11:09:23.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tv.naver.com/weekidol/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주간아 직캠] 2023년을 빛낸 예능돌들의 K-POP 랜덤 플레이 댄스 (4K 직캠 Ver.) l #손오공 #특 #Baddie 등 l EP.642]]></title>
+        <id>https://tv.naver.com/v/44309753</id>
+        <link href="https://tv.naver.com/v/44309753"/>
+        <updated>2023-12-16T11:09:18.977Z</updated>
+        <content type="html"><![CDATA[3:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주간아이돌 643회 2023 예능돌 특집편 2부 예고]]></title>
         <id>https://tv.naver.com/v/44388123</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/43931539"/>
         <updated>2023-12-06T11:10:27.738Z</updated>
         <content type="html"><![CDATA[2:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[방송선공개] 자얀이한테는 너무 어려운 단어들(l|l⚆ᗝ⚆) 게임이 시작한 거 맞아??? 소디엑의 대환장 릴레이 고요 속의 외침!]]></title>
-        <id>https://tv.naver.com/v/43807997</id>
-        <link href="https://tv.naver.com/v/43807997"/>
-        <updated>2023-12-05T00:54:49.202Z</updated>
-        <content type="html"><![CDATA[1:42]]></content>
     </entry>
 </feed>
